@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="analog" values="OFF|ON" default="OFF"/>
+		<setting label="30002" type="select" id="leds" values="Standard|Simplified|None" default="Standard"/>
+		<setting label="30003" type="select" id="resolution" values="640x400|640x432|640x480|640x540|704x480|704x540|720x480|720x540|800x600|1024x768" default="640x400"/>
+	</category>
+</settings>
