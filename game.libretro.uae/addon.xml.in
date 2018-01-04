@@ -17,7 +17,11 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Amiga (P-UAE) v2.6.1</summary>
-		<description>Supported files: .adf, .dms, .fdi, .ipf, .zip, .uae</description>
+		<description>UAE stands for the Ubiquitous Amiga Emulator.
+
+Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.
+
+Supported files: .adf, .dms, .fdi, .ipf, .zip, .uae</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
