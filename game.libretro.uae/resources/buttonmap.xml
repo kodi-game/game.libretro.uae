@@ -10,13 +10,13 @@
     <!-- Left -->
     <feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
     <!-- Fire / Mouse button 1 -->
-    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
+    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
     <!-- Mouse button 2 -->
-    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
+    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
     <!-- Possibly unused -->
-    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
     <!-- Enter GUI -->
-    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
     <!-- Keyboard overlay -->
     <feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
     <!-- Mouse mode toggle -->
