@@ -64,16 +64,16 @@
     <feature name="period" mapto="RETROK_PERIOD"/>
     <!-- Period -->
     <feature name="slash" mapto="RETROK_SLASH"/>
-    <feature name="zero" mapto="RETROK_0"/>
-    <feature name="one" mapto="RETROK_1"/>
-    <feature name="two" mapto="RETROK_2"/>
-    <feature name="three" mapto="RETROK_3"/>
-    <feature name="four" mapto="RETROK_4"/>
-    <feature name="five" mapto="RETROK_5"/>
-    <feature name="size" mapto="RETROK_6"/>
-    <feature name="seven" mapto="RETROK_7"/>
-    <feature name="eight" mapto="RETROK_8"/>
-    <feature name="nine" mapto="RETROK_9"/>
+    <feature name="0" mapto="RETROK_0"/>
+    <feature name="1" mapto="RETROK_1"/>
+    <feature name="2" mapto="RETROK_2"/>
+    <feature name="3" mapto="RETROK_3"/>
+    <feature name="4" mapto="RETROK_4"/>
+    <feature name="5" mapto="RETROK_5"/>
+    <feature name="6" mapto="RETROK_6"/>
+    <feature name="7" mapto="RETROK_7"/>
+    <feature name="8" mapto="RETROK_8"/>
+    <feature name="9" mapto="RETROK_9"/>
     <!-- LTGT -->
     <feature name="less" mapto="RETROK_LESS"/>
     <!-- Slash -->
