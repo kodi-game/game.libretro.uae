@@ -10,3 +10,5 @@ set(UAE_CUSTOM_BINARY ${UAE_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} UAE "")
+
+include(CPack)
