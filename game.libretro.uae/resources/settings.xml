@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="analog" values="OFF|ON" default="OFF"/>
-		<setting label="30002" type="select" id="leds" values="Standard|Simplified|None" default="Standard"/>
-		<setting label="30003" type="select" id="resolution" values="640x400|640x432|640x480|640x540|704x480|704x540|720x480|720x540|800x600|1024x768" default="640x400"/>
+		<setting label="30001" type="select" id="puae_analog" values="OFF|ON" default="OFF"/>
+		<setting label="30002" type="select" id="puae_cpu_compatible" values="true|false" default="true"/>
+		<setting label="30003" type="select" id="puae_cpu_speed" values="real|max" default="real"/>
+		<setting label="30004" type="select" id="puae_floppy_speed" values="100|200|300|400|500|600|700|800" default="100"/>
+		<setting label="30005" type="select" id="puae_gfx_center_horizontal" values="simple|smart|none" default="simple"/>
+		<setting label="30006" type="select" id="puae_gfx_center_vertical" values="simple|smart|none" default="simple"/>
+		<setting label="30007" type="select" id="puae_gfx_correct_aspect" values="true|false" default="true"/>
+		<setting label="30008" type="select" id="puae_immediate_blits" values="false|true" default="false"/>
+		<setting label="30009" type="select" id="puae_leds" values="Standard|Simplified|None" default="Standard"/>
+		<setting label="30010" type="select" id="puae_model" values="A600|A1200|A500" default="A600"/>
+		<setting label="30011" type="select" id="puae_ntsc" values="false|true" default="false"/>
+		<setting label="30012" type="select" id="puae_sound_channels" values="stereo|mixed|mono" default="stereo"/>
+		<setting label="30013" type="select" id="puae_sound_frequency" values="44100|22050|11025" default="44100"/>
+		<setting label="30014" type="select" id="puae_sound_interpol" values="none|rh|crux|sync" default="none"/>
+		<setting label="30015" type="select" id="puae_sound_output" values="normal|exact|interrupts|none" default="normal"/>
+		<setting label="30016" type="select" id="puae_video_crop_overscan" values="false|true" default="false"/>
+		<setting label="30017" type="select" id="puae_video_hires" values="false|true" default="false"/>
+		<setting label="30018" type="select" id="puae_video_standard" values="PAL|NTSC" default="PAL"/>
 	</category>
 </settings>

@@ -25,10 +25,70 @@ msgid "Use Analog"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Leds"
+msgid "CPU compatible"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Internal resolution"
+msgid "CPU speed"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Floppy speed"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Horizontal centering"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Vertical centering"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Correct aspect ratio"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Immediate blit"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Leds"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Model"
+msgstr ""
+
+msgctxt "#30011"
+msgid "NTSC chipset"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Sound channels"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Sound frequency"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Sound interpolation"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Sound output"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Crop overscan"
+msgstr ""
+
+msgctxt "#30017"
+msgid "High resolution"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Video standard"
 msgstr ""
 

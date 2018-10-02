@@ -12,17 +12,17 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>adf|dms|fdi|ipf|zip|uae</extensions>
+		<extensions>adf|dms|fdi|ipf|zip|hdf|hdz|uae|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Commodore - Amiga (P-UAE) v2.6.1</summary>
+		<summary lang="en_GB">Commodore - Amiga (P-UAE) 2.6.1</summary>
 		<description lang="en_GB">UAE stands for the Ubiquitous Amiga Emulator.
 
 Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.
 
-Supported files: .adf, .dms, .fdi, .ipf, .zip, .uae</description>
+Supported files: .adf, .dms, .fdi, .ipf, .zip, .hdf, .hdz, .uae, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
