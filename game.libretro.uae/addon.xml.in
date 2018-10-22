@@ -25,5 +25,6 @@ Most games require a version of the Amiga Kickstart ROM. However, some old games
 Supported files: .adf, .dms, .fdi, .ipf, .zip, .hdf, .hdz, .uae, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.uae</source>
 	</extension>
 </addon>
