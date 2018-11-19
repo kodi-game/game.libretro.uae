@@ -4,7 +4,7 @@ project(game.libretro.uae)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-uae REQUIRED)
+find_library(UAE_LIB NAMES puae_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(UAE_CUSTOM_BINARY ${UAE_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
