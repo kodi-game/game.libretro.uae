@@ -21,73 +21,181 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Use Analog"
-msgstr ""
-
-msgctxt "#30002"
 msgid "CPU compatible"
 msgstr ""
 
-msgctxt "#30003"
+msgctxt "#30002"
 msgid "CPU speed"
 msgstr ""
 
+msgctxt "#30003"
+msgid "CPU cycle exact"
+msgstr ""
+
 msgctxt "#30004"
-msgid "Floppy speed"
+msgid "Floppy sound emulation (restart)"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Horizontal centering"
+msgid "Floppy speed"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Vertical centering"
+msgid "Horizontal centering"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Correct aspect ratio"
+msgid "Vertical centering"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Immediate blit"
+msgid "Immediate blits"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Leds"
+msgid "RetroPad B"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Model"
+msgid "Hotkey: Enter GUI"
 msgstr ""
 
 msgctxt "#30011"
-msgid "NTSC chipset"
+msgid "RetroPad L"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Sound channels"
+msgid "RetroPad L2"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Sound frequency"
+msgid "RetroPad L3"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Sound interpolation"
+msgid "RetroPad L-Down"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Sound output"
+msgid "RetroPad L-Left"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Crop overscan"
+msgid "RetroPad L-Right"
 msgstr ""
 
 msgctxt "#30017"
-msgid "High resolution"
+msgid "RetroPad L-Up"
 msgstr ""
 
 msgctxt "#30018"
+msgid "Hotkey: Change mouse speed"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Hotkey: Toggle mouse"
+msgstr ""
+
+msgctxt "#30020"
+msgid "RetroPad R"
+msgstr ""
+
+msgctxt "#30021"
+msgid "RetroPad R2"
+msgstr ""
+
+msgctxt "#30022"
+msgid "RetroPad R3"
+msgstr ""
+
+msgctxt "#30023"
+msgid "RetroPad R-Down"
+msgstr ""
+
+msgctxt "#30024"
+msgid "RetroPad R-Left"
+msgstr ""
+
+msgctxt "#30025"
+msgid "RetroPad R-Right"
+msgstr ""
+
+msgctxt "#30026"
+msgid "RetroPad R-Up"
+msgstr ""
+
+msgctxt "#30027"
+msgid "RetroPad Select"
+msgstr ""
+
+msgctxt "#30028"
+msgid "RetroPad Start"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Hotkey: Toggle statusbar"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Hotkey: Toggle virtual keyboard"
+msgstr ""
+
+msgctxt "#30031"
+msgid "RetroPad X"
+msgstr ""
+
+msgctxt "#30032"
+msgid "RetroPad Y"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Model"
+msgstr ""
+
+msgctxt "#30034"
+msgid "NTSC chipset"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Sound channels"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Sound filter"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Sound filter type"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Sound frequency"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Sound interpolation"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Sound output"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Sound stereo separation"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Use WHDLoad.hdf"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Crop overscan"
+msgstr ""
+
+msgctxt "#30044"
+msgid "High resolution"
+msgstr ""
+
+msgctxt "#30045"
 msgid "Video standard"
 msgstr ""
