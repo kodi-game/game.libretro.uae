@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Commodore - Amiga (P-UAE) core for kodi's retroplayer
- Commodore - Amiga (P-UAE) core for kodi's retroplayer
+Description: Commodore - Amiga (PUAE) core for kodi's retroplayer
+ Commodore - Amiga (PUAE) core for kodi's retroplayer
