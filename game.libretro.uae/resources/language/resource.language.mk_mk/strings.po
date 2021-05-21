@@ -1,0 +1,365 @@
+# game.libretro.uae language file
+# Addon Name: game.libretro.uae
+# Addon id: game.libretro.uae
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.uae\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2021-05-14 05:39i\n"
+"PO-Revision-Date: 2021-05-14 05:39i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: mk_mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Model"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Show Automatic Model Options"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Model > Automatic Floppy"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Model > Automatic HD"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Model > Automatic CD"
+msgstr ""
+
+msgctxt "#30006"
+msgid "System > CPU Compatibility"
+msgstr ""
+
+msgctxt "#30007"
+msgid "System > CPU Speed"
+msgstr ""
+
+msgctxt "#30008"
+msgid "System > CPU Cycle-exact Speed"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Media > Floppy Speed"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Media > Floppy MultiDrive"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Media > Floppy Write Protection"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Media > CD Speed"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Media > CD Startup Delayed Insert"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Media > CD32/CDTV Shared NVRAM"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Media > Global Boot HD"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Media > WHDLoad Support"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Media > WHDLoad Splash Screen"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Show Video Options"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Video > Allow PAL/NTSC Hz Change"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Video > Standard"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Video > Resolution"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Video > Line Mode"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Video > Pixel Aspect Ratio"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Video > Zoom Mode"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Video > Zoom Mode Crop"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Video > Vertical Position"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Video > Horizontal Position"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Video > Remove Interlace Artifacts"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Video > Immediate/Waiting Blits"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Video > Collision Level"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Video > Frameskip"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Video > Statusbar Mode"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Video > Virtual KBD Theme"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Video > Virtual KBD Transparency"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Video > Color Depth"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Show Audio Options"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Audio > Stereo Separation"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Audio > Interpolation"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Audio > Filter"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Audio > Filter Type"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Audio > CD Audio Volume"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Audio > Floppy Sound Emulation"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Audio > Floppy Sound Mute Ejected"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Audio > Floppy Sound Type"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Input > Analog Stick Mouse"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Input > Analog Stick Mouse Deadzone"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Input > Analog Stick Mouse Speed"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Input > D-Pad Mouse Speed"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Input > Mouse Speed"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Input > Physical Mouse"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Input > Keyrah Keypad Mappings"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Input > Keyboard Pass-through"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Show Mapping Options"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Hotkey > Toggle Virtual Keyboard"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Hotkey > Toggle Statusbar"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Hotkey > Switch Joystick/Mouse"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Hotkey > Reset"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Hotkey > Toggle Aspect Ratio"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Hotkey > Toggle Zoom Mode"
+msgstr ""
+
+msgctxt "#30060"
+msgid "RetroPad > Select"
+msgstr ""
+
+msgctxt "#30061"
+msgid "RetroPad > Start"
+msgstr ""
+
+msgctxt "#30062"
+msgid "RetroPad > B"
+msgstr ""
+
+msgctxt "#30063"
+msgid "RetroPad > A"
+msgstr ""
+
+msgctxt "#30064"
+msgid "RetroPad > Y"
+msgstr ""
+
+msgctxt "#30065"
+msgid "RetroPad > X"
+msgstr ""
+
+msgctxt "#30066"
+msgid "RetroPad > L"
+msgstr ""
+
+msgctxt "#30067"
+msgid "RetroPad > R"
+msgstr ""
+
+msgctxt "#30068"
+msgid "RetroPad > L2"
+msgstr ""
+
+msgctxt "#30069"
+msgid "RetroPad > R2"
+msgstr ""
+
+msgctxt "#30070"
+msgid "RetroPad > L3"
+msgstr ""
+
+msgctxt "#30071"
+msgid "RetroPad > R3"
+msgstr ""
+
+msgctxt "#30072"
+msgid "RetroPad > Left Analog > Up"
+msgstr ""
+
+msgctxt "#30073"
+msgid "RetroPad > Left Analog > Down"
+msgstr ""
+
+msgctxt "#30074"
+msgid "RetroPad > Left Analog > Left"
+msgstr ""
+
+msgctxt "#30075"
+msgid "RetroPad > Left Analog > Right"
+msgstr ""
+
+msgctxt "#30076"
+msgid "RetroPad > Right Analog > Up"
+msgstr ""
+
+msgctxt "#30077"
+msgid "RetroPad > Right Analog > Down"
+msgstr ""
+
+msgctxt "#30078"
+msgid "RetroPad > Right Analog > Left"
+msgstr ""
+
+msgctxt "#30079"
+msgid "RetroPad > Right Analog > Right"
+msgstr ""
+
+msgctxt "#30080"
+msgid "RetroPad > Turbo Fire"
+msgstr ""
+
+msgctxt "#30081"
+msgid "RetroPad > Turbo Button"
+msgstr ""
+
+msgctxt "#30082"
+msgid "RetroPad > Turbo Pulse"
+msgstr ""
+
+msgctxt "#30083"
+msgid "RetroPad > Joystick/Mouse"
+msgstr ""
+
+msgctxt "#30084"
+msgid "RetroPad > Joyport Order"
+msgstr ""
+
+msgctxt "#30085"
+msgid "RetroPad > Face Button Options"
+msgstr ""
+
+msgctxt "#30086"
+msgid "CD32 Pad > Face Button Options"
+msgstr ""
