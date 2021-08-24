@@ -21,11 +21,7 @@ msgid "Commodore - Amiga (PUAE) 2.6.1"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "UAE stands for the Ubiquitous Amiga Emulator.
-
-Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.
-
-Supported files: .adf, .adz, .dms, .fdi, .ipf, .hdf, .hdz, .lha, .slave, .info, .cue, .ccd, .nrg, .mds, .iso, .chd, .uae, .m3u, .zip, .7z"
+msgid "UAE stands for the Ubiquitous Amiga Emulator.Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.Supported files: .adf, .adz, .dms, .fdi, .ipf, .hdf, .hdz, .lha, .slave, .info, .cue, .ccd, .nrg, .mds, .iso, .chd, .uae, .m3u, .zip, .7z"
 msgstr ""
 
 msgctxt "#30000"
