@@ -1,1 +1,1 @@
-uae https://github.com/libretro/libretro-uae/archive/989c7fe122164facaa501644997386c675fda88d.tar.gz
+uae https://github.com/libretro/libretro-uae/archive/fa7f17460d7939741baf25d1691bb1552342a4e6.tar.gz
