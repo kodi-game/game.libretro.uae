@@ -50,9 +50,9 @@
 		<setting label="30047" type="select" id="puae_floppy_sound_type" values="internal|A500|LOUD" default="internal"/>
 		<setting label="30048" type="select" id="puae_analogmouse" values="both|disabled|left|right" default="both"/>
 		<setting label="30049" type="select" id="puae_analogmouse_deadzone" values="20|0|5|10|15|25|30|35|40|45|50" default="20"/>
-		<setting label="30050" type="select" id="puae_analogmouse_speed" values="1.0|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0|2.1|2.2|2.3|2.4|2.5" default="1.0"/>
-		<setting label="30051" type="select" id="puae_dpadmouse_speed" values="6|3|4|5|7|8|9|10|11|12|13|14|15" default="6"/>
-		<setting label="30052" type="select" id="puae_mouse_speed" values="100|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
+		<setting label="30050" type="select" id="puae_analogmouse_speed" values="1.0|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0|2.1|2.2|2.3|2.4|2.5|2.6|2.7|2.8|2.9|3.0" default="1.0"/>
+		<setting label="30051" type="select" id="puae_dpadmouse_speed" values="6|1|2|3|4|5|7|8|9|10|11|12|13|14|15|16|17|18" default="6"/>
+		<setting label="30052" type="select" id="puae_mouse_speed" values="100|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200|210|220|230|240|250|260|270|280|290|300" default="100"/>
 		<setting label="30053" type="select" id="puae_physicalmouse" values="enabled|disabled|double" default="enabled"/>
 		<setting label="30054" type="select" id="puae_physical_keyboard_pass_through" values="disabled|enabled" default="disabled"/>
 		<setting label="30055" type="select" id="puae_keyrah_keypad_mappings" values="disabled|enabled" default="disabled"/>
