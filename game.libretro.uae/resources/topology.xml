@@ -7,6 +7,6 @@
     <accepts controller="game.controller.mouse"/>
   </port>
   <port type="controller" id="1">
-    <accepts controller="game.controller.default"/>
+    <accepts controller="game.controller.amiga.cd32"/>
   </port>
 </logicaltopology>
