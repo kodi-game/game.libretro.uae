@@ -1,0 +1,24 @@
+From 6cb9cd6d1c7bfafb95d3479158890a7820c3d088 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Wed, 10 Nov 2021 13:26:54 -0800
+Subject: [PATCH] Disable "-Wstringop-overflow=0" on Windows
+
+---
+ Makefile | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index b834962..58cc4f3 100644
+--- a/Makefile
++++ b/Makefile
+@@ -268,7 +268,6 @@ else ifneq (,$(findstring armv,$(platform)))
+ 
+ # Windows
+ else
+-   CFLAGS += -Wstringop-overflow=0
+    PLATFLAGS += -DWIN32
+    TARGET := $(TARGET_NAME)_libretro.dll
+    fpic := -fPIC
+-- 
+2.30.2
+
