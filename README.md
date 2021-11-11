@@ -15,7 +15,7 @@ GPLv2
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.uae/resources/icon.png)
 
 ### Fanart
 
