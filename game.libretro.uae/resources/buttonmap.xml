@@ -1,48 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-  <controller id="game.controller.default" type="RETRO_DEVICE_ANALOG">
-    <!-- Up -->
+  <controller id="game.controller.amiga.cd32" type="RETRO_DEVICE_ANALOG" subclass="1">
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
-    <!-- Down -->
     <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
-    <!-- Right -->
     <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
-    <!-- Left -->
     <feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
-    <!-- Fire / Mouse button 1 -->
-    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
-    <!-- Mouse button 2 -->
-    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
-    <!-- Possibly unused -->
-    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
-    <!-- Enter GUI -->
-    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
-    <!-- Keyboard overlay -->
-    <feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
-    <!-- Mouse mode toggle -->
-    <feature name="back" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
-    <!-- Toggle m/k status -->
-    <feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
-    <!-- Toggle sound -->
-    <feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
-    <!-- Joystick number -->
-    <feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
-    <!-- Mouse speed -->
-    <feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
-    <!-- Mouse pointer (joystick mode) -->
-    <feature name="leftstick" mapto="RETRO_DEVICE_INDEX_ANALOG_LEFT"/>
-    <!-- Mouse pointer (mouse mode) -->
-    <feature name="rightstick" mapto="RETRO_DEVICE_INDEX_ANALOG_RIGHT"/>
+    <feature name="red" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
+    <feature name="blue" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
+    <feature name="green" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+    <feature name="yellow" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+    <feature name="play" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
+    <feature name="rewind" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
+    <feature name="forward" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
+    <!-- TODO: Should these be added to game.controller.amiga.cd32?
+    <feature name="select" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+    <feature name="l2" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
+    <feature name="r2" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
+    <feature name="l3" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
+    <feature name="r3" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
+    -->
   </controller>
   <controller id="game.controller.mouse" type="RETRO_DEVICE_MOUSE">
     <feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
     <feature name="right" mapto="RETRO_DEVICE_ID_MOUSE_RIGHT"/>
     <feature name="middle" mapto="RETRO_DEVICE_ID_MOUSE_MIDDLE"/>
-    <feature name="wheelup" mapto="RETRO_DEVICE_ID_MOUSE_WHEELUP"/>
-    <feature name="wheeldown" mapto="RETRO_DEVICE_ID_MOUSE_WHEELDOWN"/>
-    <feature name="horizwheelup" mapto="RETRO_DEVICE_ID_MOUSE_HORIZ_WHEELUP"/>
-    <feature name="horizwheeldown" mapto="RETRO_DEVICE_ID_MOUSE_HORIZ_WHEELDOWN"/>
-    <feature name="pointer" mapto="RETRO_DEVICE_MOUSE"/>
   </controller>
   <controller id="game.controller.keyboard" type="RETRO_DEVICE_KEYBOARD">
     <feature name="backspace" mapto="RETROK_BACKSPACE"/>
