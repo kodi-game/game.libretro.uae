@@ -30,11 +30,11 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Model"
+msgid "System > Model"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Show Automatic Model Options"
+msgid "System > Show Automatic Model Options"
 msgstr ""
 
 msgctxt "#30003"
@@ -50,19 +50,19 @@ msgid "Model > Automatic CD"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Kickstart ROM"
+msgid "System > Kickstart ROM"
 msgstr ""
 
 msgctxt "#30007"
-msgid "CPU Compatibility"
+msgid "System > CPU Compatibility"
 msgstr ""
 
 msgctxt "#30008"
-msgid "CPU Speed"
+msgid "System > CPU Speed"
 msgstr ""
 
 msgctxt "#30009"
-msgid "CPU Cycle-exact Speed"
+msgid "System > CPU Cycle-exact Speed"
 msgstr ""
 
 msgctxt "#30010"
@@ -162,23 +162,23 @@ msgid "Video > Frameskip"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Video > Statusbar Mode"
+msgid "Video > Color Gamma"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Video > Virtual KBD Theme"
-msgstr ""
-
-msgctxt "#30036"
-msgid "Video > Virtual KBD Transparency"
-msgstr ""
-
-msgctxt "#30037"
 msgid "Video > Color Depth"
 msgstr ""
 
+msgctxt "#30036"
+msgid "OSD > Virtual KBD Theme"
+msgstr ""
+
+msgctxt "#30037"
+msgid "OSD > Virtual KBD Transparency"
+msgstr ""
+
 msgctxt "#30038"
-msgid "Video > Color Gamma"
+msgid "OSD > Statusbar Mode"
 msgstr ""
 
 msgctxt "#30039"
