@@ -25,6 +25,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Commodore - Amiga (PUAE) 2.6.1</summary>
+		<description lang="da_DK">UAE står for Ubiquitous Amiga Emulator.[CR][CR]De fleste spil kræver en version af Amiga Kickstart ROM. Nogle gamle spil vil dog fungere med den indbyggede ROM-emulering.</description>
 		<description lang="en_GB">UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.</description>
 		<description lang="es_MX">UAE es un acrónimo para Emulador de Amiga Ubicuo (Ubiquitous Amiga Emulator por sus siglas en inglés).[CR][CR]La mayoría de juegos requieren una versión de la Kickstart ROM de la Amiga. Sin embargo, algunos juegos antiguos funcionarán bien con la emulación de ROM incorporada.</description>
 	</extension>
