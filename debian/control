@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-uae (>= 2.6.1) | uae (>= 2.6.1)
+               libretro-uae (>= 4.9.1) | uae (>= 4.9.1)
 Standards-Version: 3.9.8
 Section: libs
 
