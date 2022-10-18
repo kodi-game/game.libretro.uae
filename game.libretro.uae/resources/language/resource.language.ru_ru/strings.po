@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: game.libretro.uae\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-14 05:39i\n"
-"PO-Revision-Date: 2022-08-12 14:14+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2022-10-18 18:15+0000\n"
+"Last-Translator: NickR <honey_walley.hv4qz@slmail.me>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-uae/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13\n"
+"X-Generator: Weblate 4.14.1\n"
 
 msgctxt "Addon Summary"
 msgid "Commodore - Amiga (PUAE) 2.6.1"
@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
-msgstr ""
+msgstr "UAE расшифровывается как Ubiquitous Amiga Emulator.[CR][CR]Для большинства игр требуется определённая версия Amiga Kickstart ROM. Тем не менее некоторые старые игры могут быть запущены с помощью встроенного эмулятора ROM."
 
 msgctxt "#30000"
 msgid "Settings"
@@ -35,71 +35,71 @@ msgstr "Система > Модель"
 
 msgctxt "#30002"
 msgid "System > Show Automatic Model Options"
-msgstr ""
+msgstr "Система > Показать настройки для \"автоматической\" модели"
 
 msgctxt "#30003"
 msgid "Model > Automatic Floppy"
-msgstr ""
+msgstr "Модель > \"автоматическая\" для Floppy"
 
 msgctxt "#30004"
 msgid "Model > Automatic HD"
-msgstr ""
+msgstr "Модель > \"автоматическая\" для HD"
 
 msgctxt "#30005"
 msgid "Model > Automatic CD"
-msgstr ""
+msgstr "Модель > \"автоматическая\" для CD"
 
 msgctxt "#30006"
 msgid "System > Kickstart ROM"
-msgstr ""
+msgstr "Система > Kickstart ROM"
 
 msgctxt "#30007"
 msgid "System > Chip RAM"
-msgstr ""
+msgstr "Система > Чип RAM"
 
 msgctxt "#30008"
 msgid "System > Slow RAM"
-msgstr ""
+msgstr "Система > Замедление RAM"
 
 msgctxt "#30009"
 msgid "System > Z2 Fast RAM"
-msgstr ""
+msgstr "Система > Z2 Быстрая RAM"
 
 msgctxt "#30010"
 msgid "System > Z3 Fast RAM"
-msgstr ""
+msgstr "Система > Z3 быстрая RAM"
 
 msgctxt "#30011"
 msgid "System > CPU Model"
-msgstr ""
+msgstr "Система > Модель CPU"
 
 msgctxt "#30012"
 msgid "System > FPU Model"
-msgstr ""
+msgstr "Система > Модель FPU"
 
 msgctxt "#30013"
 msgid "System > CPU Speed"
-msgstr ""
+msgstr "Система > Скорость CPU"
 
 msgctxt "#30014"
 msgid "System > CPU Cycle-exact Speed"
-msgstr ""
+msgstr "Система > Точная тактовая частота"
 
 msgctxt "#30015"
 msgid "System > CPU Compatibility"
-msgstr ""
+msgstr "Система > Совместимость CPU"
 
 msgctxt "#30016"
 msgid "Media > Automatic Load Fast-Forward"
-msgstr ""
+msgstr "Медиа > Автоматически загружаться в режиме ускоренной перемотки"
 
 msgctxt "#30017"
 msgid "Media > Floppy Speed"
-msgstr ""
+msgstr "Медиа > Скорость дискеты"
 
 msgctxt "#30018"
 msgid "Media > Floppy MultiDrive"
-msgstr ""
+msgstr "Медиа > Режим нескольких приводов для дискет (MultiDrive)"
 
 msgctxt "#30019"
 msgid "Media > Floppy Write Protection"
@@ -107,31 +107,31 @@ msgstr "Медиа > Защита записи дискеты"
 
 msgctxt "#30020"
 msgid "Media > CD Speed"
-msgstr ""
+msgstr "Медиа > Скорость CD"
 
 msgctxt "#30021"
 msgid "Media > CD Startup Delayed Insert"
-msgstr ""
+msgstr "Медиа > Отложенная вставка CD при запуске"
 
 msgctxt "#30022"
 msgid "Media > CD32/CDTV Shared NVRAM"
-msgstr ""
+msgstr "Медиа > CD32/CDTV используют общий NVRAM"
 
 msgctxt "#30023"
 msgid "Media > WHDLoad Support"
-msgstr ""
+msgstr "Медиа > Поддержка WHDLoad"
 
 msgctxt "#30024"
 msgid "Media > WHDLoad Theme"
-msgstr ""
+msgstr "Медиа > Тема WHDLoad"
 
 msgctxt "#30025"
 msgid "Media > WHDLoad Splash Screen"
-msgstr ""
+msgstr "Медиа > Всплывающий экран WHDLoad"
 
 msgctxt "#30026"
 msgid "Media > Global Boot HD"
-msgstr ""
+msgstr "Медиа > \"Глобальная\" загрузка жёсткого диска"
 
 msgctxt "#30027"
 msgid "Show Video Options"
@@ -139,19 +139,19 @@ msgstr "Показать настройки видео"
 
 msgctxt "#30028"
 msgid "Video > Allow Hz Change"
-msgstr ""
+msgstr "Видео > Разрешить изменение Hz"
 
 msgctxt "#30029"
 msgid "Video > Standard"
-msgstr ""
+msgstr "Видео > Система"
 
 msgctxt "#30030"
 msgid "Video > Resolution"
-msgstr ""
+msgstr "Видео > Разрешение"
 
 msgctxt "#30031"
 msgid "Video > Line Mode"
-msgstr ""
+msgstr "Видео > Режим линии"
 
 msgctxt "#30032"
 msgid "Video > Pixel Aspect Ratio"
@@ -159,7 +159,7 @@ msgstr "Видео > Пиксельное соотношение сторон"
 
 msgctxt "#30033"
 msgid "Video > Crop"
-msgstr ""
+msgstr "Видео > Обрезка"
 
 msgctxt "#30034"
 msgid "Video > Zoom Mode"
@@ -167,7 +167,7 @@ msgstr "Видео > Режим масштабирования"
 
 msgctxt "#30035"
 msgid "Video > Crop Mode"
-msgstr ""
+msgstr "Видео > Режим обрезки"
 
 msgctxt "#30036"
 msgid "Video > Zoom Mode Crop"
@@ -175,31 +175,31 @@ msgstr "Видео > урезанный режим масштабировани�
 
 msgctxt "#30037"
 msgid "Video > Vertical Position"
-msgstr ""
+msgstr "Видео > Вертикальное положение"
 
 msgctxt "#30038"
 msgid "Video > Horizontal Position"
-msgstr ""
+msgstr "Видео > Горизонтальное положение"
 
 msgctxt "#30039"
 msgid "Video > Remove Interlace Artifacts"
-msgstr ""
+msgstr "Видео > Убрать артефакты чересстрочной развёртки"
 
 msgctxt "#30040"
 msgid "Video > Immediate/Waiting Blits"
-msgstr ""
+msgstr "Видео > Принудительные/С задержкой бит-блиты"
 
 msgctxt "#30041"
 msgid "Video > Collision Level"
-msgstr ""
+msgstr "Видео > Уровень коллизии"
 
 msgctxt "#30042"
 msgid "Video > Frameskip"
-msgstr ""
+msgstr "Видео > Frameskip"
 
 msgctxt "#30043"
 msgid "Video > Color Gamma"
-msgstr ""
+msgstr "Видео > Цветовая гамма"
 
 msgctxt "#30044"
 msgid "Video > Color Depth"
@@ -215,7 +215,7 @@ msgstr "OSD > Прозрачность виртуальной KBD"
 
 msgctxt "#30047"
 msgid "OSD > Virtual KBD Dimming"
-msgstr ""
+msgstr "OSD > Виртуальное затемнение KBD"
 
 msgctxt "#30048"
 msgid "OSD > Statusbar Mode"
@@ -223,7 +223,7 @@ msgstr "OSD > Режим строки состояния"
 
 msgctxt "#30049"
 msgid "OSD > Statusbar Messages"
-msgstr ""
+msgstr "OSD > Сообщения строки состояния"
 
 msgctxt "#30050"
 msgid "Show Audio Options"
@@ -231,23 +231,23 @@ msgstr "Показать настройки аудио"
 
 msgctxt "#30051"
 msgid "Audio > Stereo Separation"
-msgstr ""
+msgstr "Аудио > Разделение стереозвука"
 
 msgctxt "#30052"
 msgid "Audio > Interpolation"
-msgstr ""
+msgstr "Аудио > Интерполяция"
 
 msgctxt "#30053"
 msgid "Audio > Filter"
-msgstr ""
+msgstr "Аудио > Фильтр"
 
 msgctxt "#30054"
 msgid "Audio > Filter Type"
-msgstr ""
+msgstr "Аудио > Тип фильтра"
 
 msgctxt "#30055"
 msgid "Audio > CD Audio Volume"
-msgstr ""
+msgstr "Аудио > Уровень громкости звука CD"
 
 msgctxt "#30056"
 msgid "Audio > Floppy Sound Emulation"
