@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.uae"
 		name="Commodore - Amiga (PUAE)"
-		version="4.9.1.36"
+		version="4.9.1.37"
 		provider-name="UAE Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,7 +12,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>adf|adz|dms|fdi|ipf|hdf|hdz|lha|slave|info|cue|ccd|nrg|mds|iso|chd|uae|m3u|zip|7z</extensions>
+		<extensions>adf|adz|dms|fdi|raw|ipf|hdf|hdz|lha|slave|info|cue|ccd|nrg|mds|iso|chd|uae|m3u|zip|7z</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
 		<requires_opengl>false</requires_opengl>
