@@ -25,434 +25,434 @@ msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
 msgstr "UAE son las siglas de Ubiquitous Amiga Emulator.[CR][CR]La mayoría de los juegos requieren una versión de la ROM Amiga Kickstart. Sin embargo, algunos juegos antiguos funcionarán con la emulación ROM incorporada."
 
-#~ msgctxt "#30000"
-#~ msgid "Settings"
-#~ msgstr "Ajustes"
-
-#~ msgctxt "#30001"
-#~ msgid "System > Model"
-#~ msgstr "Sistema > Modelo"
-
-#~ msgctxt "#30002"
-#~ msgid "System > Show Automatic Model Options"
-#~ msgstr "Sistema > Mostrar Opciones del Modelo Automático"
-
-#~ msgctxt "#30003"
-#~ msgid "Model > Automatic Floppy"
-#~ msgstr "Modelo > Floppy Automático"
-
-#~ msgctxt "#30004"
-#~ msgid "Model > Automatic HD"
-#~ msgstr "Modelo > HD Automático"
-
-#~ msgctxt "#30005"
-#~ msgid "Model > Automatic CD"
-#~ msgstr "Modelo > CD Automático"
-
-#~ msgctxt "#30006"
-#~ msgid "System > Kickstart ROM"
-#~ msgstr "Sistema > ROM de Arranque"
-
-#~ msgctxt "#30007"
-#~ msgid "System > Chip RAM"
-#~ msgstr "Sistema > Chip RAM"
-
-#~ msgctxt "#30008"
-#~ msgid "System > Slow RAM"
-#~ msgstr "Sistema > RAM Lenta"
-
-#~ msgctxt "#30009"
-#~ msgid "System > Z2 Fast RAM"
-#~ msgstr "Sistema > RAM Rápida Z2"
-
-#~ msgctxt "#30010"
-#~ msgid "System > Z3 Fast RAM"
-#~ msgstr "Sistema > RAM Rápida Z3"
-
-#~ msgctxt "#30011"
-#~ msgid "System > CPU Model"
-#~ msgstr "Sistema > Modelo de CPU"
-
-#~ msgctxt "#30012"
-#~ msgid "System > FPU Model"
-#~ msgstr "Sistema > Modelo FPU"
-
-#~ msgctxt "#30013"
-#~ msgid "System > CPU Speed"
-#~ msgstr "Sistema > Velocidad de la CPU"
-
-#~ msgctxt "#30014"
-#~ msgid "System > CPU Cycle-exact Speed"
-#~ msgstr "Sistema > Velocidad Exacta del Ciclo de la CPU"
-
-#~ msgctxt "#30015"
-#~ msgid "System > CPU Compatibility"
-#~ msgstr "Sistema > Compatibilidad CPU"
-
-#~ msgctxt "#30016"
-#~ msgid "Media > Automatic Load Fast-Forward"
-#~ msgstr "Medios > Carga Automática Avance Rápido"
-
-#~ msgctxt "#30017"
-#~ msgid "Media > Floppy Speed"
-#~ msgstr "Medios > Velocidad del Disquete"
-
-#~ msgctxt "#30018"
-#~ msgid "Media > Floppy MultiDrive"
-#~ msgstr "Medios > Floppy MultiDrive"
-
-#~ msgctxt "#30019"
-#~ msgid "Media > Floppy Write Protection"
-#~ msgstr "Medios > Protección Contra Escritura de Disquetes"
-
-#~ msgctxt "#30020"
-#~ msgid "Media > CD Speed"
-#~ msgstr "Medios > Velocidad del CD"
-
-#~ msgctxt "#30021"
-#~ msgid "Media > CD Startup Delayed Insert"
-#~ msgstr "Medios > Inserción Retardada al Iniciar CD"
-
-#~ msgctxt "#30022"
-#~ msgid "Media > CD32/CDTV Shared NVRAM"
-#~ msgstr "Medios > NVRAM compartida CD32/CDTV"
-
-#~ msgctxt "#30023"
-#~ msgid "Media > WHDLoad Support"
-#~ msgstr "Medios > Soporte WHDLoad"
-
-#~ msgctxt "#30024"
-#~ msgid "Media > WHDLoad Theme"
-#~ msgstr "Medios > Tema WHDLoad"
-
-#~ msgctxt "#30025"
-#~ msgid "Media > WHDLoad Splash Screen"
-#~ msgstr "Medios > WHDLoad Pantalla Bienvenida"
-
-#~ msgctxt "#30026"
-#~ msgid "Media > Global Boot HD"
-#~ msgstr "Medios > HD de Arranque Global"
-
-#~ msgctxt "#30027"
-#~ msgid "Show Video Options"
-#~ msgstr "Mostrar Opciones de Vídeo"
-
-#~ msgctxt "#30028"
-#~ msgid "Video > Allow Hz Change"
-#~ msgstr "Vídeo > Permitir Cambio de Hz"
-
-#~ msgctxt "#30029"
-#~ msgid "Video > Standard"
-#~ msgstr "Vídeo > Estándar"
-
-#~ msgctxt "#30030"
-#~ msgid "Video > Resolution"
-#~ msgstr "Vídeo > Resolución"
-
-#~ msgctxt "#30031"
-#~ msgid "Video > Line Mode"
-#~ msgstr "Vídeo > Modo Línea"
-
-#~ msgctxt "#30032"
-#~ msgid "Video > Pixel Aspect Ratio"
-#~ msgstr "Vídeo > Proporción de Píxeles"
-
-#~ msgctxt "#30033"
-#~ msgid "Video > Crop"
-#~ msgstr "Vídeo > Recortar"
-
-#~ msgctxt "#30034"
-#~ msgid "Video > Zoom Mode"
-#~ msgstr "Vídeo > Modo Zoom"
-
-#~ msgctxt "#30035"
-#~ msgid "Video > Crop Mode"
-#~ msgstr "Vídeo > Modo de Recorte"
-
-#~ msgctxt "#30036"
-#~ msgid "Video > Zoom Mode Crop"
-#~ msgstr "Vídeo > Modo Zoom Recortar"
-
-#~ msgctxt "#30037"
-#~ msgid "Video > Vertical Position"
-#~ msgstr "Vídeo > Posición Vertical"
-
-#~ msgctxt "#30038"
-#~ msgid "Video > Horizontal Position"
-#~ msgstr "Vídeo > Posición Horizontal"
-
-#~ msgctxt "#30039"
-#~ msgid "Video > Remove Interlace Artifacts"
-#~ msgstr "Vídeo > Eliminar Artefactos del Entrelazado"
-
-#~ msgctxt "#30040"
-#~ msgid "Video > Immediate/Waiting Blits"
-#~ msgstr "Vídeo > Ráfagas Inmediatas/En Espera"
-
-#~ msgctxt "#30041"
-#~ msgid "Video > Collision Level"
-#~ msgstr "Vídeo > Nivel de Colisión"
-
-#~ msgctxt "#30042"
-#~ msgid "Video > Frameskip"
-#~ msgstr "Vídeo > Salto de Fotogramas"
-
-#~ msgctxt "#30043"
-#~ msgid "Video > Color Gamma"
-#~ msgstr "Vídeo > Color Gamma"
-
-#~ msgctxt "#30044"
-#~ msgid "Video > Color Depth"
-#~ msgstr "Vídeo > Profundidad del Color"
-
-#~ msgctxt "#30045"
-#~ msgid "OSD > Virtual KBD Theme"
-#~ msgstr "OSD > Tema KBD Virtual"
-
-#~ msgctxt "#30046"
-#~ msgid "OSD > Virtual KBD Transparency"
-#~ msgstr "OSD > Transparencia KBD Virtual"
-
-#~ msgctxt "#30047"
-#~ msgid "OSD > Virtual KBD Dimming"
-#~ msgstr "OSD > Atenuación KBD Virtual"
-
-#~ msgctxt "#30048"
-#~ msgid "OSD > Statusbar Mode"
-#~ msgstr "OSD > Modo Barra de Estado"
-
-#~ msgctxt "#30049"
-#~ msgid "OSD > Statusbar Messages"
-#~ msgstr "OSD > Mensajes en la Barra de Estado"
-
-#~ msgctxt "#30050"
-#~ msgid "Show Audio Options"
-#~ msgstr "Mostrar Opciones de Audio"
-
-#~ msgctxt "#30051"
-#~ msgid "Audio > Stereo Separation"
-#~ msgstr "Audio > Separación Estéreo"
-
-#~ msgctxt "#30052"
-#~ msgid "Audio > Interpolation"
-#~ msgstr "Audio > Interpolación"
-
-#~ msgctxt "#30053"
-#~ msgid "Audio > Filter"
-#~ msgstr "Audio > Filtro"
-
-#~ msgctxt "#30054"
-#~ msgid "Audio > Filter Type"
-#~ msgstr "Audio > Tipo de Filtro"
-
-#~ msgctxt "#30055"
-#~ msgid "Audio > CD Audio Volume"
-#~ msgstr "Audio > Volumen CD de Audio"
-
-#~ msgctxt "#30056"
-#~ msgid "Audio > Floppy Sound Emulation"
-#~ msgstr "Audio > Emulación de Sonido de Disquete"
-
-#~ msgctxt "#30057"
-#~ msgid "Audio > Floppy Sound Mute Ejected"
-#~ msgstr "Audio > Expulsión Silenciosa del Disquete"
-
-#~ msgctxt "#30058"
-#~ msgid "Audio > Floppy Sound Type"
-#~ msgstr "Audio > Tipo de Sonido de Disquete"
-
-#~ msgctxt "#30059"
-#~ msgid "Input > Analog Stick Mouse"
-#~ msgstr "Entrada > Ratón con Stick Analógico"
-
-#~ msgctxt "#30060"
-#~ msgid "Input > Analog Stick Mouse Deadzone"
-#~ msgstr "Entrada > Zona Muerta del Ratón con Stick Analógico"
-
-#~ msgctxt "#30061"
-#~ msgid "Input > Analog Stick Mouse Speed"
-#~ msgstr "Entrada > Velocidad del Ratón con Stick Analógico"
-
-#~ msgctxt "#30062"
-#~ msgid "Input > D-Pad Mouse Speed"
-#~ msgstr "Entrada > Velocidad del Ratón con D-Pad"
-
-#~ msgctxt "#30063"
-#~ msgid "Input > Mouse Speed"
-#~ msgstr "Entrada > Velocidad del Ratón"
-
-#~ msgctxt "#30064"
-#~ msgid "Input > Physical Mouse"
-#~ msgstr "Entrada > Ratón Físico"
-
-#~ msgctxt "#30065"
-#~ msgid "Input > Keyboard Pass-through"
-#~ msgstr "Entrada > Paso de Teclado"
-
-#~ msgctxt "#30066"
-#~ msgid "Input > Keyrah Keypad Mappings"
-#~ msgstr "Entrada > Asignaciones del Teclado Keyrah"
-
-#~ msgctxt "#30067"
-#~ msgid "Show Mapping Options"
-#~ msgstr "Mostrar Opciones de Mapeado"
-
-#~ msgctxt "#30068"
-#~ msgid "Hotkey > Toggle Virtual Keyboard"
-#~ msgstr "Tecla Rápida > Activar Teclado Virtual"
-
-#~ msgctxt "#30069"
-#~ msgid "Hotkey > Toggle Statusbar"
-#~ msgstr "Tecla Rápida > Activar Barra de Estado"
-
-#~ msgctxt "#30070"
-#~ msgid "Hotkey > Switch Joystick/Mouse"
-#~ msgstr "Tecla Rápida > Cambiar Joystick/Ratón"
-
-#~ msgctxt "#30071"
-#~ msgid "Hotkey > Toggle Turbo Fire"
-#~ msgstr "Tecla Rápida > Activar Disparo Turbo"
-
-#~ msgctxt "#30072"
-#~ msgid "Hotkey > Toggle Save Disk"
-#~ msgstr "Tecla Rápida > Activar Guardar a Disco"
-
-#~ msgctxt "#30073"
-#~ msgid "Hotkey > Reset"
-#~ msgstr "Tecla Rápida > Reiniciar"
-
-#~ msgctxt "#30074"
-#~ msgid "Hotkey > Toggle Aspect Ratio"
-#~ msgstr "Tecla Rápida > Cambiar Relación de Aspecto"
-
-#~ msgctxt "#30075"
-#~ msgid "Hotkey > Toggle Crop"
-#~ msgstr "Tecla Rápida > Activar Recorte"
-
-#~ msgctxt "#30076"
-#~ msgid "Hotkey > Toggle Zoom Mode"
-#~ msgstr "Tecla Rápida > Alternar Modo Zoom"
-
-#~ msgctxt "#30077"
-#~ msgid "RetroPad > Up"
-#~ msgstr "RetroPad > Arriba"
-
-#~ msgctxt "#30078"
-#~ msgid "RetroPad > Down"
-#~ msgstr "RetroPad > Abajo"
-
-#~ msgctxt "#30079"
-#~ msgid "RetroPad > Left"
-#~ msgstr "RetroPad > Izquierda"
-
-#~ msgctxt "#30080"
-#~ msgid "RetroPad > Right"
-#~ msgstr "RetroPad > Derecha"
-
-#~ msgctxt "#30081"
-#~ msgid "RetroPad > A"
-#~ msgstr "RetroPad > A"
-
-#~ msgctxt "#30082"
-#~ msgid "RetroPad > B"
-#~ msgstr "RetroPad > B"
-
-#~ msgctxt "#30083"
-#~ msgid "RetroPad > X"
-#~ msgstr "RetroPad > X"
-
-#~ msgctxt "#30084"
-#~ msgid "RetroPad > Y"
-#~ msgstr "RetroPad > Y"
-
-#~ msgctxt "#30085"
-#~ msgid "RetroPad > Select"
-#~ msgstr "RetroPad > Select"
-
-#~ msgctxt "#30086"
-#~ msgid "RetroPad > Start"
-#~ msgstr "RetroPad > Start"
-
-#~ msgctxt "#30087"
-#~ msgid "RetroPad > L"
-#~ msgstr "RetroPad > L"
-
-#~ msgctxt "#30088"
-#~ msgid "RetroPad > R"
-#~ msgstr "RetroPad > R"
-
-#~ msgctxt "#30089"
-#~ msgid "RetroPad > L2"
-#~ msgstr "RetroPad > L2"
-
-#~ msgctxt "#30090"
-#~ msgid "RetroPad > R2"
-#~ msgstr "RetroPad > R2"
-
-#~ msgctxt "#30091"
-#~ msgid "RetroPad > L3"
-#~ msgstr "RetroPad > L3"
-
-#~ msgctxt "#30092"
-#~ msgid "RetroPad > R3"
-#~ msgstr "RetroPad > R3"
-
-#~ msgctxt "#30093"
-#~ msgid "RetroPad > Left Analog > Up"
-#~ msgstr "RetroPad > Analógico Izquierdo > Arriba"
-
-#~ msgctxt "#30094"
-#~ msgid "RetroPad > Left Analog > Down"
-#~ msgstr "RetroPad > Analógico Izquierdo > Abajo"
-
-#~ msgctxt "#30095"
-#~ msgid "RetroPad > Left Analog > Left"
-#~ msgstr "RetroPad > Analógico Izquierdo > Izquierda"
-
-#~ msgctxt "#30096"
-#~ msgid "RetroPad > Left Analog > Right"
-#~ msgstr "RetroPad > Analógico Izquierdo > Derecha"
-
-#~ msgctxt "#30097"
-#~ msgid "RetroPad > Right Analog > Up"
-#~ msgstr "RetroPad > Analógico Derecho > Arriba"
-
-#~ msgctxt "#30098"
-#~ msgid "RetroPad > Right Analog > Down"
-#~ msgstr "RetroPad > Analógico Derecho > Abajo"
-
-#~ msgctxt "#30099"
-#~ msgid "RetroPad > Right Analog > Left"
-#~ msgstr "RetroPad > Analógico Derecho > Izquierda"
-
-#~ msgctxt "#30100"
-#~ msgid "RetroPad > Right Analog > Right"
-#~ msgstr "RetroPad > Analógico Derecho > Derecha"
-
-#~ msgctxt "#30101"
-#~ msgid "RetroPad > Turbo Fire"
-#~ msgstr "RetroPad > Disparo Turbo"
-
-#~ msgctxt "#30102"
-#~ msgid "RetroPad > Turbo Button"
-#~ msgstr "RetroPad > Botón Turbo"
-
-#~ msgctxt "#30103"
-#~ msgid "RetroPad > Turbo Pulse"
-#~ msgstr "RetroPad > Pulsación Turbo"
-
-#~ msgctxt "#30104"
-#~ msgid "RetroPad > Joystick/Mouse"
-#~ msgstr "RetroPad > Joystick/Ratón"
-
-#~ msgctxt "#30105"
-#~ msgid "RetroPad > Joystick Port Order"
-#~ msgstr "RetroPad > Secuencia Puerto Joystick"
-
-#~ msgctxt "#30106"
-#~ msgid "RetroPad > Face Button Options"
-#~ msgstr "RetroPad > Opciones Botones de Cara"
-
-#~ msgctxt "#30107"
-#~ msgid "CD32 Pad > Face Button Options"
-#~ msgstr "CD32 Pad > Opciones Botones de Cara"
+msgctxt "#30000"
+msgid "Settings"
+msgstr "Ajustes"
+
+msgctxt "#30001"
+msgid "System > Model"
+msgstr "Sistema > Modelo"
+
+msgctxt "#30002"
+msgid "System > Show Automatic Model Options"
+msgstr "Sistema > Mostrar Opciones del Modelo Automático"
+
+msgctxt "#30003"
+msgid "Model > Automatic Floppy"
+msgstr "Modelo > Floppy Automático"
+
+msgctxt "#30004"
+msgid "Model > Automatic HD"
+msgstr "Modelo > HD Automático"
+
+msgctxt "#30005"
+msgid "Model > Automatic CD"
+msgstr "Modelo > CD Automático"
+
+msgctxt "#30006"
+msgid "System > Kickstart ROM"
+msgstr "Sistema > ROM de Arranque"
+
+msgctxt "#30007"
+msgid "System > Chip RAM"
+msgstr "Sistema > Chip RAM"
+
+msgctxt "#30008"
+msgid "System > Slow RAM"
+msgstr "Sistema > RAM Lenta"
+
+msgctxt "#30009"
+msgid "System > Z2 Fast RAM"
+msgstr "Sistema > RAM Rápida Z2"
+
+msgctxt "#30010"
+msgid "System > Z3 Fast RAM"
+msgstr "Sistema > RAM Rápida Z3"
+
+msgctxt "#30011"
+msgid "System > CPU Model"
+msgstr "Sistema > Modelo de CPU"
+
+msgctxt "#30012"
+msgid "System > FPU Model"
+msgstr "Sistema > Modelo FPU"
+
+msgctxt "#30013"
+msgid "System > CPU Speed"
+msgstr "Sistema > Velocidad de la CPU"
+
+msgctxt "#30014"
+msgid "System > CPU Cycle-exact Speed"
+msgstr "Sistema > Velocidad Exacta del Ciclo de la CPU"
+
+msgctxt "#30015"
+msgid "System > CPU Compatibility"
+msgstr "Sistema > Compatibilidad CPU"
+
+msgctxt "#30016"
+msgid "Media > Automatic Load Fast-Forward"
+msgstr "Medios > Carga Automática Avance Rápido"
+
+msgctxt "#30017"
+msgid "Media > Floppy Speed"
+msgstr "Medios > Velocidad del Disquete"
+
+msgctxt "#30018"
+msgid "Media > Floppy MultiDrive"
+msgstr "Medios > Floppy MultiDrive"
+
+msgctxt "#30019"
+msgid "Media > Floppy Write Protection"
+msgstr "Medios > Protección Contra Escritura de Disquetes"
+
+msgctxt "#30020"
+msgid "Media > CD Speed"
+msgstr "Medios > Velocidad del CD"
+
+msgctxt "#30021"
+msgid "Media > CD Startup Delayed Insert"
+msgstr "Medios > Inserción Retardada al Iniciar CD"
+
+msgctxt "#30022"
+msgid "Media > CD32/CDTV Shared NVRAM"
+msgstr "Medios > NVRAM compartida CD32/CDTV"
+
+msgctxt "#30023"
+msgid "Media > WHDLoad Support"
+msgstr "Medios > Soporte WHDLoad"
+
+msgctxt "#30024"
+msgid "Media > WHDLoad Theme"
+msgstr "Medios > Tema WHDLoad"
+
+msgctxt "#30025"
+msgid "Media > WHDLoad Splash Screen"
+msgstr "Medios > WHDLoad Pantalla Bienvenida"
+
+msgctxt "#30026"
+msgid "Media > Global Boot HD"
+msgstr "Medios > HD de Arranque Global"
+
+msgctxt "#30027"
+msgid "Show Video Options"
+msgstr "Mostrar Opciones de Vídeo"
+
+msgctxt "#30028"
+msgid "Video > Allow Hz Change"
+msgstr "Vídeo > Permitir Cambio de Hz"
+
+msgctxt "#30029"
+msgid "Video > Standard"
+msgstr "Vídeo > Estándar"
+
+msgctxt "#30030"
+msgid "Video > Resolution"
+msgstr "Vídeo > Resolución"
+
+msgctxt "#30031"
+msgid "Video > Line Mode"
+msgstr "Vídeo > Modo Línea"
+
+msgctxt "#30032"
+msgid "Video > Pixel Aspect Ratio"
+msgstr "Vídeo > Proporción de Píxeles"
+
+msgctxt "#30033"
+msgid "Video > Crop"
+msgstr "Vídeo > Recortar"
+
+msgctxt "#30034"
+msgid "Video > Zoom Mode"
+msgstr "Vídeo > Modo Zoom"
+
+msgctxt "#30035"
+msgid "Video > Crop Mode"
+msgstr "Vídeo > Modo de Recorte"
+
+msgctxt "#30036"
+msgid "Video > Zoom Mode Crop"
+msgstr "Vídeo > Modo Zoom Recortar"
+
+msgctxt "#30037"
+msgid "Video > Vertical Position"
+msgstr "Vídeo > Posición Vertical"
+
+msgctxt "#30038"
+msgid "Video > Horizontal Position"
+msgstr "Vídeo > Posición Horizontal"
+
+msgctxt "#30039"
+msgid "Video > Remove Interlace Artifacts"
+msgstr "Vídeo > Eliminar Artefactos del Entrelazado"
+
+msgctxt "#30040"
+msgid "Video > Immediate/Waiting Blits"
+msgstr "Vídeo > Ráfagas Inmediatas/En Espera"
+
+msgctxt "#30041"
+msgid "Video > Collision Level"
+msgstr "Vídeo > Nivel de Colisión"
+
+msgctxt "#30042"
+msgid "Video > Frameskip"
+msgstr "Vídeo > Salto de Fotogramas"
+
+msgctxt "#30043"
+msgid "Video > Color Gamma"
+msgstr "Vídeo > Color Gamma"
+
+msgctxt "#30044"
+msgid "Video > Color Depth"
+msgstr "Vídeo > Profundidad del Color"
+
+msgctxt "#30045"
+msgid "OSD > Virtual KBD Theme"
+msgstr "OSD > Tema KBD Virtual"
+
+msgctxt "#30046"
+msgid "OSD > Virtual KBD Transparency"
+msgstr "OSD > Transparencia KBD Virtual"
+
+msgctxt "#30047"
+msgid "OSD > Virtual KBD Dimming"
+msgstr "OSD > Atenuación KBD Virtual"
+
+msgctxt "#30048"
+msgid "OSD > Statusbar Mode"
+msgstr "OSD > Modo Barra de Estado"
+
+msgctxt "#30049"
+msgid "OSD > Statusbar Messages"
+msgstr "OSD > Mensajes en la Barra de Estado"
+
+msgctxt "#30050"
+msgid "Show Audio Options"
+msgstr "Mostrar Opciones de Audio"
+
+msgctxt "#30051"
+msgid "Audio > Stereo Separation"
+msgstr "Audio > Separación Estéreo"
+
+msgctxt "#30052"
+msgid "Audio > Interpolation"
+msgstr "Audio > Interpolación"
+
+msgctxt "#30053"
+msgid "Audio > Filter"
+msgstr "Audio > Filtro"
+
+msgctxt "#30054"
+msgid "Audio > Filter Type"
+msgstr "Audio > Tipo de Filtro"
+
+msgctxt "#30055"
+msgid "Audio > CD Audio Volume"
+msgstr "Audio > Volumen CD de Audio"
+
+msgctxt "#30056"
+msgid "Audio > Floppy Sound Emulation"
+msgstr "Audio > Emulación de Sonido de Disquete"
+
+msgctxt "#30057"
+msgid "Audio > Floppy Sound Mute Ejected"
+msgstr "Audio > Expulsión Silenciosa del Disquete"
+
+msgctxt "#30058"
+msgid "Audio > Floppy Sound Type"
+msgstr "Audio > Tipo de Sonido de Disquete"
+
+msgctxt "#30059"
+msgid "Input > Analog Stick Mouse"
+msgstr "Entrada > Ratón con Stick Analógico"
+
+msgctxt "#30060"
+msgid "Input > Analog Stick Mouse Deadzone"
+msgstr "Entrada > Zona Muerta del Ratón con Stick Analógico"
+
+msgctxt "#30061"
+msgid "Input > Analog Stick Mouse Speed"
+msgstr "Entrada > Velocidad del Ratón con Stick Analógico"
+
+msgctxt "#30062"
+msgid "Input > D-Pad Mouse Speed"
+msgstr "Entrada > Velocidad del Ratón con D-Pad"
+
+msgctxt "#30063"
+msgid "Input > Mouse Speed"
+msgstr "Entrada > Velocidad del Ratón"
+
+msgctxt "#30064"
+msgid "Input > Physical Mouse"
+msgstr "Entrada > Ratón Físico"
+
+msgctxt "#30065"
+msgid "Input > Keyboard Pass-through"
+msgstr "Entrada > Paso de Teclado"
+
+msgctxt "#30066"
+msgid "Input > Keyrah Keypad Mappings"
+msgstr "Entrada > Asignaciones del Teclado Keyrah"
+
+msgctxt "#30067"
+msgid "Show Mapping Options"
+msgstr "Mostrar Opciones de Mapeado"
+
+msgctxt "#30068"
+msgid "Hotkey > Toggle Virtual Keyboard"
+msgstr "Tecla Rápida > Activar Teclado Virtual"
+
+msgctxt "#30069"
+msgid "Hotkey > Toggle Statusbar"
+msgstr "Tecla Rápida > Activar Barra de Estado"
+
+msgctxt "#30070"
+msgid "Hotkey > Switch Joystick/Mouse"
+msgstr "Tecla Rápida > Cambiar Joystick/Ratón"
+
+msgctxt "#30071"
+msgid "Hotkey > Toggle Turbo Fire"
+msgstr "Tecla Rápida > Activar Disparo Turbo"
+
+msgctxt "#30072"
+msgid "Hotkey > Toggle Save Disk"
+msgstr "Tecla Rápida > Activar Guardar a Disco"
+
+msgctxt "#30073"
+msgid "Hotkey > Reset"
+msgstr "Tecla Rápida > Reiniciar"
+
+msgctxt "#30074"
+msgid "Hotkey > Toggle Aspect Ratio"
+msgstr "Tecla Rápida > Cambiar Relación de Aspecto"
+
+msgctxt "#30075"
+msgid "Hotkey > Toggle Crop"
+msgstr "Tecla Rápida > Activar Recorte"
+
+msgctxt "#30076"
+msgid "Hotkey > Toggle Zoom Mode"
+msgstr "Tecla Rápida > Alternar Modo Zoom"
+
+msgctxt "#30077"
+msgid "RetroPad > Up"
+msgstr "RetroPad > Arriba"
+
+msgctxt "#30078"
+msgid "RetroPad > Down"
+msgstr "RetroPad > Abajo"
+
+msgctxt "#30079"
+msgid "RetroPad > Left"
+msgstr "RetroPad > Izquierda"
+
+msgctxt "#30080"
+msgid "RetroPad > Right"
+msgstr "RetroPad > Derecha"
+
+msgctxt "#30081"
+msgid "RetroPad > A"
+msgstr "RetroPad > A"
+
+msgctxt "#30082"
+msgid "RetroPad > B"
+msgstr "RetroPad > B"
+
+msgctxt "#30083"
+msgid "RetroPad > X"
+msgstr "RetroPad > X"
+
+msgctxt "#30084"
+msgid "RetroPad > Y"
+msgstr "RetroPad > Y"
+
+msgctxt "#30085"
+msgid "RetroPad > Select"
+msgstr "RetroPad > Select"
+
+msgctxt "#30086"
+msgid "RetroPad > Start"
+msgstr "RetroPad > Start"
+
+msgctxt "#30087"
+msgid "RetroPad > L"
+msgstr "RetroPad > L"
+
+msgctxt "#30088"
+msgid "RetroPad > R"
+msgstr "RetroPad > R"
+
+msgctxt "#30089"
+msgid "RetroPad > L2"
+msgstr "RetroPad > L2"
+
+msgctxt "#30090"
+msgid "RetroPad > R2"
+msgstr "RetroPad > R2"
+
+msgctxt "#30091"
+msgid "RetroPad > L3"
+msgstr "RetroPad > L3"
+
+msgctxt "#30092"
+msgid "RetroPad > R3"
+msgstr "RetroPad > R3"
+
+msgctxt "#30093"
+msgid "RetroPad > Left Analog > Up"
+msgstr "RetroPad > Analógico Izquierdo > Arriba"
+
+msgctxt "#30094"
+msgid "RetroPad > Left Analog > Down"
+msgstr "RetroPad > Analógico Izquierdo > Abajo"
+
+msgctxt "#30095"
+msgid "RetroPad > Left Analog > Left"
+msgstr "RetroPad > Analógico Izquierdo > Izquierda"
+
+msgctxt "#30096"
+msgid "RetroPad > Left Analog > Right"
+msgstr "RetroPad > Analógico Izquierdo > Derecha"
+
+msgctxt "#30097"
+msgid "RetroPad > Right Analog > Up"
+msgstr "RetroPad > Analógico Derecho > Arriba"
+
+msgctxt "#30098"
+msgid "RetroPad > Right Analog > Down"
+msgstr "RetroPad > Analógico Derecho > Abajo"
+
+msgctxt "#30099"
+msgid "RetroPad > Right Analog > Left"
+msgstr "RetroPad > Analógico Derecho > Izquierda"
+
+msgctxt "#30100"
+msgid "RetroPad > Right Analog > Right"
+msgstr "RetroPad > Analógico Derecho > Derecha"
+
+msgctxt "#30101"
+msgid "RetroPad > Turbo Fire"
+msgstr "RetroPad > Disparo Turbo"
+
+msgctxt "#30102"
+msgid "RetroPad > Turbo Button"
+msgstr "RetroPad > Botón Turbo"
+
+msgctxt "#30103"
+msgid "RetroPad > Turbo Pulse"
+msgstr "RetroPad > Pulsación Turbo"
+
+msgctxt "#30104"
+msgid "RetroPad > Joystick/Mouse"
+msgstr "RetroPad > Joystick/Ratón"
+
+msgctxt "#30105"
+msgid "RetroPad > Joystick Port Order"
+msgstr "RetroPad > Secuencia Puerto Joystick"
+
+msgctxt "#30106"
+msgid "RetroPad > Face Button Options"
+msgstr "RetroPad > Opciones Botones de Cara"
+
+msgctxt "#30107"
+msgid "CD32 Pad > Face Button Options"
+msgstr "CD32 Pad > Opciones Botones de Cara"
