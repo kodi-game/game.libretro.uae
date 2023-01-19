@@ -25,434 +25,434 @@ msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
 msgstr "UAE 即 Ubiquitous Amiga Emulator（无处不在的 Amiga 模拟器）。[CR][CR]大多数游戏需要一个版本的 Amiga 启动 ROM，而一些旧游戏可使用内建 ROM 仿真。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
-msgctxt "#30001"
-msgid "System > Model"
-msgstr "系统 > 型号"
-
-msgctxt "#30002"
-msgid "System > Show Automatic Model Options"
-msgstr "系统 > 显示自动型号选项"
-
-msgctxt "#30003"
-msgid "Model > Automatic Floppy"
-msgstr "型号 > 自动软盘"
-
-msgctxt "#30004"
-msgid "Model > Automatic HD"
-msgstr "型号 > 自动 HD"
-
-msgctxt "#30005"
-msgid "Model > Automatic CD"
-msgstr "型号 > 自动 CD"
-
-msgctxt "#30006"
-msgid "System > Kickstart ROM"
-msgstr "系统 > 启动 ROM"
-
-msgctxt "#30007"
-msgid "System > Chip RAM"
-msgstr "系统 > 芯片 RAM"
-
-msgctxt "#30008"
-msgid "System > Slow RAM"
-msgstr "系统 > 慢速 RAM"
-
-msgctxt "#30009"
-msgid "System > Z2 Fast RAM"
-msgstr "系统 > Z2 快速 RAM"
-
-msgctxt "#30010"
-msgid "System > Z3 Fast RAM"
-msgstr "系统 > Z3 快速 RAM"
-
-msgctxt "#30011"
-msgid "System > CPU Model"
-msgstr "系统 > CPU 型号"
-
-msgctxt "#30012"
-msgid "System > FPU Model"
-msgstr "系统 > FPU 型号"
-
-msgctxt "#30013"
-msgid "System > CPU Speed"
-msgstr "系统 > CPU 速度"
-
-msgctxt "#30014"
-msgid "System > CPU Cycle-exact Speed"
-msgstr "系统 > CPU 周期精确速度"
-
-msgctxt "#30015"
-msgid "System > CPU Compatibility"
-msgstr "系统 > CPU 兼容性"
-
-msgctxt "#30016"
-msgid "Media > Automatic Load Fast-Forward"
-msgstr "介质 > 自动加载快进"
-
-msgctxt "#30017"
-msgid "Media > Floppy Speed"
-msgstr "介质 > 软盘速度"
-
-msgctxt "#30018"
-msgid "Media > Floppy MultiDrive"
-msgstr "介质 > 软盘多驱动器"
-
-msgctxt "#30019"
-msgid "Media > Floppy Write Protection"
-msgstr "介质 > 软盘写保护"
-
-msgctxt "#30020"
-msgid "Media > CD Speed"
-msgstr "介质 > CD 速度"
-
-msgctxt "#30021"
-msgid "Media > CD Startup Delayed Insert"
-msgstr "介质 > CD 启动延迟插入"
-
-msgctxt "#30022"
-msgid "Media > CD32/CDTV Shared NVRAM"
-msgstr "介质 > CD32/CDTV 共享 NVRAM"
-
-msgctxt "#30023"
-msgid "Media > WHDLoad Support"
-msgstr "介质 > WHDLoad 支持"
-
-msgctxt "#30024"
-msgid "Media > WHDLoad Theme"
-msgstr "介质 > WHDLoad 主题"
-
-msgctxt "#30025"
-msgid "Media > WHDLoad Splash Screen"
-msgstr "介质 > WHDLoad 启动屏幕"
-
-msgctxt "#30026"
-msgid "Media > Global Boot HD"
-msgstr "介质 > 全局引导 HD"
-
-msgctxt "#30027"
-msgid "Show Video Options"
-msgstr "显示视频选项"
-
-msgctxt "#30028"
-msgid "Video > Allow Hz Change"
-msgstr "视频 > 允许更改Hz"
-
-msgctxt "#30029"
-msgid "Video > Standard"
-msgstr "视频 > 标准"
-
-msgctxt "#30030"
-msgid "Video > Resolution"
-msgstr "视频 > 分辨率"
-
-msgctxt "#30031"
-msgid "Video > Line Mode"
-msgstr "视频 > 线路模式"
-
-msgctxt "#30032"
-msgid "Video > Pixel Aspect Ratio"
-msgstr "视频 > 像素纵横比"
-
-msgctxt "#30033"
-msgid "Video > Crop"
-msgstr "视频 > 裁剪"
-
-msgctxt "#30034"
-msgid "Video > Zoom Mode"
-msgstr "视频 > 缩放模式"
-
-msgctxt "#30035"
-msgid "Video > Crop Mode"
-msgstr "视频 > 裁剪模式"
-
-msgctxt "#30036"
-msgid "Video > Zoom Mode Crop"
-msgstr "视频 > 缩放模式裁剪"
-
-msgctxt "#30037"
-msgid "Video > Vertical Position"
-msgstr "视频 > 垂直位置"
-
-msgctxt "#30038"
-msgid "Video > Horizontal Position"
-msgstr "视频 > 水平位置"
-
-msgctxt "#30039"
-msgid "Video > Remove Interlace Artifacts"
-msgstr "视频 > 移除隔行伪影"
-
-msgctxt "#30040"
-msgid "Video > Immediate/Waiting Blits"
-msgstr "视频 > 即时/等待信号"
-
-msgctxt "#30041"
-msgid "Video > Collision Level"
-msgstr "视频 > 碰撞级别"
-
-msgctxt "#30042"
-msgid "Video > Frameskip"
-msgstr "视频 > 跳帧"
-
-msgctxt "#30043"
-msgid "Video > Color Gamma"
-msgstr "视频 > 彩色 Gamma"
-
-msgctxt "#30044"
-msgid "Video > Color Depth"
-msgstr "视频 > 色深"
-
-msgctxt "#30045"
-msgid "OSD > Virtual KBD Theme"
-msgstr "OSD > 虚拟 KBD 主题"
-
-msgctxt "#30046"
-msgid "OSD > Virtual KBD Transparency"
-msgstr "OSD > 虚拟 KBD 透明度"
-
-msgctxt "#30047"
-msgid "OSD > Virtual KBD Dimming"
-msgstr "OSD > 虚拟 KBD 调光"
-
-msgctxt "#30048"
-msgid "OSD > Statusbar Mode"
-msgstr "OSD > 状态栏模式"
-
-msgctxt "#30049"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > 状态栏信息"
-
-msgctxt "#30050"
-msgid "Show Audio Options"
-msgstr "显示音频选项"
-
-msgctxt "#30051"
-msgid "Audio > Stereo Separation"
-msgstr "音频 > 立体声分离"
-
-msgctxt "#30052"
-msgid "Audio > Interpolation"
-msgstr "音频 > 插值"
-
-msgctxt "#30053"
-msgid "Audio > Filter"
-msgstr "音频 > 滤波器"
-
-msgctxt "#30054"
-msgid "Audio > Filter Type"
-msgstr "音频 > 滤波器类型"
-
-msgctxt "#30055"
-msgid "Audio > CD Audio Volume"
-msgstr "音频 > CD 音频音量"
-
-msgctxt "#30056"
-msgid "Audio > Floppy Sound Emulation"
-msgstr "音频 > 软盘声音模拟"
-
-msgctxt "#30057"
-msgid "Audio > Floppy Sound Mute Ejected"
-msgstr "音频 > 软盘静音弹出"
-
-msgctxt "#30058"
-msgid "Audio > Floppy Sound Type"
-msgstr "音频 > 软盘声音类型"
-
-msgctxt "#30059"
-msgid "Input > Analog Stick Mouse"
-msgstr "输入 > 模拟游戏杆鼠标"
-
-msgctxt "#30060"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "输入 > 模拟游戏杆鼠标死区"
-
-msgctxt "#30061"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr "输入 > 模拟游戏杆鼠标速度"
-
-msgctxt "#30062"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "输入 > 十字键鼠标速度"
-
-msgctxt "#30063"
-msgid "Input > Mouse Speed"
-msgstr "输入 > 鼠标速度"
-
-msgctxt "#30064"
-msgid "Input > Physical Mouse"
-msgstr "输入 > 物理鼠标"
-
-msgctxt "#30065"
-msgid "Input > Keyboard Pass-through"
-msgstr "输入 > 键盘传递"
-
-msgctxt "#30066"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "输入 > Keyrah 键盘映射"
-
-msgctxt "#30067"
-msgid "Show Mapping Options"
-msgstr "显示映射选项"
-
-msgctxt "#30068"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "热键 > 切换虚拟键盘"
-
-msgctxt "#30069"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "热键 > 切换状态栏"
-
-msgctxt "#30070"
-msgid "Hotkey > Switch Joystick/Mouse"
-msgstr "热键 > 切换游戏杆/鼠标"
-
-msgctxt "#30071"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "热键 > 切换 Turbo 开火"
-
-msgctxt "#30072"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "热键 > 切换保存磁盘"
-
-msgctxt "#30073"
-msgid "Hotkey > Reset"
-msgstr "热键 > 重置"
-
-msgctxt "#30074"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "热键 > 切换纵横比"
-
-msgctxt "#30075"
-msgid "Hotkey > Toggle Crop"
-msgstr "热键 > 切换裁剪"
-
-msgctxt "#30076"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "热键 > 切换缩放模式"
-
-msgctxt "#30077"
-msgid "RetroPad > Up"
-msgstr "RetroPad > 上"
-
-msgctxt "#30078"
-msgid "RetroPad > Down"
-msgstr "RetroPad > 下"
-
-msgctxt "#30079"
-msgid "RetroPad > Left"
-msgstr "RetroPad > 左"
-
-msgctxt "#30080"
-msgid "RetroPad > Right"
-msgstr "RetroPad > 右"
-
-msgctxt "#30081"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
-
-msgctxt "#30082"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
-
-msgctxt "#30083"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
-
-msgctxt "#30084"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
-
-msgctxt "#30085"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Select"
-
-msgctxt "#30086"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
-
-msgctxt "#30087"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
-
-msgctxt "#30088"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
-
-msgctxt "#30089"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
-
-msgctxt "#30090"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
-
-msgctxt "#30091"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
-
-msgctxt "#30092"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
-
-msgctxt "#30093"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > 左模拟 > 上"
-
-msgctxt "#30094"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > 左模拟 > 下"
-
-msgctxt "#30095"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > 左模拟 > 左"
-
-msgctxt "#30096"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > 左模拟 > 右"
-
-msgctxt "#30097"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > 右模拟 > 上"
-
-msgctxt "#30098"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > 右模拟 > 下"
-
-msgctxt "#30099"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > 右模拟 > 左"
-
-msgctxt "#30100"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > 右模拟 > 右"
-
-msgctxt "#30101"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Turbo 开火"
-
-msgctxt "#30102"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Turbo 按钮"
-
-msgctxt "#30103"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Turbo 脉冲"
-
-msgctxt "#30104"
-msgid "RetroPad > Joystick/Mouse"
-msgstr "RetroPad > 游戏杆/鼠标"
-
-msgctxt "#30105"
-msgid "RetroPad > Joystick Port Order"
-msgstr "RetroPad > 游戏杆端口顺序"
-
-msgctxt "#30106"
-msgid "RetroPad > Face Button Options"
-msgstr "Retropad > Face 按钮选项"
-
-msgctxt "#30107"
-msgid "CD32 Pad > Face Button Options"
-msgstr "CD32 Pad > Face 按钮选项"
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
+
+#~ msgctxt "#30001"
+#~ msgid "System > Model"
+#~ msgstr "系统 > 型号"
+
+#~ msgctxt "#30002"
+#~ msgid "System > Show Automatic Model Options"
+#~ msgstr "系统 > 显示自动型号选项"
+
+#~ msgctxt "#30003"
+#~ msgid "Model > Automatic Floppy"
+#~ msgstr "型号 > 自动软盘"
+
+#~ msgctxt "#30004"
+#~ msgid "Model > Automatic HD"
+#~ msgstr "型号 > 自动 HD"
+
+#~ msgctxt "#30005"
+#~ msgid "Model > Automatic CD"
+#~ msgstr "型号 > 自动 CD"
+
+#~ msgctxt "#30006"
+#~ msgid "System > Kickstart ROM"
+#~ msgstr "系统 > 启动 ROM"
+
+#~ msgctxt "#30007"
+#~ msgid "System > Chip RAM"
+#~ msgstr "系统 > 芯片 RAM"
+
+#~ msgctxt "#30008"
+#~ msgid "System > Slow RAM"
+#~ msgstr "系统 > 慢速 RAM"
+
+#~ msgctxt "#30009"
+#~ msgid "System > Z2 Fast RAM"
+#~ msgstr "系统 > Z2 快速 RAM"
+
+#~ msgctxt "#30010"
+#~ msgid "System > Z3 Fast RAM"
+#~ msgstr "系统 > Z3 快速 RAM"
+
+#~ msgctxt "#30011"
+#~ msgid "System > CPU Model"
+#~ msgstr "系统 > CPU 型号"
+
+#~ msgctxt "#30012"
+#~ msgid "System > FPU Model"
+#~ msgstr "系统 > FPU 型号"
+
+#~ msgctxt "#30013"
+#~ msgid "System > CPU Speed"
+#~ msgstr "系统 > CPU 速度"
+
+#~ msgctxt "#30014"
+#~ msgid "System > CPU Cycle-exact Speed"
+#~ msgstr "系统 > CPU 周期精确速度"
+
+#~ msgctxt "#30015"
+#~ msgid "System > CPU Compatibility"
+#~ msgstr "系统 > CPU 兼容性"
+
+#~ msgctxt "#30016"
+#~ msgid "Media > Automatic Load Fast-Forward"
+#~ msgstr "介质 > 自动加载快进"
+
+#~ msgctxt "#30017"
+#~ msgid "Media > Floppy Speed"
+#~ msgstr "介质 > 软盘速度"
+
+#~ msgctxt "#30018"
+#~ msgid "Media > Floppy MultiDrive"
+#~ msgstr "介质 > 软盘多驱动器"
+
+#~ msgctxt "#30019"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "介质 > 软盘写保护"
+
+#~ msgctxt "#30020"
+#~ msgid "Media > CD Speed"
+#~ msgstr "介质 > CD 速度"
+
+#~ msgctxt "#30021"
+#~ msgid "Media > CD Startup Delayed Insert"
+#~ msgstr "介质 > CD 启动延迟插入"
+
+#~ msgctxt "#30022"
+#~ msgid "Media > CD32/CDTV Shared NVRAM"
+#~ msgstr "介质 > CD32/CDTV 共享 NVRAM"
+
+#~ msgctxt "#30023"
+#~ msgid "Media > WHDLoad Support"
+#~ msgstr "介质 > WHDLoad 支持"
+
+#~ msgctxt "#30024"
+#~ msgid "Media > WHDLoad Theme"
+#~ msgstr "介质 > WHDLoad 主题"
+
+#~ msgctxt "#30025"
+#~ msgid "Media > WHDLoad Splash Screen"
+#~ msgstr "介质 > WHDLoad 启动屏幕"
+
+#~ msgctxt "#30026"
+#~ msgid "Media > Global Boot HD"
+#~ msgstr "介质 > 全局引导 HD"
+
+#~ msgctxt "#30027"
+#~ msgid "Show Video Options"
+#~ msgstr "显示视频选项"
+
+#~ msgctxt "#30028"
+#~ msgid "Video > Allow Hz Change"
+#~ msgstr "视频 > 允许更改Hz"
+
+#~ msgctxt "#30029"
+#~ msgid "Video > Standard"
+#~ msgstr "视频 > 标准"
+
+#~ msgctxt "#30030"
+#~ msgid "Video > Resolution"
+#~ msgstr "视频 > 分辨率"
+
+#~ msgctxt "#30031"
+#~ msgid "Video > Line Mode"
+#~ msgstr "视频 > 线路模式"
+
+#~ msgctxt "#30032"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr "视频 > 像素纵横比"
+
+#~ msgctxt "#30033"
+#~ msgid "Video > Crop"
+#~ msgstr "视频 > 裁剪"
+
+#~ msgctxt "#30034"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "视频 > 缩放模式"
+
+#~ msgctxt "#30035"
+#~ msgid "Video > Crop Mode"
+#~ msgstr "视频 > 裁剪模式"
+
+#~ msgctxt "#30036"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "视频 > 缩放模式裁剪"
+
+#~ msgctxt "#30037"
+#~ msgid "Video > Vertical Position"
+#~ msgstr "视频 > 垂直位置"
+
+#~ msgctxt "#30038"
+#~ msgid "Video > Horizontal Position"
+#~ msgstr "视频 > 水平位置"
+
+#~ msgctxt "#30039"
+#~ msgid "Video > Remove Interlace Artifacts"
+#~ msgstr "视频 > 移除隔行伪影"
+
+#~ msgctxt "#30040"
+#~ msgid "Video > Immediate/Waiting Blits"
+#~ msgstr "视频 > 即时/等待信号"
+
+#~ msgctxt "#30041"
+#~ msgid "Video > Collision Level"
+#~ msgstr "视频 > 碰撞级别"
+
+#~ msgctxt "#30042"
+#~ msgid "Video > Frameskip"
+#~ msgstr "视频 > 跳帧"
+
+#~ msgctxt "#30043"
+#~ msgid "Video > Color Gamma"
+#~ msgstr "视频 > 彩色 Gamma"
+
+#~ msgctxt "#30044"
+#~ msgid "Video > Color Depth"
+#~ msgstr "视频 > 色深"
+
+#~ msgctxt "#30045"
+#~ msgid "OSD > Virtual KBD Theme"
+#~ msgstr "OSD > 虚拟 KBD 主题"
+
+#~ msgctxt "#30046"
+#~ msgid "OSD > Virtual KBD Transparency"
+#~ msgstr "OSD > 虚拟 KBD 透明度"
+
+#~ msgctxt "#30047"
+#~ msgid "OSD > Virtual KBD Dimming"
+#~ msgstr "OSD > 虚拟 KBD 调光"
+
+#~ msgctxt "#30048"
+#~ msgid "OSD > Statusbar Mode"
+#~ msgstr "OSD > 状态栏模式"
+
+#~ msgctxt "#30049"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > 状态栏信息"
+
+#~ msgctxt "#30050"
+#~ msgid "Show Audio Options"
+#~ msgstr "显示音频选项"
+
+#~ msgctxt "#30051"
+#~ msgid "Audio > Stereo Separation"
+#~ msgstr "音频 > 立体声分离"
+
+#~ msgctxt "#30052"
+#~ msgid "Audio > Interpolation"
+#~ msgstr "音频 > 插值"
+
+#~ msgctxt "#30053"
+#~ msgid "Audio > Filter"
+#~ msgstr "音频 > 滤波器"
+
+#~ msgctxt "#30054"
+#~ msgid "Audio > Filter Type"
+#~ msgstr "音频 > 滤波器类型"
+
+#~ msgctxt "#30055"
+#~ msgid "Audio > CD Audio Volume"
+#~ msgstr "音频 > CD 音频音量"
+
+#~ msgctxt "#30056"
+#~ msgid "Audio > Floppy Sound Emulation"
+#~ msgstr "音频 > 软盘声音模拟"
+
+#~ msgctxt "#30057"
+#~ msgid "Audio > Floppy Sound Mute Ejected"
+#~ msgstr "音频 > 软盘静音弹出"
+
+#~ msgctxt "#30058"
+#~ msgid "Audio > Floppy Sound Type"
+#~ msgstr "音频 > 软盘声音类型"
+
+#~ msgctxt "#30059"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "输入 > 模拟游戏杆鼠标"
+
+#~ msgctxt "#30060"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "输入 > 模拟游戏杆鼠标死区"
+
+#~ msgctxt "#30061"
+#~ msgid "Input > Analog Stick Mouse Speed"
+#~ msgstr "输入 > 模拟游戏杆鼠标速度"
+
+#~ msgctxt "#30062"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "输入 > 十字键鼠标速度"
+
+#~ msgctxt "#30063"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "输入 > 鼠标速度"
+
+#~ msgctxt "#30064"
+#~ msgid "Input > Physical Mouse"
+#~ msgstr "输入 > 物理鼠标"
+
+#~ msgctxt "#30065"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "输入 > 键盘传递"
+
+#~ msgctxt "#30066"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "输入 > Keyrah 键盘映射"
+
+#~ msgctxt "#30067"
+#~ msgid "Show Mapping Options"
+#~ msgstr "显示映射选项"
+
+#~ msgctxt "#30068"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "热键 > 切换虚拟键盘"
+
+#~ msgctxt "#30069"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "热键 > 切换状态栏"
+
+#~ msgctxt "#30070"
+#~ msgid "Hotkey > Switch Joystick/Mouse"
+#~ msgstr "热键 > 切换游戏杆/鼠标"
+
+#~ msgctxt "#30071"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "热键 > 切换 Turbo 开火"
+
+#~ msgctxt "#30072"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "热键 > 切换保存磁盘"
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "热键 > 重置"
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "热键 > 切换纵横比"
+
+#~ msgctxt "#30075"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "热键 > 切换裁剪"
+
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "热键 > 切换缩放模式"
+
+#~ msgctxt "#30077"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > 上"
+
+#~ msgctxt "#30078"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > 下"
+
+#~ msgctxt "#30079"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > 左"
+
+#~ msgctxt "#30080"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > 右"
+
+#~ msgctxt "#30081"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Select"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > 左模拟 > 上"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > 左模拟 > 下"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > 左模拟 > 左"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > 左模拟 > 右"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > 右模拟 > 上"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > 右模拟 > 下"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > 右模拟 > 左"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > 右模拟 > 右"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Turbo 开火"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Turbo 按钮"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Turbo 脉冲"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Joystick/Mouse"
+#~ msgstr "RetroPad > 游戏杆/鼠标"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Joystick Port Order"
+#~ msgstr "RetroPad > 游戏杆端口顺序"
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "Retropad > Face 按钮选项"
+
+#~ msgctxt "#30107"
+#~ msgid "CD32 Pad > Face Button Options"
+#~ msgstr "CD32 Pad > Face 按钮选项"

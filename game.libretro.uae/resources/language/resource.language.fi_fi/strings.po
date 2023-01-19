@@ -25,437 +25,65 @@ msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Asetukset"
-
-msgctxt "#30001"
-msgid "System > Model"
-msgstr ""
-
-msgctxt "#30002"
-msgid "System > Show Automatic Model Options"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Model > Automatic Floppy"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Model > Automatic HD"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Model > Automatic CD"
-msgstr ""
-
-msgctxt "#30006"
-msgid "System > Kickstart ROM"
-msgstr ""
-
-msgctxt "#30007"
-msgid "System > Chip RAM"
-msgstr ""
-
-msgctxt "#30008"
-msgid "System > Slow RAM"
-msgstr ""
-
-msgctxt "#30009"
-msgid "System > Z2 Fast RAM"
-msgstr ""
-
-msgctxt "#30010"
-msgid "System > Z3 Fast RAM"
-msgstr ""
-
-msgctxt "#30011"
-msgid "System > CPU Model"
-msgstr ""
-
-msgctxt "#30012"
-msgid "System > FPU Model"
-msgstr ""
-
-msgctxt "#30013"
-msgid "System > CPU Speed"
-msgstr ""
-
-msgctxt "#30014"
-msgid "System > CPU Cycle-exact Speed"
-msgstr ""
-
-msgctxt "#30015"
-msgid "System > CPU Compatibility"
-msgstr ""
-
-msgctxt "#30016"
-msgid "Media > Automatic Load Fast-Forward"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Media > Floppy Speed"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Media > Floppy MultiDrive"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Media > Floppy Write Protection"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Media > CD Speed"
-msgstr ""
-
-msgctxt "#30021"
-msgid "Media > CD Startup Delayed Insert"
-msgstr ""
-
-msgctxt "#30022"
-msgid "Media > CD32/CDTV Shared NVRAM"
-msgstr ""
-
-msgctxt "#30023"
-msgid "Media > WHDLoad Support"
-msgstr ""
-
-msgctxt "#30024"
-msgid "Media > WHDLoad Theme"
-msgstr ""
-
-msgctxt "#30025"
-msgid "Media > WHDLoad Splash Screen"
-msgstr ""
-
-msgctxt "#30026"
-msgid "Media > Global Boot HD"
-msgstr ""
-
-msgctxt "#30027"
-msgid "Show Video Options"
-msgstr ""
-
-msgctxt "#30028"
-msgid "Video > Allow Hz Change"
-msgstr ""
-
-msgctxt "#30029"
-msgid "Video > Standard"
-msgstr ""
-
-msgctxt "#30030"
-msgid "Video > Resolution"
-msgstr ""
-
-msgctxt "#30031"
-msgid "Video > Line Mode"
-msgstr ""
-
-msgctxt "#30032"
-msgid "Video > Pixel Aspect Ratio"
-msgstr ""
-
-msgctxt "#30033"
-msgid "Video > Crop"
-msgstr ""
-
-msgctxt "#30034"
-msgid "Video > Zoom Mode"
-msgstr ""
-
-msgctxt "#30035"
-msgid "Video > Crop Mode"
-msgstr ""
-
-msgctxt "#30036"
-msgid "Video > Zoom Mode Crop"
-msgstr ""
-
-msgctxt "#30037"
-msgid "Video > Vertical Position"
-msgstr ""
-
-msgctxt "#30038"
-msgid "Video > Horizontal Position"
-msgstr ""
-
-msgctxt "#30039"
-msgid "Video > Remove Interlace Artifacts"
-msgstr ""
-
-msgctxt "#30040"
-msgid "Video > Immediate/Waiting Blits"
-msgstr ""
-
-msgctxt "#30041"
-msgid "Video > Collision Level"
-msgstr ""
-
-msgctxt "#30042"
-msgid "Video > Frameskip"
-msgstr ""
-
-msgctxt "#30043"
-msgid "Video > Color Gamma"
-msgstr ""
-
-msgctxt "#30044"
-msgid "Video > Color Depth"
-msgstr ""
-
-msgctxt "#30045"
-msgid "OSD > Virtual KBD Theme"
-msgstr ""
-
-msgctxt "#30046"
-msgid "OSD > Virtual KBD Transparency"
-msgstr ""
-
-msgctxt "#30047"
-msgid "OSD > Virtual KBD Dimming"
-msgstr ""
-
-msgctxt "#30048"
-msgid "OSD > Statusbar Mode"
-msgstr ""
-
-msgctxt "#30049"
-msgid "OSD > Statusbar Messages"
-msgstr ""
-
-msgctxt "#30050"
-msgid "Show Audio Options"
-msgstr ""
-
-msgctxt "#30051"
-msgid "Audio > Stereo Separation"
-msgstr ""
-
-msgctxt "#30052"
-msgid "Audio > Interpolation"
-msgstr ""
-
-msgctxt "#30053"
-msgid "Audio > Filter"
-msgstr ""
-
-msgctxt "#30054"
-msgid "Audio > Filter Type"
-msgstr ""
-
-msgctxt "#30055"
-msgid "Audio > CD Audio Volume"
-msgstr ""
-
-msgctxt "#30056"
-msgid "Audio > Floppy Sound Emulation"
-msgstr ""
-
-msgctxt "#30057"
-msgid "Audio > Floppy Sound Mute Ejected"
-msgstr ""
-
-msgctxt "#30058"
-msgid "Audio > Floppy Sound Type"
-msgstr ""
-
-msgctxt "#30059"
-msgid "Input > Analog Stick Mouse"
-msgstr ""
-
-msgctxt "#30060"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "Syöttö > Analogisen sauvan hiiren kuollut alue"
-
-msgctxt "#30061"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr ""
-
-msgctxt "#30062"
-msgid "Input > D-Pad Mouse Speed"
-msgstr ""
-
-msgctxt "#30063"
-msgid "Input > Mouse Speed"
-msgstr ""
-
-msgctxt "#30064"
-msgid "Input > Physical Mouse"
-msgstr ""
-
-msgctxt "#30065"
-msgid "Input > Keyboard Pass-through"
-msgstr ""
-
-msgctxt "#30066"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr ""
-
-msgctxt "#30067"
-msgid "Show Mapping Options"
-msgstr ""
-
-msgctxt "#30068"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr ""
-
-msgctxt "#30069"
-msgid "Hotkey > Toggle Statusbar"
-msgstr ""
-
-msgctxt "#30070"
-msgid "Hotkey > Switch Joystick/Mouse"
-msgstr "Pikanäppäin > Vaihda peliohjaimen ja hiiren välillä"
-
-msgctxt "#30071"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr ""
-
-msgctxt "#30072"
-msgid "Hotkey > Toggle Save Disk"
-msgstr ""
-
-msgctxt "#30073"
-msgid "Hotkey > Reset"
-msgstr ""
-
-msgctxt "#30074"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr ""
-
-msgctxt "#30075"
-msgid "Hotkey > Toggle Crop"
-msgstr ""
-
-msgctxt "#30076"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr ""
-
-msgctxt "#30077"
-msgid "RetroPad > Up"
-msgstr ""
-
-msgctxt "#30078"
-msgid "RetroPad > Down"
-msgstr ""
-
-msgctxt "#30079"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Vasemmalle"
-
-msgctxt "#30080"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Oikealle"
-
-msgctxt "#30081"
-msgid "RetroPad > A"
-msgstr ""
-
-msgctxt "#30082"
-msgid "RetroPad > B"
-msgstr ""
-
-msgctxt "#30083"
-msgid "RetroPad > X"
-msgstr ""
-
-msgctxt "#30084"
-msgid "RetroPad > Y"
-msgstr ""
-
-msgctxt "#30085"
-msgid "RetroPad > Select"
-msgstr ""
-
-msgctxt "#30086"
-msgid "RetroPad > Start"
-msgstr ""
-
-msgctxt "#30087"
-msgid "RetroPad > L"
-msgstr ""
-
-msgctxt "#30088"
-msgid "RetroPad > R"
-msgstr ""
-
-msgctxt "#30089"
-msgid "RetroPad > L2"
-msgstr ""
-
-msgctxt "#30090"
-msgid "RetroPad > R2"
-msgstr ""
-
-msgctxt "#30091"
-msgid "RetroPad > L3"
-msgstr ""
-
-msgctxt "#30092"
-msgid "RetroPad > R3"
-msgstr ""
-
-msgctxt "#30093"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Vasen analoginen > Ylös"
-
-msgctxt "#30094"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Vasen analoginen > Alas"
-
-msgctxt "#30095"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Vasen analoginen > Vasemmalle"
-
-msgctxt "#30096"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Vasen analoginen > Oikealle"
-
-msgctxt "#30097"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Oikea analoginen > Ylös"
-
-msgctxt "#30098"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Oikea analoginen > Alas"
-
-msgctxt "#30099"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Oikea analoginen > Vasemmalle"
-
-msgctxt "#30100"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Oikea analoginen > Oikealle"
-
-msgctxt "#30101"
-msgid "RetroPad > Turbo Fire"
-msgstr ""
-
-msgctxt "#30102"
-msgid "RetroPad > Turbo Button"
-msgstr ""
-
-msgctxt "#30103"
-msgid "RetroPad > Turbo Pulse"
-msgstr ""
-
-msgctxt "#30104"
-msgid "RetroPad > Joystick/Mouse"
-msgstr "RetroPad > Peliohjain/hiiri"
-
-msgctxt "#30105"
-msgid "RetroPad > Joystick Port Order"
-msgstr "RetroPad > Peliohjainporttien järjestys"
-
-msgctxt "#30106"
-msgid "RetroPad > Face Button Options"
-msgstr ""
-
-msgctxt "#30107"
-msgid "CD32 Pad > Face Button Options"
-msgstr ""
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Asetukset"
+
+#~ msgctxt "#30060"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "Syöttö > Analogisen sauvan hiiren kuollut alue"
+
+#~ msgctxt "#30070"
+#~ msgid "Hotkey > Switch Joystick/Mouse"
+#~ msgstr "Pikanäppäin > Vaihda peliohjaimen ja hiiren välillä"
+
+#~ msgctxt "#30079"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Vasemmalle"
+
+#~ msgctxt "#30080"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Oikealle"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Vasen analoginen > Ylös"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Vasen analoginen > Alas"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Vasen analoginen > Vasemmalle"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Vasen analoginen > Oikealle"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Oikea analoginen > Ylös"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Oikea analoginen > Alas"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Oikea analoginen > Vasemmalle"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Oikea analoginen > Oikealle"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Joystick/Mouse"
+#~ msgstr "RetroPad > Peliohjain/hiiri"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Joystick Port Order"
+#~ msgstr "RetroPad > Peliohjainporttien järjestys"
 
 #~ msgctxt "#30033"
 #~ msgid "Video > Frameskip"
