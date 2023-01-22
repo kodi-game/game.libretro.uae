@@ -1,0 +1,25 @@
+From 4c6a5c067e0e1e7b4c51f7436fd8e2adde8665c0 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Sat, 21 Jan 2023 19:22:46 -0800
+Subject: [PATCH] set core options in retro_set_environment()
+
+---
+ libretro/libretro-core.c | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/libretro/libretro-core.c b/libretro/libretro-core.c
+index 76e9f20..e4fa2c7 100644
+--- a/libretro/libretro-core.c
++++ b/libretro/libretro-core.c
+@@ -3079,6 +3079,8 @@ void retro_set_environment(retro_environment_t cb)
+    if (environ_cb(RETRO_ENVIRONMENT_GET_VFS_INTERFACE, &vfs_iface_info))
+       filestream_vfs_init(&vfs_iface_info);
+ #endif
++
++   retro_set_core_options();
+ }
+ 
+ void set_variable(const char* key, const char* value)
+-- 
+2.34.1
+
