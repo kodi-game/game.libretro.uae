@@ -15,7 +15,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.uae/resources/icon.png)
+![Commodore - Amiga (PUAE) icon](game.libretro.uae/resources/icon.png)
 
 ### Fanart
 
