@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.uae\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-14 05:39i\n"
-"PO-Revision-Date: 2022-08-12 14:14+0000\n"
+"PO-Revision-Date: 2023-02-03 20:57+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Spanish (Mexico) <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-uae/es_mx/>\n"
 "Language: es_mx\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13\n"
+"X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
 msgid "Commodore - Amiga (PUAE) 2.6.1"
@@ -95,11 +95,11 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Media > Floppy Speed"
-msgstr ""
+msgstr "Medios > Velocidad de Floppy"
 
 msgctxt "#30018"
 msgid "Media > Floppy MultiDrive"
-msgstr ""
+msgstr "Medios > Floppy MultiDrive"
 
 msgctxt "#30019"
 msgid "Media > Floppy Write Protection"
@@ -111,19 +111,19 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Media > CD Speed"
-msgstr ""
+msgstr "Medios > Velocidad de CD"
 
 msgctxt "#30022"
 msgid "Media > CD Startup Delayed Insert"
-msgstr ""
+msgstr "Medios > Inserción de CD al arrancar retardada"
 
 msgctxt "#30023"
 msgid "Media > CD32/CDTV Shared NVRAM"
-msgstr ""
+msgstr "Medios > NVRAM CD32/CDTV compartida"
 
 msgctxt "#30024"
 msgid "Media > WHDLoad Support"
-msgstr ""
+msgstr "Medios > Soporte para WHDLoad"
 
 msgctxt "#30025"
 msgid "Media > WHDLoad Theme"
@@ -131,39 +131,39 @@ msgstr ""
 
 msgctxt "#30026"
 msgid "Media > WHDLoad Splash Screen"
-msgstr ""
+msgstr "Medios > Pantalla de bienvenida de WHDLoad"
 
 msgctxt "#30027"
 msgid "Media > Global Boot HD"
-msgstr ""
+msgstr "Medios > Aranque global HD"
 
 msgctxt "#30028"
 msgid "Media > Cartridge"
-msgstr ""
+msgstr "Medios > Cartucho"
 
 msgctxt "#30029"
 msgid "Show Video Options"
-msgstr ""
+msgstr "Mostrar opciones de video"
 
 msgctxt "#30030"
 msgid "Video > Allow Hz Change"
-msgstr ""
+msgstr "Video > Permitir cambio de Hz"
 
 msgctxt "#30031"
 msgid "Video > Standard"
-msgstr ""
+msgstr "Video > Estándar"
 
 msgctxt "#30032"
 msgid "Video > Resolution"
-msgstr ""
+msgstr "Video > Resolución"
 
 msgctxt "#30033"
 msgid "Video > Line Mode"
-msgstr ""
+msgstr "Video > Modo de línea"
 
 msgctxt "#30034"
 msgid "Video > Pixel Aspect Ratio"
-msgstr ""
+msgstr "Video > Relación de aspecto de pixel"
 
 msgctxt "#30035"
 msgid "Video > Crop"
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Video > Zoom Mode"
-msgstr ""
+msgstr "Video > Modo de acercamiento"
 
 msgctxt "#30037"
 msgid "Video > Crop Mode"
@@ -179,7 +179,7 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Video > Zoom Mode Crop"
-msgstr ""
+msgstr "Video > Modo de acercamiento recorte"
 
 msgctxt "#30039"
 msgid "Video > Vertical Position"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Video > Color Depth"
-msgstr ""
+msgstr "Video > Profundidad de color"
 
 msgctxt "#30047"
 msgid "OSD > Virtual KBD Theme"
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Show Audio Options"
-msgstr ""
+msgstr "Mostrar opciones de audio"
 
 msgctxt "#30053"
 msgid "Audio > Stereo Separation"
@@ -271,23 +271,23 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Input > Analog Stick Mouse"
-msgstr ""
+msgstr "Entrada > Ratón de stick analógico"
 
 msgctxt "#30062"
 msgid "Input > Analog Stick Mouse Deadzone"
-msgstr ""
+msgstr "Entrada > Zona muerta de ratón de stick analógico"
 
 msgctxt "#30063"
 msgid "Input > Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Entrada > Velocidad de ratón de stick analógico"
 
 msgctxt "#30064"
 msgid "Input > D-Pad Mouse Speed"
-msgstr ""
+msgstr "Entrada > Velocidad de ratón de D-Pad"
 
 msgctxt "#30065"
 msgid "Input > Mouse Speed"
-msgstr ""
+msgstr "Entrada > Velocidad de ratón"
 
 msgctxt "#30066"
 msgid "Input > Physical Mouse"
@@ -295,23 +295,23 @@ msgstr ""
 
 msgctxt "#30067"
 msgid "Input > Keyboard Pass-through"
-msgstr ""
+msgstr "Entrada > Entrada directa de teclado"
 
 msgctxt "#30068"
 msgid "Input > Keyrah Keypad Mappings"
-msgstr ""
+msgstr "Entrada > Asignaciones de teclado Keyrah"
 
 msgctxt "#30069"
 msgid "Show Mapping Options"
-msgstr ""
+msgstr "Mostrar opciones de atajos de teclado"
 
 msgctxt "#30070"
 msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr ""
+msgstr "Atajos > Alternar teclado virtual"
 
 msgctxt "#30071"
 msgid "Hotkey > Toggle Statusbar"
-msgstr ""
+msgstr "Atajos > Alternar barra de estado"
 
 msgctxt "#30072"
 msgid "Hotkey > Switch Joystick/Mouse"
@@ -319,19 +319,19 @@ msgstr ""
 
 msgctxt "#30073"
 msgid "Hotkey > Toggle Turbo Fire"
-msgstr ""
+msgstr "Atajos > Alternar Turbo Fire"
 
 msgctxt "#30074"
 msgid "Hotkey > Toggle Save Disk"
-msgstr ""
+msgstr "Atajos > Alternar guardado de disco"
 
 msgctxt "#30075"
 msgid "Hotkey > Reset"
-msgstr ""
+msgstr "Atajos > Reiniciar"
 
 msgctxt "#30076"
 msgid "Hotkey > Toggle Aspect Ratio"
-msgstr ""
+msgstr "Atajos > Alternar relación de aspecto"
 
 msgctxt "#30077"
 msgid "Hotkey > Toggle Crop"
@@ -339,115 +339,115 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Hotkey > Toggle Zoom Mode"
-msgstr ""
+msgstr "Atajos > Alternar modo de acercamiento"
 
 msgctxt "#30079"
 msgid "RetroPad > Up"
-msgstr ""
+msgstr "RetroPad > Arriba"
 
 msgctxt "#30080"
 msgid "RetroPad > Down"
-msgstr ""
+msgstr "RetroPad > Abajo"
 
 msgctxt "#30081"
 msgid "RetroPad > Left"
-msgstr ""
+msgstr "RetroPad > Izquierda"
 
 msgctxt "#30082"
 msgid "RetroPad > Right"
-msgstr ""
+msgstr "RetroPad > Derecha"
 
 msgctxt "#30083"
 msgid "RetroPad > A"
-msgstr ""
+msgstr "RetroPad > A"
 
 msgctxt "#30084"
 msgid "RetroPad > B"
-msgstr ""
+msgstr "RetroPad > B"
 
 msgctxt "#30085"
 msgid "RetroPad > X"
-msgstr ""
+msgstr "RetroPad > X"
 
 msgctxt "#30086"
 msgid "RetroPad > Y"
-msgstr ""
+msgstr "RetroPad > Y"
 
 msgctxt "#30087"
 msgid "RetroPad > Select"
-msgstr ""
+msgstr "RetroPad > Select"
 
 msgctxt "#30088"
 msgid "RetroPad > Start"
-msgstr ""
+msgstr "RetroPad > Start"
 
 msgctxt "#30089"
 msgid "RetroPad > L"
-msgstr ""
+msgstr "RetroPad > L"
 
 msgctxt "#30090"
 msgid "RetroPad > R"
-msgstr ""
+msgstr "RetroPad > R"
 
 msgctxt "#30091"
 msgid "RetroPad > L2"
-msgstr ""
+msgstr "RetroPad > L2"
 
 msgctxt "#30092"
 msgid "RetroPad > R2"
-msgstr ""
+msgstr "RetroPad > R2"
 
 msgctxt "#30093"
 msgid "RetroPad > L3"
-msgstr ""
+msgstr "RetroPad > L3"
 
 msgctxt "#30094"
 msgid "RetroPad > R3"
-msgstr ""
+msgstr "RetroPad > R3"
 
 msgctxt "#30095"
 msgid "RetroPad > Left Analog > Up"
-msgstr ""
+msgstr "RetroPad > Análogo izquierdo > Arriba"
 
 msgctxt "#30096"
 msgid "RetroPad > Left Analog > Down"
-msgstr ""
+msgstr "RetroPad > Análogo izquierdo > Abajo"
 
 msgctxt "#30097"
 msgid "RetroPad > Left Analog > Left"
-msgstr ""
+msgstr "RetroPad > Análogo izquierdo > Izquierda"
 
 msgctxt "#30098"
 msgid "RetroPad > Left Analog > Right"
-msgstr ""
+msgstr "RetroPad > Análogo izquierdo > Derecha"
 
 msgctxt "#30099"
 msgid "RetroPad > Right Analog > Up"
-msgstr ""
+msgstr "RetroPad > Análogo derecho > Arriba"
 
 msgctxt "#30100"
 msgid "RetroPad > Right Analog > Down"
-msgstr ""
+msgstr "RetroPad > Análogo derecho > Abajo"
 
 msgctxt "#30101"
 msgid "RetroPad > Right Analog > Left"
-msgstr ""
+msgstr "RetroPad > Análogo derecho > Izquierda"
 
 msgctxt "#30102"
 msgid "RetroPad > Right Analog > Right"
-msgstr ""
+msgstr "RetroPad > Análogo derecho > Derecha"
 
 msgctxt "#30103"
 msgid "RetroPad > Turbo Fire"
-msgstr ""
+msgstr "RetroPad > Turbo Fire"
 
 msgctxt "#30104"
 msgid "RetroPad > Turbo Button"
-msgstr ""
+msgstr "RetroPad > Botón Turbo"
 
 msgctxt "#30105"
 msgid "RetroPad > Turbo Pulse"
-msgstr ""
+msgstr "RetroPad > Turbo Pulso"
 
 msgctxt "#30106"
 msgid "RetroPad > Joystick/Mouse"
@@ -459,7 +459,7 @@ msgstr ""
 
 msgctxt "#30108"
 msgid "RetroPad > Face Button Options"
-msgstr ""
+msgstr "Entrada > Opciones de caras de botones"
 
 msgctxt "#30109"
 msgid "CD32 Pad > Face Button Options"
