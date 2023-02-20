@@ -234,236 +234,472 @@ msgid "OSD > Statusbar Messages"
 msgstr "OSD > Beskeder for statuslinje"
 
 msgctxt "#30052"
-msgid "Show Audio Options"
-msgstr "Vis lydindstillinger"
+msgid "OSD > Light Pen/Gun Pointer Color"
+msgstr ""
 
 msgctxt "#30053"
-msgid "Audio > Stereo Separation"
-msgstr "Lyd > Adskillelse af stereo"
+msgid "Show Audio Options"
+msgstr ""
 
 msgctxt "#30054"
-msgid "Audio > Interpolation"
-msgstr "Lyd > Interpolation"
+msgid "Audio > Stereo Separation"
+msgstr ""
 
 msgctxt "#30055"
-msgid "Audio > Filter"
-msgstr "Lyd > Filter"
+msgid "Audio > Interpolation"
+msgstr ""
 
 msgctxt "#30056"
-msgid "Audio > Filter Type"
-msgstr "Lyd > Filtertype"
+msgid "Audio > Filter"
+msgstr ""
 
 msgctxt "#30057"
-msgid "Audio > Floppy Sound Emulation"
-msgstr "Lyd > Emulering af floppy-lyd"
+msgid "Audio > Filter Type"
+msgstr ""
 
 msgctxt "#30058"
-msgid "Audio > Floppy Sound Mute Ejected"
-msgstr "Lyd > Lydløs floppy-lyd ved eject"
+msgid "Audio > Floppy Sound Emulation"
+msgstr ""
 
 msgctxt "#30059"
-msgid "Audio > Floppy Sound Type"
-msgstr "Lyd > Type af floppy-lyd"
+msgid "Audio > Floppy Sound Mute Ejected"
+msgstr ""
 
 msgctxt "#30060"
-msgid "Audio > CD Audio Volume"
-msgstr "Lyd > CD-lydstyrke"
+msgid "Audio > Floppy Sound Type"
+msgstr ""
 
 msgctxt "#30061"
-msgid "Input > Analog Stick Mouse"
-msgstr "Input > Mus til analog stick"
+msgid "Audio > CD Audio Volume"
+msgstr ""
 
 msgctxt "#30062"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "Input > Dødzone for mus til analog stick"
+msgid "Input > Analog Stick Mouse"
+msgstr ""
 
 msgctxt "#30063"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr "Input > Hastighed for mus til analog stick"
+msgid "Input > Analog Stick Mouse Deadzone"
+msgstr ""
 
 msgctxt "#30064"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "Input > Hastighed for D-Pad mus"
+msgid "Input > Analog Stick Mouse Speed"
+msgstr ""
 
 msgctxt "#30065"
-msgid "Input > Mouse Speed"
-msgstr "Input > Hastighed for mus"
+msgid "Input > D-Pad Mouse Speed"
+msgstr ""
 
 msgctxt "#30066"
-msgid "Input > Physical Mouse"
-msgstr "Input > Fysisk mus"
+msgid "Input > Mouse Speed"
+msgstr ""
 
 msgctxt "#30067"
-msgid "Input > Keyboard Pass-through"
-msgstr "Input > Gennemgang for tastatur"
+msgid "Input > Physical Mouse"
+msgstr ""
 
 msgctxt "#30068"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "Input > Keyrah keypad mappings"
+msgid "Input > Keyboard Pass-through"
+msgstr ""
 
 msgctxt "#30069"
-msgid "Show Mapping Options"
-msgstr "Vis indstillinger for mapping"
+msgid "Input > Keyrah Keypad Mappings"
+msgstr ""
 
 msgctxt "#30070"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Genvej > Skift til virtuelt tastatur"
+msgid "Show Mapping Options"
+msgstr ""
 
 msgctxt "#30071"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Genvej > Skift statuslinje"
+msgid "Hotkey > Toggle Virtual Keyboard"
+msgstr ""
 
 msgctxt "#30072"
-msgid "Hotkey > Switch Joystick/Mouse"
-msgstr "Genvej > Skift joystick/mus"
+msgid "Hotkey > Toggle Statusbar"
+msgstr ""
 
 msgctxt "#30073"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Genvej > Skift turbo-skyd"
+msgid "Hotkey > Switch Joystick/Mouse"
+msgstr ""
 
 msgctxt "#30074"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "Genvej > Skift gem disk"
+msgid "Hotkey > Toggle Turbo Fire"
+msgstr ""
 
 msgctxt "#30075"
-msgid "Hotkey > Reset"
-msgstr "Genvej > Nulstil"
+msgid "Hotkey > Toggle Save Disk"
+msgstr ""
 
 msgctxt "#30076"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "Genvej > Skift billedformat"
+msgid "Hotkey > Reset"
+msgstr ""
 
 msgctxt "#30077"
-msgid "Hotkey > Toggle Crop"
-msgstr "Genvej > Skift beskæring"
+msgid "Hotkey > Toggle Aspect Ratio"
+msgstr ""
 
 msgctxt "#30078"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "Genvej > Skift zoomtilstand"
+msgid "Hotkey > Toggle Crop"
+msgstr ""
 
 msgctxt "#30079"
-msgid "RetroPad > Up"
-msgstr "RetroPad > Op"
+msgid "Hotkey > Toggle Zoom Mode"
+msgstr ""
 
 msgctxt "#30080"
-msgid "RetroPad > Down"
-msgstr "RetroPad > Ned"
+msgid "RetroPad > Up"
+msgstr ""
 
 msgctxt "#30081"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Venstre"
+msgid "RetroPad > Down"
+msgstr ""
 
 msgctxt "#30082"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Højre"
+msgid "RetroPad > Left"
+msgstr ""
 
 msgctxt "#30083"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
+msgid "RetroPad > Right"
+msgstr ""
 
 msgctxt "#30084"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
+msgid "RetroPad > A"
+msgstr ""
 
 msgctxt "#30085"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
+msgid "RetroPad > B"
+msgstr ""
 
 msgctxt "#30086"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
+msgid "RetroPad > X"
+msgstr ""
 
 msgctxt "#30087"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Vælg"
+msgid "RetroPad > Y"
+msgstr ""
 
 msgctxt "#30088"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
+msgid "RetroPad > Select"
+msgstr ""
 
 msgctxt "#30089"
-msgid "RetroPad > L"
-msgstr "RetroPad > V"
+msgid "RetroPad > Start"
+msgstr ""
 
 msgctxt "#30090"
-msgid "RetroPad > R"
-msgstr "RetroPad > H"
+msgid "RetroPad > L"
+msgstr ""
 
 msgctxt "#30091"
-msgid "RetroPad > L2"
-msgstr "RetroPad > V2"
+msgid "RetroPad > R"
+msgstr ""
 
 msgctxt "#30092"
-msgid "RetroPad > R2"
-msgstr "RetroPad > H2"
+msgid "RetroPad > L2"
+msgstr ""
 
 msgctxt "#30093"
-msgid "RetroPad > L3"
-msgstr "RetroPad > V3"
+msgid "RetroPad > R2"
+msgstr ""
 
 msgctxt "#30094"
-msgid "RetroPad > R3"
-msgstr "RetroPad > H3"
+msgid "RetroPad > L3"
+msgstr ""
 
 msgctxt "#30095"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Venstre analog > Op"
+msgid "RetroPad > R3"
+msgstr ""
 
 msgctxt "#30096"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Venstre analog > Ned"
+msgid "RetroPad > Left Analog > Up"
+msgstr ""
 
 msgctxt "#30097"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Venstre analog > Venstre"
+msgid "RetroPad > Left Analog > Down"
+msgstr ""
 
 msgctxt "#30098"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Venstre analog > Højre"
+msgid "RetroPad > Left Analog > Left"
+msgstr ""
 
 msgctxt "#30099"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Højre analog > Op"
+msgid "RetroPad > Left Analog > Right"
+msgstr ""
 
 msgctxt "#30100"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Højre analog > Ned"
+msgid "RetroPad > Right Analog > Up"
+msgstr ""
 
 msgctxt "#30101"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Højre analog > Venstre"
+msgid "RetroPad > Right Analog > Down"
+msgstr ""
 
 msgctxt "#30102"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Højre analog > Højre"
+msgid "RetroPad > Right Analog > Left"
+msgstr ""
 
 msgctxt "#30103"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Turbo-skyd"
+msgid "RetroPad > Right Analog > Right"
+msgstr ""
 
 msgctxt "#30104"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Turboknap"
+msgid "RetroPad > Turbo Fire"
+msgstr ""
 
 msgctxt "#30105"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Turbopuls"
+msgid "RetroPad > Turbo Button"
+msgstr ""
 
 msgctxt "#30106"
-msgid "RetroPad > Joystick/Mouse"
-msgstr "RetroPad > Joystick/mus"
+msgid "RetroPad > Turbo Pulse"
+msgstr ""
 
 msgctxt "#30107"
-msgid "RetroPad > Joystick Port Order"
-msgstr "RetroPad > Rækkefølge på joystickport"
+msgid "RetroPad > Joystick/Mouse"
+msgstr ""
 
 msgctxt "#30108"
-msgid "RetroPad > Face Button Options"
-msgstr "RetroPad > Indstillinger for face-knap"
+msgid "RetroPad > Joystick Port Order"
+msgstr ""
 
 msgctxt "#30109"
+msgid "RetroPad > Face Button Options"
+msgstr ""
+
+msgctxt "#30110"
 msgid "CD32 Pad > Face Button Options"
-msgstr "CD32 Pad > Indstillinger for face-knap"
+msgstr ""
+
+#~ msgctxt "#30052"
+#~ msgid "Show Audio Options"
+#~ msgstr "Vis lydindstillinger"
+
+#~ msgctxt "#30053"
+#~ msgid "Audio > Stereo Separation"
+#~ msgstr "Lyd > Adskillelse af stereo"
+
+#~ msgctxt "#30054"
+#~ msgid "Audio > Interpolation"
+#~ msgstr "Lyd > Interpolation"
+
+#~ msgctxt "#30055"
+#~ msgid "Audio > Filter"
+#~ msgstr "Lyd > Filter"
+
+#~ msgctxt "#30056"
+#~ msgid "Audio > Filter Type"
+#~ msgstr "Lyd > Filtertype"
+
+#~ msgctxt "#30057"
+#~ msgid "Audio > Floppy Sound Emulation"
+#~ msgstr "Lyd > Emulering af floppy-lyd"
+
+#~ msgctxt "#30058"
+#~ msgid "Audio > Floppy Sound Mute Ejected"
+#~ msgstr "Lyd > Lydløs floppy-lyd ved eject"
+
+#~ msgctxt "#30059"
+#~ msgid "Audio > Floppy Sound Type"
+#~ msgstr "Lyd > Type af floppy-lyd"
+
+#~ msgctxt "#30060"
+#~ msgid "Audio > CD Audio Volume"
+#~ msgstr "Lyd > CD-lydstyrke"
+
+#~ msgctxt "#30061"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "Input > Mus til analog stick"
+
+#~ msgctxt "#30062"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "Input > Dødzone for mus til analog stick"
+
+#~ msgctxt "#30063"
+#~ msgid "Input > Analog Stick Mouse Speed"
+#~ msgstr "Input > Hastighed for mus til analog stick"
+
+#~ msgctxt "#30064"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "Input > Hastighed for D-Pad mus"
+
+#~ msgctxt "#30065"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "Input > Hastighed for mus"
+
+#~ msgctxt "#30066"
+#~ msgid "Input > Physical Mouse"
+#~ msgstr "Input > Fysisk mus"
+
+#~ msgctxt "#30067"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Input > Gennemgang for tastatur"
+
+#~ msgctxt "#30068"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "Input > Keyrah keypad mappings"
+
+#~ msgctxt "#30069"
+#~ msgid "Show Mapping Options"
+#~ msgstr "Vis indstillinger for mapping"
+
+#~ msgctxt "#30070"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Genvej > Skift til virtuelt tastatur"
+
+#~ msgctxt "#30071"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Genvej > Skift statuslinje"
+
+#~ msgctxt "#30072"
+#~ msgid "Hotkey > Switch Joystick/Mouse"
+#~ msgstr "Genvej > Skift joystick/mus"
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Genvej > Skift turbo-skyd"
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Genvej > Skift gem disk"
+
+#~ msgctxt "#30075"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Genvej > Nulstil"
+
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Genvej > Skift billedformat"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Genvej > Skift beskæring"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Genvej > Skift zoomtilstand"
+
+#~ msgctxt "#30079"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Op"
+
+#~ msgctxt "#30080"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Ned"
+
+#~ msgctxt "#30081"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Venstre"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Højre"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Vælg"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > V"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > H"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > V2"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > H2"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > V3"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > H3"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Venstre analog > Op"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Venstre analog > Ned"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Venstre analog > Venstre"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Venstre analog > Højre"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Højre analog > Op"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Højre analog > Ned"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Højre analog > Venstre"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Højre analog > Højre"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Turbo-skyd"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Turboknap"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Turbopuls"
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Joystick/Mouse"
+#~ msgstr "RetroPad > Joystick/mus"
+
+#~ msgctxt "#30107"
+#~ msgid "RetroPad > Joystick Port Order"
+#~ msgstr "RetroPad > Rækkefølge på joystickport"
+
+#~ msgctxt "#30108"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "RetroPad > Indstillinger for face-knap"
+
+#~ msgctxt "#30109"
+#~ msgid "CD32 Pad > Face Button Options"
+#~ msgstr "CD32 Pad > Indstillinger for face-knap"
 
 #~ msgctxt "#30020"
 #~ msgid "Media > CD Speed"

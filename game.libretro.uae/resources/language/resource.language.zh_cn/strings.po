@@ -234,236 +234,472 @@ msgid "OSD > Statusbar Messages"
 msgstr "OSD > 状态栏信息"
 
 msgctxt "#30052"
-msgid "Show Audio Options"
-msgstr "显示音频选项"
+msgid "OSD > Light Pen/Gun Pointer Color"
+msgstr ""
 
 msgctxt "#30053"
-msgid "Audio > Stereo Separation"
-msgstr "音频 > 立体声分离"
+msgid "Show Audio Options"
+msgstr ""
 
 msgctxt "#30054"
-msgid "Audio > Interpolation"
-msgstr "音频 > 插值"
+msgid "Audio > Stereo Separation"
+msgstr ""
 
 msgctxt "#30055"
-msgid "Audio > Filter"
-msgstr "音频 > 滤波器"
+msgid "Audio > Interpolation"
+msgstr ""
 
 msgctxt "#30056"
-msgid "Audio > Filter Type"
-msgstr "音频 > 滤波器类型"
+msgid "Audio > Filter"
+msgstr ""
 
 msgctxt "#30057"
-msgid "Audio > Floppy Sound Emulation"
-msgstr "音频 > 软盘声音模拟"
+msgid "Audio > Filter Type"
+msgstr ""
 
 msgctxt "#30058"
-msgid "Audio > Floppy Sound Mute Ejected"
-msgstr "音频 > 软盘静音弹出"
+msgid "Audio > Floppy Sound Emulation"
+msgstr ""
 
 msgctxt "#30059"
-msgid "Audio > Floppy Sound Type"
-msgstr "音频 > 软盘声音类型"
+msgid "Audio > Floppy Sound Mute Ejected"
+msgstr ""
 
 msgctxt "#30060"
-msgid "Audio > CD Audio Volume"
-msgstr "音频 > CD 音频音量"
+msgid "Audio > Floppy Sound Type"
+msgstr ""
 
 msgctxt "#30061"
-msgid "Input > Analog Stick Mouse"
-msgstr "输入 > 模拟游戏杆鼠标"
+msgid "Audio > CD Audio Volume"
+msgstr ""
 
 msgctxt "#30062"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "输入 > 模拟游戏杆鼠标死区"
+msgid "Input > Analog Stick Mouse"
+msgstr ""
 
 msgctxt "#30063"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr "输入 > 模拟游戏杆鼠标速度"
+msgid "Input > Analog Stick Mouse Deadzone"
+msgstr ""
 
 msgctxt "#30064"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "输入 > 十字键鼠标速度"
+msgid "Input > Analog Stick Mouse Speed"
+msgstr ""
 
 msgctxt "#30065"
-msgid "Input > Mouse Speed"
-msgstr "输入 > 鼠标速度"
+msgid "Input > D-Pad Mouse Speed"
+msgstr ""
 
 msgctxt "#30066"
-msgid "Input > Physical Mouse"
-msgstr "输入 > 物理鼠标"
+msgid "Input > Mouse Speed"
+msgstr ""
 
 msgctxt "#30067"
-msgid "Input > Keyboard Pass-through"
-msgstr "输入 > 键盘传递"
+msgid "Input > Physical Mouse"
+msgstr ""
 
 msgctxt "#30068"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "输入 > Keyrah 键盘映射"
+msgid "Input > Keyboard Pass-through"
+msgstr ""
 
 msgctxt "#30069"
-msgid "Show Mapping Options"
-msgstr "显示映射选项"
+msgid "Input > Keyrah Keypad Mappings"
+msgstr ""
 
 msgctxt "#30070"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "热键 > 切换虚拟键盘"
+msgid "Show Mapping Options"
+msgstr ""
 
 msgctxt "#30071"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "热键 > 切换状态栏"
+msgid "Hotkey > Toggle Virtual Keyboard"
+msgstr ""
 
 msgctxt "#30072"
-msgid "Hotkey > Switch Joystick/Mouse"
-msgstr "热键 > 切换游戏杆/鼠标"
+msgid "Hotkey > Toggle Statusbar"
+msgstr ""
 
 msgctxt "#30073"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "热键 > 切换 Turbo 开火"
+msgid "Hotkey > Switch Joystick/Mouse"
+msgstr ""
 
 msgctxt "#30074"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "热键 > 切换保存磁盘"
+msgid "Hotkey > Toggle Turbo Fire"
+msgstr ""
 
 msgctxt "#30075"
-msgid "Hotkey > Reset"
-msgstr "热键 > 重置"
+msgid "Hotkey > Toggle Save Disk"
+msgstr ""
 
 msgctxt "#30076"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "热键 > 切换纵横比"
+msgid "Hotkey > Reset"
+msgstr ""
 
 msgctxt "#30077"
-msgid "Hotkey > Toggle Crop"
-msgstr "热键 > 切换裁剪"
+msgid "Hotkey > Toggle Aspect Ratio"
+msgstr ""
 
 msgctxt "#30078"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "热键 > 切换缩放模式"
+msgid "Hotkey > Toggle Crop"
+msgstr ""
 
 msgctxt "#30079"
-msgid "RetroPad > Up"
-msgstr "RetroPad > 上"
+msgid "Hotkey > Toggle Zoom Mode"
+msgstr ""
 
 msgctxt "#30080"
-msgid "RetroPad > Down"
-msgstr "RetroPad > 下"
+msgid "RetroPad > Up"
+msgstr ""
 
 msgctxt "#30081"
-msgid "RetroPad > Left"
-msgstr "RetroPad > 左"
+msgid "RetroPad > Down"
+msgstr ""
 
 msgctxt "#30082"
-msgid "RetroPad > Right"
-msgstr "RetroPad > 右"
+msgid "RetroPad > Left"
+msgstr ""
 
 msgctxt "#30083"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
+msgid "RetroPad > Right"
+msgstr ""
 
 msgctxt "#30084"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
+msgid "RetroPad > A"
+msgstr ""
 
 msgctxt "#30085"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
+msgid "RetroPad > B"
+msgstr ""
 
 msgctxt "#30086"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
+msgid "RetroPad > X"
+msgstr ""
 
 msgctxt "#30087"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Select"
+msgid "RetroPad > Y"
+msgstr ""
 
 msgctxt "#30088"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
+msgid "RetroPad > Select"
+msgstr ""
 
 msgctxt "#30089"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
+msgid "RetroPad > Start"
+msgstr ""
 
 msgctxt "#30090"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
+msgid "RetroPad > L"
+msgstr ""
 
 msgctxt "#30091"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
+msgid "RetroPad > R"
+msgstr ""
 
 msgctxt "#30092"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
+msgid "RetroPad > L2"
+msgstr ""
 
 msgctxt "#30093"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
+msgid "RetroPad > R2"
+msgstr ""
 
 msgctxt "#30094"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
+msgid "RetroPad > L3"
+msgstr ""
 
 msgctxt "#30095"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > 左模拟 > 上"
+msgid "RetroPad > R3"
+msgstr ""
 
 msgctxt "#30096"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > 左模拟 > 下"
+msgid "RetroPad > Left Analog > Up"
+msgstr ""
 
 msgctxt "#30097"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > 左模拟 > 左"
+msgid "RetroPad > Left Analog > Down"
+msgstr ""
 
 msgctxt "#30098"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > 左模拟 > 右"
+msgid "RetroPad > Left Analog > Left"
+msgstr ""
 
 msgctxt "#30099"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > 右模拟 > 上"
+msgid "RetroPad > Left Analog > Right"
+msgstr ""
 
 msgctxt "#30100"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > 右模拟 > 下"
+msgid "RetroPad > Right Analog > Up"
+msgstr ""
 
 msgctxt "#30101"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > 右模拟 > 左"
+msgid "RetroPad > Right Analog > Down"
+msgstr ""
 
 msgctxt "#30102"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > 右模拟 > 右"
+msgid "RetroPad > Right Analog > Left"
+msgstr ""
 
 msgctxt "#30103"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Turbo 开火"
+msgid "RetroPad > Right Analog > Right"
+msgstr ""
 
 msgctxt "#30104"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Turbo 按钮"
+msgid "RetroPad > Turbo Fire"
+msgstr ""
 
 msgctxt "#30105"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Turbo 脉冲"
+msgid "RetroPad > Turbo Button"
+msgstr ""
 
 msgctxt "#30106"
-msgid "RetroPad > Joystick/Mouse"
-msgstr "RetroPad > 游戏杆/鼠标"
+msgid "RetroPad > Turbo Pulse"
+msgstr ""
 
 msgctxt "#30107"
-msgid "RetroPad > Joystick Port Order"
-msgstr "RetroPad > 游戏杆端口顺序"
+msgid "RetroPad > Joystick/Mouse"
+msgstr ""
 
 msgctxt "#30108"
-msgid "RetroPad > Face Button Options"
-msgstr "Retropad > Face 按钮选项"
+msgid "RetroPad > Joystick Port Order"
+msgstr ""
 
 msgctxt "#30109"
+msgid "RetroPad > Face Button Options"
+msgstr ""
+
+msgctxt "#30110"
 msgid "CD32 Pad > Face Button Options"
-msgstr "CD32 Pad > Face 按钮选项"
+msgstr ""
+
+#~ msgctxt "#30052"
+#~ msgid "Show Audio Options"
+#~ msgstr "显示音频选项"
+
+#~ msgctxt "#30053"
+#~ msgid "Audio > Stereo Separation"
+#~ msgstr "音频 > 立体声分离"
+
+#~ msgctxt "#30054"
+#~ msgid "Audio > Interpolation"
+#~ msgstr "音频 > 插值"
+
+#~ msgctxt "#30055"
+#~ msgid "Audio > Filter"
+#~ msgstr "音频 > 滤波器"
+
+#~ msgctxt "#30056"
+#~ msgid "Audio > Filter Type"
+#~ msgstr "音频 > 滤波器类型"
+
+#~ msgctxt "#30057"
+#~ msgid "Audio > Floppy Sound Emulation"
+#~ msgstr "音频 > 软盘声音模拟"
+
+#~ msgctxt "#30058"
+#~ msgid "Audio > Floppy Sound Mute Ejected"
+#~ msgstr "音频 > 软盘静音弹出"
+
+#~ msgctxt "#30059"
+#~ msgid "Audio > Floppy Sound Type"
+#~ msgstr "音频 > 软盘声音类型"
+
+#~ msgctxt "#30060"
+#~ msgid "Audio > CD Audio Volume"
+#~ msgstr "音频 > CD 音频音量"
+
+#~ msgctxt "#30061"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "输入 > 模拟游戏杆鼠标"
+
+#~ msgctxt "#30062"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "输入 > 模拟游戏杆鼠标死区"
+
+#~ msgctxt "#30063"
+#~ msgid "Input > Analog Stick Mouse Speed"
+#~ msgstr "输入 > 模拟游戏杆鼠标速度"
+
+#~ msgctxt "#30064"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "输入 > 十字键鼠标速度"
+
+#~ msgctxt "#30065"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "输入 > 鼠标速度"
+
+#~ msgctxt "#30066"
+#~ msgid "Input > Physical Mouse"
+#~ msgstr "输入 > 物理鼠标"
+
+#~ msgctxt "#30067"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "输入 > 键盘传递"
+
+#~ msgctxt "#30068"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "输入 > Keyrah 键盘映射"
+
+#~ msgctxt "#30069"
+#~ msgid "Show Mapping Options"
+#~ msgstr "显示映射选项"
+
+#~ msgctxt "#30070"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "热键 > 切换虚拟键盘"
+
+#~ msgctxt "#30071"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "热键 > 切换状态栏"
+
+#~ msgctxt "#30072"
+#~ msgid "Hotkey > Switch Joystick/Mouse"
+#~ msgstr "热键 > 切换游戏杆/鼠标"
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "热键 > 切换 Turbo 开火"
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "热键 > 切换保存磁盘"
+
+#~ msgctxt "#30075"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "热键 > 重置"
+
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "热键 > 切换纵横比"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "热键 > 切换裁剪"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "热键 > 切换缩放模式"
+
+#~ msgctxt "#30079"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > 上"
+
+#~ msgctxt "#30080"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > 下"
+
+#~ msgctxt "#30081"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > 左"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > 右"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Select"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > 左模拟 > 上"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > 左模拟 > 下"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > 左模拟 > 左"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > 左模拟 > 右"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > 右模拟 > 上"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > 右模拟 > 下"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > 右模拟 > 左"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > 右模拟 > 右"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Turbo 开火"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Turbo 按钮"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Turbo 脉冲"
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Joystick/Mouse"
+#~ msgstr "RetroPad > 游戏杆/鼠标"
+
+#~ msgctxt "#30107"
+#~ msgid "RetroPad > Joystick Port Order"
+#~ msgstr "RetroPad > 游戏杆端口顺序"
+
+#~ msgctxt "#30108"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "Retropad > Face 按钮选项"
+
+#~ msgctxt "#30109"
+#~ msgid "CD32 Pad > Face Button Options"
+#~ msgstr "CD32 Pad > Face 按钮选项"
 
 #~ msgctxt "#30020"
 #~ msgid "Media > CD Speed"
