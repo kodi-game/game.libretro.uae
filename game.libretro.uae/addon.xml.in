@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.uae"
 		name="Commodore - Amiga (PUAE)"
-		version="4.9.1.50"
+		version="4.9.1.51"
 		provider-name="UAE Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -24,7 +24,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<summary lang="en_GB">Commodore - Amiga (PUAE) 2.6.1</summary>
+		<summary lang="en_GB">Commodore - Amiga (PUAE)</summary>
 		<description lang="da_DK">UAE står for Ubiquitous Amiga Emulator.[CR][CR]De fleste spil kræver en version af Amiga Kickstart ROM. Nogle gamle spil vil dog fungere med den indbyggede ROM-emulering.</description>
 		<description lang="de_DE">UAE steht für den Ubiquitous Amiga Emulator[CR][CR]Die meisten Spiele benötigen eine Version des Amiga Kickstart-ROM. Einige alte Spiele funktionieren jedoch auch mit der eingebauten ROM-Emulation.</description>
 		<description lang="en_GB">UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.</description>
