@@ -24,6 +24,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Commodore - Amiga (PUAE)</summary>
 		<summary lang="en_GB">Commodore - Amiga (PUAE)</summary>
 		<summary lang="es_ES">Commodore - Amiga (PUAE)</summary>
 		<description lang="da_DK">UAE står for Ubiquitous Amiga Emulator.[CR][CR]De fleste spil kræver en version af Amiga Kickstart ROM. Nogle gamle spil vil dog fungere med den indbyggede ROM-emulering.</description>
