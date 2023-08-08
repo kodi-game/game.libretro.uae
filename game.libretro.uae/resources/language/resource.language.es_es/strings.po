@@ -158,16 +158,16 @@ msgid "Video > Standard"
 msgstr "Vídeo > Estándar"
 
 msgctxt "#30033"
-msgid "Video > Resolution"
-msgstr "Vídeo > Resolución"
+msgid "Video > Pixel Aspect Ratio"
+msgstr ""
 
 msgctxt "#30034"
-msgid "Video > Line Mode"
-msgstr "Vídeo > Modo de Línea"
+msgid "Video > Resolution"
+msgstr ""
 
 msgctxt "#30035"
-msgid "Video > Pixel Aspect Ratio"
-msgstr "Vídeo > Proporción de Píxeles"
+msgid "Video > Line Mode"
+msgstr ""
 
 msgctxt "#30036"
 msgid "Video > Crop"
@@ -476,6 +476,18 @@ msgstr "RetroPad > Opciones Botón Frontal"
 msgctxt "#30112"
 msgid "CD32 Pad > Face Button Options"
 msgstr "CD32 Pad > Opciones Botón Frontal"
+
+#~ msgctxt "#30033"
+#~ msgid "Video > Resolution"
+#~ msgstr "Vídeo > Resolución"
+
+#~ msgctxt "#30034"
+#~ msgid "Video > Line Mode"
+#~ msgstr "Vídeo > Modo de Línea"
+
+#~ msgctxt "#30035"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr "Vídeo > Proporción de Píxeles"
 
 #~ msgctxt "#30027"
 #~ msgid "Media > Global Boot HD"

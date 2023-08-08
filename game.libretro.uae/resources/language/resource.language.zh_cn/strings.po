@@ -158,15 +158,15 @@ msgid "Video > Standard"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Video > Resolution"
+msgid "Video > Pixel Aspect Ratio"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Video > Line Mode"
+msgid "Video > Resolution"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Video > Pixel Aspect Ratio"
+msgid "Video > Line Mode"
 msgstr ""
 
 msgctxt "#30036"
