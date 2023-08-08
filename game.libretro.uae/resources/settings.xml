@@ -33,9 +33,9 @@
 		<setting label="30030" type="select" id="puae_video_options_display" values="disabled|enabled" default="disabled"/>
 		<setting label="30031" type="select" id="puae_video_allow_hz_change" values="locked|disabled|enabled" default="locked"/>
 		<setting label="30032" type="select" id="puae_video_standard" values="PAL auto|NTSC auto|PAL|NTSC" default="PAL auto"/>
-		<setting label="30033" type="select" id="puae_video_resolution" values="auto|lores|hires|superhires" default="auto"/>
-		<setting label="30034" type="select" id="puae_video_vresolution" values="auto|single|double" default="auto"/>
-		<setting label="30035" type="select" id="puae_video_aspect" values="auto|PAL|NTSC" default="auto"/>
+		<setting label="30033" type="select" id="puae_video_aspect" values="auto|PAL|NTSC" default="auto"/>
+		<setting label="30034" type="select" id="puae_video_resolution" values="auto|lores|hires|superhires" default="auto"/>
+		<setting label="30035" type="select" id="puae_video_vresolution" values="auto|single|double" default="auto"/>
 		<setting label="30036" type="select" id="puae_crop" values="disabled|minimum|smaller|small|medium|large|larger|maximum|auto" default="disabled"/>
 		<setting label="30037" type="select" id="puae_zoom_mode" values="deprecated|disabled|minimum|smaller|small|medium|large|larger|maximum|auto" default="deprecated"/>
 		<setting label="30038" type="select" id="puae_crop_mode" values="both|horizontal|vertical|16:9|16:10|4:3|5:4" default="both"/>
