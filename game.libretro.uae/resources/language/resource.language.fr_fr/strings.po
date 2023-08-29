@@ -370,19 +370,19 @@ msgid "RetroPad > Right"
 msgstr ""
 
 msgctxt "#30086"
-msgid "RetroPad > A"
-msgstr ""
-
-msgctxt "#30087"
 msgid "RetroPad > B"
 msgstr ""
 
+msgctxt "#30087"
+msgid "RetroPad > A"
+msgstr ""
+
 msgctxt "#30088"
-msgid "RetroPad > X"
+msgid "RetroPad > Y"
 msgstr ""
 
 msgctxt "#30089"
-msgid "RetroPad > Y"
+msgid "RetroPad > X"
 msgstr ""
 
 msgctxt "#30090"
