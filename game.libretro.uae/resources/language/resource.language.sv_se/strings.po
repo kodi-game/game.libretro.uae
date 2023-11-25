@@ -476,3 +476,7 @@ msgstr ""
 msgctxt "#30112"
 msgid "CD32 Pad > Face Button Options"
 msgstr ""
+
+msgctxt "#30113"
+msgid "Video > Automatic Crop Delay"
+msgstr ""
