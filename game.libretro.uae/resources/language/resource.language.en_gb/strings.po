@@ -173,171 +173,171 @@ msgid "Video > Crop"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Video > Automatic Crop Delay"
-msgstr ""
-
-msgctxt "#30038"
 msgid "Video > Zoom Mode"
 msgstr ""
 
-msgctxt "#30039"
+msgctxt "#30038"
 msgid "Video > Crop Mode"
 msgstr ""
 
-msgctxt "#30040"
+msgctxt "#30039"
 msgid "Video > Zoom Mode Crop"
 msgstr ""
 
-msgctxt "#30041"
+msgctxt "#30040"
 msgid "Video > Vertical Position"
 msgstr ""
 
-msgctxt "#30042"
+msgctxt "#30041"
 msgid "Video > Horizontal Position"
 msgstr ""
 
-msgctxt "#30043"
+msgctxt "#30042"
 msgid "Video > Immediate/Waiting Blits"
 msgstr ""
 
-msgctxt "#30044"
+msgctxt "#30043"
 msgid "Video > Collision Level"
 msgstr ""
 
-msgctxt "#30045"
+msgctxt "#30044"
 msgid "Video > Remove Interlace Artifacts"
 msgstr ""
 
-msgctxt "#30046"
+msgctxt "#30045"
 msgid "Video > Frameskip"
 msgstr ""
 
-msgctxt "#30047"
+msgctxt "#30046"
 msgid "Video > Color Gamma"
 msgstr ""
 
-msgctxt "#30048"
+msgctxt "#30047"
 msgid "Video > Color Depth"
 msgstr ""
 
-msgctxt "#30049"
+msgctxt "#30048"
 msgid "OSD > Virtual KBD Theme"
 msgstr ""
 
-msgctxt "#30050"
+msgctxt "#30049"
 msgid "OSD > Virtual KBD Transparency"
 msgstr ""
 
-msgctxt "#30051"
+msgctxt "#30050"
 msgid "OSD > Virtual KBD Dimming"
 msgstr ""
 
-msgctxt "#30052"
+msgctxt "#30051"
 msgid "OSD > Statusbar Mode"
 msgstr ""
 
-msgctxt "#30053"
+msgctxt "#30052"
 msgid "OSD > Statusbar Startup"
 msgstr ""
 
-msgctxt "#30054"
+msgctxt "#30053"
 msgid "OSD > Statusbar Messages"
 msgstr ""
 
-msgctxt "#30055"
+msgctxt "#30054"
 msgid "OSD > Light Pen/Gun Pointer Color"
 msgstr ""
 
-msgctxt "#30056"
+msgctxt "#30055"
 msgid "Show Audio Options"
 msgstr ""
 
-msgctxt "#30057"
+msgctxt "#30056"
 msgid "Audio > Stereo Separation"
 msgstr ""
 
-msgctxt "#30058"
+msgctxt "#30057"
 msgid "Audio > Interpolation"
 msgstr ""
 
-msgctxt "#30059"
+msgctxt "#30058"
 msgid "Audio > Filter"
 msgstr ""
 
-msgctxt "#30060"
+msgctxt "#30059"
 msgid "Audio > Filter Type"
 msgstr ""
 
-msgctxt "#30061"
+msgctxt "#30060"
 msgid "Audio > Floppy Sound Emulation"
 msgstr ""
 
-msgctxt "#30062"
+msgctxt "#30061"
 msgid "Audio > Floppy Sound Mute Ejected"
 msgstr ""
 
-msgctxt "#30063"
+msgctxt "#30062"
 msgid "Audio > Floppy Sound Type"
 msgstr ""
 
-msgctxt "#30064"
+msgctxt "#30063"
 msgid "Audio > CD Audio Volume"
 msgstr ""
 
-msgctxt "#30065"
+msgctxt "#30064"
 msgid "Input > Analog Stick Mouse"
 msgstr ""
 
-msgctxt "#30066"
+msgctxt "#30065"
 msgid "Input > Analog Stick Mouse Deadzone"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30066"
 msgid "Input > Analog Stick Mouse Speed"
 msgstr ""
 
-msgctxt "#30068"
+msgctxt "#30067"
 msgid "Input > D-Pad Mouse Speed"
 msgstr ""
 
-msgctxt "#30069"
+msgctxt "#30068"
 msgid "Input > Mouse Speed"
 msgstr ""
 
-msgctxt "#30070"
+msgctxt "#30069"
 msgid "Input > Physical Mouse"
 msgstr ""
 
-msgctxt "#30071"
+msgctxt "#30070"
 msgid "Input > Keyboard Pass-through"
 msgstr ""
 
-msgctxt "#30072"
+msgctxt "#30071"
 msgid "Input > Keyrah Keypad Mappings"
 msgstr ""
 
-msgctxt "#30073"
+msgctxt "#30072"
 msgid "Show Mapping Options"
 msgstr ""
 
-msgctxt "#30074"
+msgctxt "#30073"
 msgid "Hotkey > Toggle Virtual Keyboard"
 msgstr ""
 
-msgctxt "#30075"
+msgctxt "#30074"
 msgid "Hotkey > Toggle Statusbar"
 msgstr ""
 
-msgctxt "#30076"
+msgctxt "#30075"
 msgid "Hotkey > Switch Joystick/Mouse"
 msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30076"
 msgid "Hotkey > Toggle Turbo Fire"
 msgstr ""
 
-msgctxt "#30078"
+msgctxt "#30077"
 msgid "Hotkey > Toggle Save Disk"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Hotkey > Reset"
 msgstr ""
 
 msgctxt "#30079"
@@ -353,129 +353,125 @@ msgid "Hotkey > Toggle Zoom Mode"
 msgstr ""
 
 msgctxt "#30082"
-msgid "Hotkey > Reset"
-msgstr ""
-
-msgctxt "#30083"
 msgid "RetroPad > Up"
 msgstr ""
 
-msgctxt "#30084"
+msgctxt "#30083"
 msgid "RetroPad > Down"
 msgstr ""
 
-msgctxt "#30085"
+msgctxt "#30084"
 msgid "RetroPad > Left"
 msgstr ""
 
-msgctxt "#30086"
+msgctxt "#30085"
 msgid "RetroPad > Right"
 msgstr ""
 
-msgctxt "#30087"
+msgctxt "#30086"
 msgid "RetroPad > B"
 msgstr ""
 
-msgctxt "#30088"
+msgctxt "#30087"
 msgid "RetroPad > A"
 msgstr ""
 
-msgctxt "#30089"
+msgctxt "#30088"
 msgid "RetroPad > Y"
 msgstr ""
 
-msgctxt "#30090"
+msgctxt "#30089"
 msgid "RetroPad > X"
 msgstr ""
 
-msgctxt "#30091"
+msgctxt "#30090"
 msgid "RetroPad > Select"
 msgstr ""
 
-msgctxt "#30092"
+msgctxt "#30091"
 msgid "RetroPad > Start"
 msgstr ""
 
-msgctxt "#30093"
+msgctxt "#30092"
 msgid "RetroPad > L"
 msgstr ""
 
-msgctxt "#30094"
+msgctxt "#30093"
 msgid "RetroPad > R"
 msgstr ""
 
-msgctxt "#30095"
+msgctxt "#30094"
 msgid "RetroPad > L2"
 msgstr ""
 
-msgctxt "#30096"
+msgctxt "#30095"
 msgid "RetroPad > R2"
 msgstr ""
 
-msgctxt "#30097"
+msgctxt "#30096"
 msgid "RetroPad > L3"
 msgstr ""
 
-msgctxt "#30098"
+msgctxt "#30097"
 msgid "RetroPad > R3"
 msgstr ""
 
-msgctxt "#30099"
+msgctxt "#30098"
 msgid "RetroPad > Left Analog > Up"
 msgstr ""
 
-msgctxt "#30100"
+msgctxt "#30099"
 msgid "RetroPad > Left Analog > Down"
 msgstr ""
 
-msgctxt "#30101"
+msgctxt "#30100"
 msgid "RetroPad > Left Analog > Left"
 msgstr ""
 
-msgctxt "#30102"
+msgctxt "#30101"
 msgid "RetroPad > Left Analog > Right"
 msgstr ""
 
-msgctxt "#30103"
+msgctxt "#30102"
 msgid "RetroPad > Right Analog > Up"
 msgstr ""
 
-msgctxt "#30104"
+msgctxt "#30103"
 msgid "RetroPad > Right Analog > Down"
 msgstr ""
 
-msgctxt "#30105"
+msgctxt "#30104"
 msgid "RetroPad > Right Analog > Left"
 msgstr ""
 
-msgctxt "#30106"
+msgctxt "#30105"
 msgid "RetroPad > Right Analog > Right"
 msgstr ""
 
-msgctxt "#30107"
+msgctxt "#30106"
 msgid "RetroPad > Turbo Fire"
 msgstr ""
 
-msgctxt "#30108"
+msgctxt "#30107"
 msgid "RetroPad > Turbo Button"
 msgstr ""
 
-msgctxt "#30109"
+msgctxt "#30108"
 msgid "RetroPad > Turbo Pulse"
 msgstr ""
 
-msgctxt "#30110"
+msgctxt "#30109"
 msgid "RetroPad > Joystick/Mouse"
 msgstr ""
 
-msgctxt "#30111"
+msgctxt "#30110"
 msgid "RetroPad > Joystick Port Order"
 msgstr ""
 
-msgctxt "#30112"
+msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
-msgctxt "#30113"
+msgctxt "#30112"
 msgid "CD32 Pad > Face Button Options"
 msgstr ""
