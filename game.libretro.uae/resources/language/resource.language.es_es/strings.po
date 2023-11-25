@@ -477,21 +477,21 @@ msgctxt "#30112"
 msgid "CD32 Pad > Face Button Options"
 msgstr "CD32 Pad > Opciones Botón Frontal"
 
-#~ msgctxt "#30086"
-#~ msgid "RetroPad > A"
-#~ msgstr "RetroPad > A"
-
 #~ msgctxt "#30087"
 #~ msgid "RetroPad > B"
 #~ msgstr "RetroPad > B"
 
-#~ msgctxt "#30088"
-#~ msgid "RetroPad > X"
-#~ msgstr "RetroPad > X"
-
 #~ msgctxt "#30089"
 #~ msgid "RetroPad > Y"
 #~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
 
 #~ msgctxt "#30033"
 #~ msgid "Video > Resolution"
