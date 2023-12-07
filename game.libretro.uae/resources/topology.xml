@@ -8,5 +8,10 @@
   </port>
   <port type="controller" id="1">
     <accepts controller="game.controller.amiga.cd32"/>
+    <accepts controller="game.controller.default"/>
+  </port>
+  <port type="controller" id="2">
+    <accepts controller="game.controller.amiga.cd32"/>
+    <accepts controller="game.controller.default"/>
   </port>
 </logicaltopology>
