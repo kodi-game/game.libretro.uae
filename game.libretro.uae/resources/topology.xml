@@ -9,4 +9,7 @@
   <port type="controller" id="1">
     <accepts controller="game.controller.amiga.cd32"/>
   </port>
+  <port type="controller" id="2">
+    <accepts controller="game.controller.amiga.cd32"/>
+  </port>
 </logicaltopology>
