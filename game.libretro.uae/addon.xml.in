@@ -6,6 +6,7 @@
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.amiga.cd32" version="1.0.0"/>
+		<import addon="game.controller.default" version="1.0.0"/>
 		<import addon="game.controller.keyboard" version="1.0.0"/>
 		<import addon="game.controller.mouse" version="1.0.0"/>
 	</requires>
