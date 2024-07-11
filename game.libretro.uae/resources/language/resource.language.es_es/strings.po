@@ -289,10 +289,6 @@ msgctxt "#30065"
 msgid "Input > Analog Stick Mouse Deadzone"
 msgstr "Entrada > Zona Muerta Stick Analógico del Ratón"
 
-msgctxt "#30066"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr "Entrada > Velocidad Stick Analógico del Ratón"
-
 msgctxt "#30067"
 msgid "Input > D-Pad Mouse Speed"
 msgstr "Entrada > Velocidad D-Pad del Ratón"
@@ -480,6 +476,18 @@ msgstr "CD32 Pad > Opciones Botón Frontal"
 msgctxt "#30113"
 msgid "Video > Automatic Crop Delay"
 msgstr "Vídeo > Retardo Automático del Recorte"
+
+msgctxt "#30114"
+msgid "Input > Left Analog Stick Mouse Speed"
+msgstr ""
+
+msgctxt "#30115"
+msgid "Input > Right Analog Stick Mouse Speed"
+msgstr ""
+
+#~ msgctxt "#30066"
+#~ msgid "Input > Analog Stick Mouse Speed"
+#~ msgstr "Entrada > Velocidad Stick Analógico del Ratón"
 
 #~ msgctxt "#30087"
 #~ msgid "RetroPad > B"

@@ -289,10 +289,6 @@ msgctxt "#30065"
 msgid "Input > Analog Stick Mouse Deadzone"
 msgstr "Input > Zona morta del mouse analogico con levetta"
 
-msgctxt "#30066"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr "Input > Velocità della levetta del mouse analogico"
-
 msgctxt "#30067"
 msgid "Input > D-Pad Mouse Speed"
 msgstr "Input > Velocità del mouse del D-Pad"
@@ -480,6 +476,18 @@ msgstr ""
 msgctxt "#30113"
 msgid "Video > Automatic Crop Delay"
 msgstr ""
+
+msgctxt "#30114"
+msgid "Input > Left Analog Stick Mouse Speed"
+msgstr ""
+
+msgctxt "#30115"
+msgid "Input > Right Analog Stick Mouse Speed"
+msgstr ""
+
+#~ msgctxt "#30066"
+#~ msgid "Input > Analog Stick Mouse Speed"
+#~ msgstr "Input > Velocità della levetta del mouse analogico"
 
 #~ msgctxt "#30027"
 #~ msgid "Media > Global Boot HD"
