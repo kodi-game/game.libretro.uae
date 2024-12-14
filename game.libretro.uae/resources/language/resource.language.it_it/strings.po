@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
 msgstr "UAE sta per Ubiquitous Amiga Emulator.[CR][CR]La maggior parte dei giochi richiede una versione dell'Amiga Kickstart ROM. Tuttavia, alcuni vecchi giochi funzioneranno con l'emulazione ROM integrata."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "System > Model"
 msgstr "Sistema > Modello"
@@ -484,6 +480,10 @@ msgstr ""
 msgctxt "#30115"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
 
 #~ msgctxt "#30066"
 #~ msgid "Input > Analog Stick Mouse Speed"

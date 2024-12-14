@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
 msgstr "UAE 即 Ubiquitous Amiga Emulator（无处不在的 Amiga 模拟器）。[CR][CR]大多数游戏需要一个版本的 Amiga 启动 ROM，而一些旧游戏可使用内建 ROM 仿真。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "System > Model"
 msgstr "系统 > 型号"
@@ -484,6 +480,10 @@ msgstr ""
 msgctxt "#30115"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30027"
 #~ msgid "Media > Global Boot HD"
