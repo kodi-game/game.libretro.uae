@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="puae_model" values="auto|A500OG|A500|A500PLUS|A600|A1200OG|A1200|A2000OG|A2000|A4030|A4040|CDTV|CD32|CD32FR" default="auto"/>
 		<setting label="30002" type="select" id="puae_model_options_display" values="disabled|enabled" default="disabled"/>
 		<setting label="30003" type="select" id="puae_model_fd" values="A500|A500OG|A500PLUS|A600|A1200OG|A1200|A2000OG|A2000|A4030|A4040" default="A500"/>
@@ -33,8 +33,8 @@
 		<setting label="30030" type="select" id="puae_video_options_display" values="disabled|enabled" default="disabled"/>
 		<setting label="30031" type="select" id="puae_video_allow_hz_change" values="locked|disabled|enabled" default="locked"/>
 		<setting label="30032" type="select" id="puae_video_standard" values="PAL auto|NTSC auto|PAL|NTSC" default="PAL auto"/>
-		<setting label="30033" type="select" id="puae_video_aspect" values="auto|PAL|NTSC" default="auto"/>
-		<setting label="30034" type="select" id="puae_video_resolution" values="auto|lores|hires|superhires" default="auto"/>
+		<setting label="30033" type="select" id="puae_video_aspect" values="auto|PAL|NTSC|1:1" default="auto"/>
+		<setting label="30034" type="select" id="puae_video_resolution" values="auto|auto-lores|auto-superhires|lores|hires|superhires" default="auto"/>
 		<setting label="30035" type="select" id="puae_video_vresolution" values="auto|single|double" default="auto"/>
 		<setting label="30036" type="select" id="puae_crop" values="disabled|minimum|smaller|small|medium|large|larger|maximum|auto" default="disabled"/>
 		<setting label="30113" type="select" id="puae_crop_delay" values="enabled|disabled" default="enabled"/>
@@ -69,7 +69,7 @@
 		<setting label="30065" type="select" id="puae_analogmouse_deadzone" values="20|0|5|10|15|25|30|35|40|45|50" default="20"/>
 		<setting label="30114" type="select" id="puae_analogmouse_speed" values="1.0|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0|2.1|2.2|2.3|2.4|2.5|2.6|2.7|2.8|2.9|3.0" default="1.0"/>
 		<setting label="30115" type="select" id="puae_analogmouse_speed_right" values="1.0|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0|2.1|2.2|2.3|2.4|2.5|2.6|2.7|2.8|2.9|3.0" default="1.0"/>
-		<setting label="30067" type="select" id="puae_dpadmouse_speed" values="6|1|2|3|4|5|7|8|9|10|11|12|13|14|15|16|17|18" default="6"/>
+		<setting label="30067" type="select" id="puae_dpadmouse_speed" values="6|0|1|2|3|4|5|7|8|9|10|11|12|13|14|15|16|17|18" default="6"/>
 		<setting label="30068" type="select" id="puae_mouse_speed" values="100|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200|210|220|230|240|250|260|270|280|290|300" default="100"/>
 		<setting label="30069" type="select" id="puae_physicalmouse" values="enabled|disabled|double" default="enabled"/>
 		<setting label="30070" type="select" id="puae_physical_keyboard_pass_through" values="disabled|enabled" default="disabled"/>
