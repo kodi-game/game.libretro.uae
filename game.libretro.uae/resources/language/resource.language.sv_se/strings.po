@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.uae\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-14 05:39i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-12 12:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-uae/sv_se/>\n"
 "Language: sv_se\n"
@@ -95,11 +95,11 @@ msgstr "Media > Disketthastighet"
 
 msgctxt "#30018"
 msgid "Media > Floppy MultiDrive"
-msgstr ""
+msgstr "Media > Diskett MultiDrive"
 
 msgctxt "#30019"
 msgid "Media > Floppy Write Protection"
-msgstr ""
+msgstr "Media > Skrivskydd för disketter"
 
 msgctxt "#30020"
 msgid "Media > Floppy Write Redirect"
@@ -139,11 +139,11 @@ msgstr ""
 
 msgctxt "#30029"
 msgid "Media > Cartridge"
-msgstr ""
+msgstr "Media > Kassett"
 
 msgctxt "#30030"
 msgid "Show Video Options"
-msgstr ""
+msgstr "Visa videoalternativ"
 
 msgctxt "#30031"
 msgid "Video > Allow Hz Change"
@@ -155,7 +155,7 @@ msgstr "Video > Standard"
 
 msgctxt "#30033"
 msgid "Video > Pixel Aspect Ratio"
-msgstr ""
+msgstr "Video > Bildförhållande per bildpunkt"
 
 msgctxt "#30034"
 msgid "Video > Resolution"
@@ -167,19 +167,19 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Video > Crop"
-msgstr ""
+msgstr "Video > Beskär"
 
 msgctxt "#30037"
 msgid "Video > Zoom Mode"
-msgstr ""
+msgstr "Video > Zoom-läge"
 
 msgctxt "#30038"
 msgid "Video > Crop Mode"
-msgstr ""
+msgstr "Video > Beskärningsläge"
 
 msgctxt "#30039"
 msgid "Video > Zoom Mode Crop"
-msgstr ""
+msgstr "Video > Zoomläge beskärning"
 
 msgctxt "#30040"
 msgid "Video > Vertical Position"
@@ -215,35 +215,35 @@ msgstr "Video > Färgdjup"
 
 msgctxt "#30048"
 msgid "OSD > Virtual KBD Theme"
-msgstr ""
+msgstr "OSD > Virtuellt KBD-tema"
 
 msgctxt "#30049"
 msgid "OSD > Virtual KBD Transparency"
-msgstr ""
+msgstr "OSD > Virtuell KBD-genomskinlighet"
 
 msgctxt "#30050"
 msgid "OSD > Virtual KBD Dimming"
-msgstr ""
+msgstr "OSD > Virtuell KBD-dimning"
 
 msgctxt "#30051"
 msgid "OSD > Statusbar Mode"
-msgstr ""
+msgstr "OSD > Statusfältläge"
 
 msgctxt "#30052"
 msgid "OSD > Statusbar Startup"
-msgstr ""
+msgstr "OSD > Statusfält vid uppstart"
 
 msgctxt "#30053"
 msgid "OSD > Statusbar Messages"
-msgstr ""
+msgstr "OSD > Meddelanden för statusfält"
 
 msgctxt "#30054"
 msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr ""
+msgstr "OSD > Färg på ljuspennan/pistolpekaren"
 
 msgctxt "#30055"
 msgid "Show Audio Options"
-msgstr ""
+msgstr "Visa ljudalternativ"
 
 msgctxt "#30056"
 msgid "Audio > Stereo Separation"
@@ -279,19 +279,19 @@ msgstr ""
 
 msgctxt "#30064"
 msgid "Input > Analog Stick Mouse"
-msgstr ""
+msgstr "Inmatning > Analog spak-mus"
 
 msgctxt "#30065"
 msgid "Input > Analog Stick Mouse Deadzone"
-msgstr ""
+msgstr "Inmatning > Dödzon för analog spak-mus"
 
 msgctxt "#30067"
 msgid "Input > D-Pad Mouse Speed"
-msgstr ""
+msgstr "Inmatning > Mushastighet för riktningsknappar"
 
 msgctxt "#30068"
 msgid "Input > Mouse Speed"
-msgstr ""
+msgstr "Inmatning > Mushastighet"
 
 msgctxt "#30069"
 msgid "Input > Physical Mouse"
@@ -299,23 +299,23 @@ msgstr ""
 
 msgctxt "#30070"
 msgid "Input > Keyboard Pass-through"
-msgstr ""
+msgstr "Inmatning > Genomströmning av tangentbord"
 
 msgctxt "#30071"
 msgid "Input > Keyrah Keypad Mappings"
-msgstr ""
+msgstr "Inmatning > Mappningar för Keyrah-tangentbord"
 
 msgctxt "#30072"
 msgid "Show Mapping Options"
-msgstr ""
+msgstr "Visa mappningsalternativ"
 
 msgctxt "#30073"
 msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr ""
+msgstr "Snabbtangent > Växla virtuellt tangentbord"
 
 msgctxt "#30074"
 msgid "Hotkey > Toggle Statusbar"
-msgstr ""
+msgstr "Snabbtangent > Växla statusfält"
 
 msgctxt "#30075"
 msgid "Hotkey > Switch Joystick/Mouse"
@@ -323,135 +323,135 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "Hotkey > Toggle Turbo Fire"
-msgstr ""
+msgstr "Snabbtangent > Växla turboavfyrning"
 
 msgctxt "#30077"
 msgid "Hotkey > Toggle Save Disk"
-msgstr ""
+msgstr "Snabbtangent > Växla sparningsdisk"
 
 msgctxt "#30078"
 msgid "Hotkey > Reset"
-msgstr ""
+msgstr "Snabbknapp > Omstart"
 
 msgctxt "#30079"
 msgid "Hotkey > Toggle Aspect Ratio"
-msgstr ""
+msgstr "Snabbtangent > Växla bildförhållande"
 
 msgctxt "#30080"
 msgid "Hotkey > Toggle Crop"
-msgstr ""
+msgstr "Snabbtangent > Växla beskärning"
 
 msgctxt "#30081"
 msgid "Hotkey > Toggle Zoom Mode"
-msgstr ""
+msgstr "Snabbtangent > Växla zoomläge"
 
 msgctxt "#30082"
 msgid "RetroPad > Up"
-msgstr ""
+msgstr "RetroPad > Up"
 
 msgctxt "#30083"
 msgid "RetroPad > Down"
-msgstr ""
+msgstr "RetroPad > Ner"
 
 msgctxt "#30084"
 msgid "RetroPad > Left"
-msgstr ""
+msgstr "RetroPad > Vänster"
 
 msgctxt "#30085"
 msgid "RetroPad > Right"
-msgstr ""
+msgstr "RetroPad > Höger"
 
 msgctxt "#30086"
 msgid "RetroPad > B"
-msgstr ""
+msgstr "RetroPad > B"
 
 msgctxt "#30087"
 msgid "RetroPad > A"
-msgstr ""
+msgstr "RetroPad > A"
 
 msgctxt "#30088"
 msgid "RetroPad > Y"
-msgstr ""
+msgstr "RetroPad > Y"
 
 msgctxt "#30089"
 msgid "RetroPad > X"
-msgstr ""
+msgstr "RetroPad > X"
 
 msgctxt "#30090"
 msgid "RetroPad > Select"
-msgstr ""
+msgstr "RetroPad > Select"
 
 msgctxt "#30091"
 msgid "RetroPad > Start"
-msgstr ""
+msgstr "RetroPad > Start"
 
 msgctxt "#30092"
 msgid "RetroPad > L"
-msgstr ""
+msgstr "RetroPad > L"
 
 msgctxt "#30093"
 msgid "RetroPad > R"
-msgstr ""
+msgstr "RetroPad > R"
 
 msgctxt "#30094"
 msgid "RetroPad > L2"
-msgstr ""
+msgstr "RetroPad > L2"
 
 msgctxt "#30095"
 msgid "RetroPad > R2"
-msgstr ""
+msgstr "RetroPad > R2"
 
 msgctxt "#30096"
 msgid "RetroPad > L3"
-msgstr ""
+msgstr "RetroPad > L3"
 
 msgctxt "#30097"
 msgid "RetroPad > R3"
-msgstr ""
+msgstr "RetroPad > R3"
 
 msgctxt "#30098"
 msgid "RetroPad > Left Analog > Up"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Upp"
 
 msgctxt "#30099"
 msgid "RetroPad > Left Analog > Down"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Ner"
 
 msgctxt "#30100"
 msgid "RetroPad > Left Analog > Left"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Vänster"
 
 msgctxt "#30101"
 msgid "RetroPad > Left Analog > Right"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Höger"
 
 msgctxt "#30102"
 msgid "RetroPad > Right Analog > Up"
-msgstr ""
+msgstr "RetroPad > Höger analog > Upp"
 
 msgctxt "#30103"
 msgid "RetroPad > Right Analog > Down"
-msgstr ""
+msgstr "RetroPad > Höger analog > Ner"
 
 msgctxt "#30104"
 msgid "RetroPad > Right Analog > Left"
-msgstr ""
+msgstr "RetroPad > Höger analog > Vänster"
 
 msgctxt "#30105"
 msgid "RetroPad > Right Analog > Right"
-msgstr ""
+msgstr "RetroPad > Höger analog > Höger"
 
 msgctxt "#30106"
 msgid "RetroPad > Turbo Fire"
-msgstr ""
+msgstr "RetroPad > Turbo-avfyrning"
 
 msgctxt "#30107"
 msgid "RetroPad > Turbo Button"
-msgstr ""
+msgstr "RetroPad > Turbo-knapp"
 
 msgctxt "#30108"
 msgid "RetroPad > Turbo Pulse"
-msgstr ""
+msgstr "RetroPad > Turbo-puls"
 
 msgctxt "#30109"
 msgid "RetroPad > Joystick/Mouse"
@@ -463,7 +463,7 @@ msgstr ""
 
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
-msgstr ""
+msgstr "RetroPad > Alternativ för handlingsknappar"
 
 msgctxt "#30112"
 msgid "CD32 Pad > Face Button Options"
@@ -471,15 +471,15 @@ msgstr ""
 
 msgctxt "#30113"
 msgid "Video > Automatic Crop Delay"
-msgstr ""
+msgstr "Video > Automatisk fördröjning av beskärning"
 
 msgctxt "#30114"
 msgid "Input > Left Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Inmatning > Mushastighet för vänster analog spak"
 
 msgctxt "#30115"
 msgid "Input > Right Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Inmatning > Mushastighet för höger analog spak"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
