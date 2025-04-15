@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.uae\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-14 05:39i\n"
-"PO-Revision-Date: 2025-04-12 12:26+0000\n"
+"PO-Revision-Date: 2025-04-15 12:58+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-uae/sv_se/>\n"
 "Language: sv_se\n"
@@ -31,39 +31,39 @@ msgstr "System > Modell"
 
 msgctxt "#30002"
 msgid "System > Show Automatic Model Options"
-msgstr ""
+msgstr "System > Visa automatiska modellalternativ"
 
 msgctxt "#30003"
 msgid "Model > Automatic Floppy"
-msgstr ""
+msgstr "Modell > Automatisk diskett"
 
 msgctxt "#30004"
 msgid "Model > Automatic HD"
-msgstr ""
+msgstr "Modell > Automatisk HD"
 
 msgctxt "#30005"
 msgid "Model > Automatic CD"
-msgstr ""
+msgstr "Modell > Automatisk CD"
 
 msgctxt "#30006"
 msgid "System > Kickstart ROM"
-msgstr ""
+msgstr "System > Kickstart ROM"
 
 msgctxt "#30007"
 msgid "System > Chip RAM"
-msgstr ""
+msgstr "System > Chip RAM"
 
 msgctxt "#30008"
 msgid "System > Slow RAM"
-msgstr ""
+msgstr "System > Långsamt RAM-minne"
 
 msgctxt "#30009"
 msgid "System > Z2 Fast RAM"
-msgstr ""
+msgstr "System > Z2 Snabbt RAM-minne"
 
 msgctxt "#30010"
 msgid "System > Z3 Fast RAM"
-msgstr ""
+msgstr "System > Z3 Snabbt RAM-minne"
 
 msgctxt "#30011"
 msgid "System > CPU Model"
@@ -79,15 +79,15 @@ msgstr "System > CPU-hastighet"
 
 msgctxt "#30014"
 msgid "System > CPU Cycle-exact Speed"
-msgstr ""
+msgstr "System > CPU-cykelexakt hastighet"
 
 msgctxt "#30015"
 msgid "System > CPU Compatibility"
-msgstr ""
+msgstr "System > CPU-kompatibilitet"
 
 msgctxt "#30016"
 msgid "Media > Automatic Load Fast-Forward"
-msgstr ""
+msgstr "Media > Automatisk inläsning snabbspolning"
 
 msgctxt "#30017"
 msgid "Media > Floppy Speed"
@@ -103,39 +103,39 @@ msgstr "Media > Skrivskydd för disketter"
 
 msgctxt "#30020"
 msgid "Media > Floppy Write Redirect"
-msgstr ""
+msgstr "Media > Omdirigering av diskettskrivning"
 
 msgctxt "#30021"
 msgid "Media > CD Speed"
-msgstr ""
+msgstr "Media > CD-hastighet"
 
 msgctxt "#30022"
 msgid "Media > CD Startup Delayed Insert"
-msgstr ""
+msgstr "Media > Försenad inmatning vid CD-start"
 
 msgctxt "#30023"
 msgid "Media > CD32/CDTV Shared NVRAM"
-msgstr ""
+msgstr "Media > CD32/CDTV delat NVRAM"
 
 msgctxt "#30024"
 msgid "Media > WHDLoad Support"
-msgstr ""
+msgstr "Media > Stöd för WHDLoad"
 
 msgctxt "#30025"
 msgid "Media > WHDLoad Theme"
-msgstr ""
+msgstr "Media > WHDLoad-tema"
 
 msgctxt "#30026"
 msgid "Media > WHDLoad Splash Screen"
-msgstr ""
+msgstr "Media > WHDLoad startskärm"
 
 msgctxt "#30027"
 msgid "Media > WHDLoad NoWriteCache"
-msgstr ""
+msgstr "Media > WHDLoad NoWriteCache"
 
 msgctxt "#30028"
 msgid "Media > Global Boot HD"
-msgstr ""
+msgstr "Media > Global uppstarts-HD"
 
 msgctxt "#30029"
 msgid "Media > Cartridge"
@@ -147,7 +147,7 @@ msgstr "Visa videoalternativ"
 
 msgctxt "#30031"
 msgid "Video > Allow Hz Change"
-msgstr ""
+msgstr "Video > Tillåt Hz-ändring"
 
 msgctxt "#30032"
 msgid "Video > Standard"
@@ -159,11 +159,11 @@ msgstr "Video > Bildförhållande per bildpunkt"
 
 msgctxt "#30034"
 msgid "Video > Resolution"
-msgstr ""
+msgstr "Video > Upplösning"
 
 msgctxt "#30035"
 msgid "Video > Line Mode"
-msgstr ""
+msgstr "Video > Linjeläge"
 
 msgctxt "#30036"
 msgid "Video > Crop"
@@ -183,31 +183,31 @@ msgstr "Video > Zoomläge beskärning"
 
 msgctxt "#30040"
 msgid "Video > Vertical Position"
-msgstr ""
+msgstr "Video > Vertikal position"
 
 msgctxt "#30041"
 msgid "Video > Horizontal Position"
-msgstr ""
+msgstr "Video > Horisontell position"
 
 msgctxt "#30042"
 msgid "Video > Immediate/Waiting Blits"
-msgstr ""
+msgstr "Video > Omedelbara/Väntande Blits"
 
 msgctxt "#30043"
 msgid "Video > Collision Level"
-msgstr ""
+msgstr "Video > Kollisionsnivå"
 
 msgctxt "#30044"
 msgid "Video > Remove Interlace Artifacts"
-msgstr ""
+msgstr "Video > Ta bort interlace-artefakter"
 
 msgctxt "#30045"
 msgid "Video > Frameskip"
-msgstr ""
+msgstr "Video > Hoppa över bildrutor"
 
 msgctxt "#30046"
 msgid "Video > Color Gamma"
-msgstr ""
+msgstr "Video > Färggamma"
 
 msgctxt "#30047"
 msgid "Video > Color Depth"
@@ -247,35 +247,35 @@ msgstr "Visa ljudalternativ"
 
 msgctxt "#30056"
 msgid "Audio > Stereo Separation"
-msgstr ""
+msgstr "Ljud > Stereoseparation"
 
 msgctxt "#30057"
 msgid "Audio > Interpolation"
-msgstr ""
+msgstr "Ljud > Interpolering"
 
 msgctxt "#30058"
 msgid "Audio > Filter"
-msgstr ""
+msgstr "Ljud > Filter"
 
 msgctxt "#30059"
 msgid "Audio > Filter Type"
-msgstr ""
+msgstr "Ljud > Filtertyp"
 
 msgctxt "#30060"
 msgid "Audio > Floppy Sound Emulation"
-msgstr ""
+msgstr "Ljud > Emulering av diskettljud"
 
 msgctxt "#30061"
 msgid "Audio > Floppy Sound Mute Ejected"
-msgstr ""
+msgstr "Ljud > Diskettljud tyst utmatning"
 
 msgctxt "#30062"
 msgid "Audio > Floppy Sound Type"
-msgstr ""
+msgstr "Ljud > Ljudtyp för diskett"
 
 msgctxt "#30063"
 msgid "Audio > CD Audio Volume"
-msgstr ""
+msgstr "Ljud > Ljudvolym för CD"
 
 msgctxt "#30064"
 msgid "Input > Analog Stick Mouse"
@@ -295,7 +295,7 @@ msgstr "Inmatning > Mushastighet"
 
 msgctxt "#30069"
 msgid "Input > Physical Mouse"
-msgstr ""
+msgstr "Inmatning > Fysisk mus"
 
 msgctxt "#30070"
 msgid "Input > Keyboard Pass-through"
@@ -319,7 +319,7 @@ msgstr "Snabbtangent > Växla statusfält"
 
 msgctxt "#30075"
 msgid "Hotkey > Switch Joystick/Mouse"
-msgstr ""
+msgstr "Snabbknapp > Växla styrspak/mus"
 
 msgctxt "#30076"
 msgid "Hotkey > Toggle Turbo Fire"
@@ -347,7 +347,7 @@ msgstr "Snabbtangent > Växla zoomläge"
 
 msgctxt "#30082"
 msgid "RetroPad > Up"
-msgstr "RetroPad > Up"
+msgstr "RetroPad > Upp"
 
 msgctxt "#30083"
 msgid "RetroPad > Down"
@@ -455,11 +455,11 @@ msgstr "RetroPad > Turbo-puls"
 
 msgctxt "#30109"
 msgid "RetroPad > Joystick/Mouse"
-msgstr ""
+msgstr "RetroPad > Styrspak/mus"
 
 msgctxt "#30110"
 msgid "RetroPad > Joystick Port Order"
-msgstr ""
+msgstr "RetroPad > Ordning för joystickport"
 
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
@@ -467,7 +467,7 @@ msgstr "RetroPad > Alternativ för handlingsknappar"
 
 msgctxt "#30112"
 msgid "CD32 Pad > Face Button Options"
-msgstr ""
+msgstr "CD32 Pad > Alternativ för handlingsknappar"
 
 msgctxt "#30113"
 msgid "Video > Automatic Crop Delay"
