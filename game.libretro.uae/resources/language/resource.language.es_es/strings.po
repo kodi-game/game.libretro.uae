@@ -169,17 +169,9 @@ msgctxt "#30036"
 msgid "Video > Crop"
 msgstr "Vídeo > Recortar"
 
-msgctxt "#30037"
-msgid "Video > Zoom Mode"
-msgstr "Vídeo > Modo Zoom"
-
 msgctxt "#30038"
 msgid "Video > Crop Mode"
 msgstr "Vídeo > Modo de Recorte"
-
-msgctxt "#30039"
-msgid "Video > Zoom Mode Crop"
-msgstr "Vídeo > Modo Recorte Zoom"
 
 msgctxt "#30040"
 msgid "Video > Vertical Position"
@@ -341,10 +333,6 @@ msgctxt "#30080"
 msgid "Hotkey > Toggle Crop"
 msgstr "Tecla Rápida > Activar Recorte"
 
-msgctxt "#30081"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "Tecla Rápida > Activar Modo Zoom"
-
 msgctxt "#30082"
 msgid "RetroPad > Up"
 msgstr "RetroPad > Arriba"
@@ -480,6 +468,18 @@ msgstr "Entrada > Velocidad de Ratón en Palanca Analógica Izquierda"
 msgctxt "#30115"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr "Entrada > Velocidad de Ratón en Palanca Analógica Derecha"
+
+#~ msgctxt "#30037"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Vídeo > Modo Zoom"
+
+#~ msgctxt "#30039"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "Vídeo > Modo Recorte Zoom"
+
+#~ msgctxt "#30081"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Tecla Rápida > Activar Modo Zoom"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
