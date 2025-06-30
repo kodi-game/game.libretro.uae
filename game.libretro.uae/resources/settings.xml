@@ -6,7 +6,7 @@
 		<setting label="30003" type="select" id="puae_model_fd" values="A500|A500OG|A500PLUS|A600|A1200OG|A1200|A2000OG|A2000|A4030|A4040" default="A500"/>
 		<setting label="30004" type="select" id="puae_model_hd" values="A1200|A600|A1200OG|A2000|A4030|A4040" default="A1200"/>
 		<setting label="30005" type="select" id="puae_model_cd" values="CD32|CDTV|CD32FR" default="CD32"/>
-		<setting label="30006" type="select" id="puae_kickstart" values="auto|aros|kick33180.A500|kick34005.A500|kick37175.A500|kick37350.A600|kick40063.A600|kick39106.A1200|kick40068.A1200|kick39106.A4000|kick40068.A4000" default="auto"/>
+		<setting label="30006" type="select" id="puae_kickstart" values="auto|aros|kick31034.A1000|kick32034.A1000|kick33180.A500|kick34005.A500|kick37175.A500|kick37350.A600|kick40063.A600|kick39106.A1200|kick40068.A1200|kick39106.A4000|kick40068.A4000" default="auto"/>
 		<setting label="30007" type="select" id="puae_chipmem_size" values="auto|1|2|3|4" default="auto"/>
 		<setting label="30008" type="select" id="puae_bogomem_size" values="auto|0|2|4|6|7" default="auto"/>
 		<setting label="30009" type="select" id="puae_fastmem_size" values="auto|0|1|2|4|8" default="auto"/>
