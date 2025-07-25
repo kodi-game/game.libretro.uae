@@ -469,6 +469,10 @@ msgctxt "#30115"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr "Inmatning > Mushastighet för höger analog spak"
 
+msgctxt "#30116"
+msgid "Media > WHDLoad ButtonWait"
+msgstr ""
+
 #~ msgctxt "#30037"
 #~ msgid "Video > Zoom Mode"
 #~ msgstr "Video > Zoom-läge"
