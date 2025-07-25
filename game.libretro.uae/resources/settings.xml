@@ -27,6 +27,7 @@
 		<setting label="30024" type="select" id="puae_use_whdload" values="files|disabled|hdfs" default="files"/>
 		<setting label="30025" type="select" id="puae_use_whdload_theme" values="default|native" default="default"/>
 		<setting label="30026" type="select" id="puae_use_whdload_prefs" values="disabled|config|splash|both" default="disabled"/>
+		<setting label="30116" type="select" id="puae_use_whdload_buttonwait" values="enabled|disabled" default="enabled"/>
 		<setting label="30027" type="select" id="puae_use_whdload_nowritecache" values="disabled|enabled" default="disabled"/>
 		<setting label="30028" type="select" id="puae_use_boot_hd" values="disabled|files|hdf20|hdf40|hdf80|hdf128|hdf256|hdf512" default="disabled"/>
 		<setting label="30029" type="select" id="puae_cart_file" values="none" default="none"/>
