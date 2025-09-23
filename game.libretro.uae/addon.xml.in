@@ -28,6 +28,7 @@
 		<summary lang="da_DK">Commodore - Amiga (PUAE)</summary>
 		<summary lang="en_GB">Commodore - Amiga (PUAE)</summary>
 		<summary lang="es_ES">Commodore - Amiga (PUAE)</summary>
+		<summary lang="ga">Commodore - Amiga (PUAE)</summary>
 		<summary lang="it_IT">Commodore - Amiga (PUAE)</summary>
 		<summary lang="sv_SE">Commodore - Amiga (PUAE)</summary>
 		<summary lang="zh_CN">Commodore - Amiga (PUAE)</summary>
@@ -36,6 +37,7 @@
 		<description lang="en_GB">UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.</description>
 		<description lang="es_ES">UAE son las siglas de Ubiquitous Amiga Emulator.[CR][CR]La mayoría de los juegos requieren una versión de la ROM Amiga Kickstart. Sin embargo, algunos juegos antiguos funcionarán con la emulación ROM incorporada.</description>
 		<description lang="es_MX">UAE es un acrónimo para Emulador de Amiga Ubicuo (Ubiquitous Amiga Emulator por sus siglas en inglés).[CR][CR]La mayoría de juegos requieren una versión de la Kickstart ROM de la Amiga. Sin embargo, algunos juegos antiguos funcionarán bien con la emulación de ROM incorporada.</description>
+		<description lang="ga">Seasann UAE don Ubiquitous Amiga Emulator.[CR][CR]Éilíonn formhór na gcluichí leagan den Amiga Kickstart ROM. Mar sin féin, oibreoidh roinnt seanchluichí leis an aithris ROM ionsuite.</description>
 		<description lang="it_IT">UAE sta per Ubiquitous Amiga Emulator.[CR][CR]La maggior parte dei giochi richiede una versione dell&apos;Amiga Kickstart ROM. Tuttavia, alcuni vecchi giochi funzioneranno con l&apos;emulazione ROM integrata.</description>
 		<description lang="ru_RU">UAE расшифровывается как Ubiquitous Amiga Emulator.[CR][CR]Для большинства игр требуется определённая версия Amiga Kickstart ROM. Тем не менее некоторые старые игры могут быть запущены с помощью встроенного эмулятора ROM.</description>
 		<description lang="sv_SE">UAE står för Ubiquitous Amiga Emulator.[CR][CR]De flesta spel kräver en version av Amiga Kickstart ROM. Vissa gamla spel fungerar dock med den inbyggda ROM-emuleringen.</description>
