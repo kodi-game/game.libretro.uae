@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.uae\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-14 05:39i\n"
-"PO-Revision-Date: 2025-09-23 14:29+0000\n"
+"PO-Revision-Date: 2025-10-04 11:29+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
 "Language-Team: Irish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-uae/ga/>\n"
 "Language: ga\n"
@@ -28,7 +28,7 @@ msgstr "Seasann UAE don Ubiquitous Amiga Emulator.[CR][CR]Éilíonn formhór na 
 # Empty string with ID 30000
 msgctxt "#30001"
 msgid "System > Model"
-msgstr ""
+msgstr "Córas > Samhail"
 
 msgctxt "#30002"
 msgid "System > Show Automatic Model Options"
