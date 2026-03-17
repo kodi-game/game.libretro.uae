@@ -7,11 +7,27 @@
     <accepts controller="game.controller.mouse"/>
   </port>
   <port type="controller" id="1">
-    <accepts controller="game.controller.amiga.cd32"/>
-    <accepts controller="game.controller.default"/>
+    <accepts controller="game.controller.amiga.cd32" type="RETRO_DEVICE_ANALOG" subclass="1"/>
+    <accepts controller="game.controller.amiga.pro.joystick" type="RETRO_DEVICE_ANALOG" subclass="2"/>
+    <accepts controller="game.controller.keyboard"/>
   </port>
   <port type="controller" id="2">
-    <accepts controller="game.controller.amiga.cd32"/>
-    <accepts controller="game.controller.default"/>
+    <accepts controller="game.controller.amiga.cd32" type="RETRO_DEVICE_ANALOG" subclass="1"/>
+    <accepts controller="game.controller.amiga.pro.joystick" type="RETRO_DEVICE_ANALOG" subclass="2"/>
+    <accepts controller="game.controller.keyboard"/>
+  </port>
+  <port type="controller" id="3">
+    <accepts controller="game.controller.amiga.pro.joystick" type="RETRO_DEVICE_ANALOG" subclass="0"/>
+    <accepts controller="game.controller.keyboard"/>
+  </port>
+  <port type="controller" id="4">
+    <accepts controller="game.controller.amiga.pro.joystick" type="RETRO_DEVICE_ANALOG" subclass="0"/>
+    <accepts controller="game.controller.keyboard"/>
+  </port>
+  <port type="controller" id="5" autoconnect="false">
+    <accepts controller="game.controller.keyboard"/>
+  </port>
+  <port type="controller" id="6" autoconnect="false">
+    <accepts controller="game.controller.keyboard"/>
   </port>
 </logicaltopology>
