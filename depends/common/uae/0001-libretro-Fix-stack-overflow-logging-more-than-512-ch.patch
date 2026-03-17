@@ -1,0 +1,41 @@
+From 03ed030d3d5c4f4ef91d84ace57c9b90987d4b0d Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Tue, 17 Mar 2026 14:08:41 -0700
+Subject: [PATCH] libretro: Fix stack overflow logging more than 512 characters
+
+---
+ sources/src/writelog.c | 11 ++++++++---
+ 1 file changed, 8 insertions(+), 3 deletions(-)
+
+diff --git a/sources/src/writelog.c b/sources/src/writelog.c
+index 2d58a917..aa906e3e 100644
+--- a/sources/src/writelog.c
++++ b/sources/src/writelog.c
+@@ -23,16 +23,21 @@ void write_log (const char *fmt, ...)
+ {
+     char text[512];
+     va_list ap;
++    int n;
+ 
+     if (fmt == NULL)
+        return;
+ 
+     va_start (ap, fmt);
+-    vsprintf (text, fmt, ap);
++    n = vsnprintf (text, sizeof(text), fmt, ap);
+     va_end (ap);
+ 
+-    if (text[strlen(text)-1] == '\n')
+-       text[strlen(text)-1] = '\0';
++    if (n < 0 || n >= (int)sizeof(text))
++        return;
++
++    size_t len = strlen(text);
++    if (len > 0 && text[len-1] == '\n')
++        text[len-1] = '\0';
+ 
+     log_cb(RETRO_LOG_INFO, "%s\n", text);
+ }
+-- 
+2.53.0
+
