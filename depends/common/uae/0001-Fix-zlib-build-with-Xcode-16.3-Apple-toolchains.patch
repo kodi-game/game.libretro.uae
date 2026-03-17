@@ -1,0 +1,33 @@
+From 094640e480b3f15af442f15d3ce3a96b2112af81 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Tue, 17 Mar 2026 10:34:29 -0700
+Subject: [PATCH] Fix zlib build with Xcode 16.3+ Apple toolchains
+
+zutil.h's legacy fdopen fallback collides with the system declaration
+in recent Apple SDKs.
+
+The issue is reported with Xcode 16.3 / Apple clang 17 / macOS 15.4
+SDK and Xcode 16.4 / macOS 15.5 SDK, while Xcode 16.1 / Apple clang 16
+is reported to work.
+
+Guard the fallback on __APPLE__ so Apple builds use the system fdopen().
+---
+ deps/libz/zutil.h | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/deps/libz/zutil.h b/deps/libz/zutil.h
+index 6a961e1c..90fe92d0 100644
+--- a/deps/libz/zutil.h
++++ b/deps/libz/zutil.h
+@@ -128,7 +128,7 @@ extern char z_errmsg[10][21]; /* indexed by 2-zlib_error */
+ #    if defined(__MWERKS__) && __dest_os != __be_os && __dest_os != __win32_os
+ #      include <unix.h> /* for fdopen */
+ #    else
+-#      ifndef fdopen
++#      if !defined(fdopen) && !defined(__APPLE__)
+ #        define fdopen(fd,mode) NULL /* No fdopen() */
+ #      endif
+ #    endif
+-- 
+2.53.0
+
