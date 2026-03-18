@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-  <controller id="game.controller.amiga.cd32">
+  <controller id="game.controller.amiga.cd32" type="RETRO_DEVICE_ANALOG">
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
     <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
     <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
@@ -22,7 +22,7 @@
     <feature name="rightstick" mapto="RETRO_DEVICE_INDEX_ANALOG_RIGHT"/>
     -->
   </controller>
-  <controller id="game.controller.amiga.pro.joystick">
+  <controller id="game.controller.amiga.pro.joystick" type="RETRO_DEVICE_ANALOG">
     <feature name="red" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
     <feature name="blue" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
     <feature name="green" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
