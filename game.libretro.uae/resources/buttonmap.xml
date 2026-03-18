@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-  <controller id="game.controller.amiga.cd32" type="RETRO_DEVICE_ANALOG" subclass="1">
+  <controller id="game.controller.amiga.cd32">
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
     <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
     <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
@@ -18,21 +18,23 @@
     <feature name="r2" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
     <feature name="l3" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
     <feature name="r3" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
+    <feature name="leftstick" mapto="RETRO_DEVICE_INDEX_ANALOG_LEFT"/>
+    <feature name="rightstick" mapto="RETRO_DEVICE_INDEX_ANALOG_RIGHT"/>
     -->
   </controller>
-  <controller id="game.controller.default" type="RETRO_DEVICE_ANALOG" subclass="2">
-    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
-    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
-    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
-    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
-    <feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
-    <feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
-    <feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
-    <feature name="righttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
-    <feature name="leftthumb" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
-    <feature name="rightthumb" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
-    <feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
-    <feature name="back" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+  <controller id="game.controller.amiga.pro.joystick">
+    <feature name="red" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
+    <feature name="blue" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
+    <feature name="green" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+    <feature name="yellow" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+    <feature name="select" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+    <feature name="play" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
+    <feature name="rewind" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
+    <feature name="forward" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
+    <feature name="l2" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
+    <feature name="r2" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
+    <feature name="l3" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
+    <feature name="r3" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
     <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
     <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
