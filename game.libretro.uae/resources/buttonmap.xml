@@ -12,8 +12,8 @@
     <feature name="play" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
     <feature name="rewind" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
     <feature name="forward" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
-    <!-- TODO: Should these be added to game.controller.amiga.cd32?
     <feature name="select" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+    <!-- TODO: Should these be added to game.controller.amiga.cd32?
     <feature name="l2" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
     <feature name="r2" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
     <feature name="l3" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
@@ -46,6 +46,7 @@
     <feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
     <feature name="right" mapto="RETRO_DEVICE_ID_MOUSE_RIGHT"/>
     <feature name="middle" mapto="RETRO_DEVICE_ID_MOUSE_MIDDLE"/>
+    <feature name="pointer" mapto="RETRO_DEVICE_MOUSE"/>
   </controller>
   <controller id="game.controller.keyboard" type="RETRO_DEVICE_KEYBOARD" subclass="0">
     <feature name="backspace" mapto="RETROK_BACKSPACE"/>
