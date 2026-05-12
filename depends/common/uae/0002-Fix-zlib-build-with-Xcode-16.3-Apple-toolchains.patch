@@ -1,7 +1,7 @@
 From b09e54a7675f1eb810fb39d8ced0aa6a468177dd Mon Sep 17 00:00:00 2001
 From: Garrett Brown <themagnificentmrb@gmail.com>
 Date: Tue, 17 Mar 2026 10:34:29 -0700
-Subject: [PATCH 2/2] Fix zlib build with Xcode 16.3+ Apple toolchains
+Subject: [PATCH 2/3] Fix zlib build with Xcode 16.3+ Apple toolchains
 
 zutil.h's legacy fdopen fallback collides with the system declaration
 in recent Apple SDKs.
