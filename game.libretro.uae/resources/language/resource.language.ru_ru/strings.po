@@ -7,19 +7,19 @@ msgstr ""
 "Project-Id-Version: game.libretro.uae\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-14 05:39i\n"
-"PO-Revision-Date: 2024-12-27 22:08+0000\n"
-"Last-Translator: NickR <honey_walley.hv4qz@slmail.me>\n"
+"PO-Revision-Date: 2026-05-26 07:16+0000\n"
+"Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-uae/ru_ru/>\n"
 "Language: ru_ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 2026.5\n"
 
 msgctxt "Addon Summary"
 msgid "Commodore - Amiga (PUAE)"
-msgstr ""
+msgstr "Commodore — Amiga (PUAE)"
 
 msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
@@ -67,7 +67,7 @@ msgstr "Система > Z3 быстрая RAM"
 
 msgctxt "#30011"
 msgid "System > CPU Model"
-msgstr "Система > Модель CPU"
+msgstr "Система > Модель ЦП"
 
 msgctxt "#30012"
 msgid "System > FPU Model"
@@ -75,15 +75,15 @@ msgstr "Система > Модель FPU"
 
 msgctxt "#30013"
 msgid "System > CPU Speed"
-msgstr "Система > Скорость CPU"
+msgstr "Система > Скорость ЦП"
 
 msgctxt "#30014"
 msgid "System > CPU Cycle-exact Speed"
-msgstr "Система > Точная тактовая частота"
+msgstr "Система > Точная тактовая частота ЦП"
 
 msgctxt "#30015"
 msgid "System > CPU Compatibility"
-msgstr "Система > Совместимость CPU"
+msgstr "Система > Совместимость ЦП"
 
 msgctxt "#30016"
 msgid "Media > Automatic Load Fast-Forward"
@@ -103,7 +103,7 @@ msgstr "Медиа > Защита записи дискеты"
 
 msgctxt "#30020"
 msgid "Media > Floppy Write Redirect"
-msgstr ""
+msgstr "Медиа > Перенаправление записи на дискету"
 
 msgctxt "#30021"
 msgid "Media > CD Speed"
@@ -131,11 +131,11 @@ msgstr "Медиа > Всплывающий экран WHDLoad"
 
 msgctxt "#30027"
 msgid "Media > WHDLoad NoWriteCache"
-msgstr ""
+msgstr "Медиа > WHDLoad без кэша записи"
 
 msgctxt "#30028"
 msgid "Media > Global Boot HD"
-msgstr ""
+msgstr "Медиа > Глобальный загрузочный HD"
 
 msgctxt "#30029"
 msgid "Media > Cartridge"
@@ -147,11 +147,11 @@ msgstr "Показать настройки видео"
 
 msgctxt "#30031"
 msgid "Video > Allow Hz Change"
-msgstr ""
+msgstr "Видео > Разрешить изменение частоты"
 
 msgctxt "#30032"
 msgid "Video > Standard"
-msgstr ""
+msgstr "Видео > Стандарт"
 
 msgctxt "#30033"
 msgid "Video > Pixel Aspect Ratio"
@@ -159,11 +159,11 @@ msgstr "Видео > Пиксельное соотношение сторон"
 
 msgctxt "#30034"
 msgid "Video > Resolution"
-msgstr ""
+msgstr "Видео > Разрешение"
 
 msgctxt "#30035"
 msgid "Video > Line Mode"
-msgstr ""
+msgstr "Видео > Режим строк"
 
 msgctxt "#30036"
 msgid "Video > Crop"
@@ -175,11 +175,11 @@ msgstr "Видео > Режим обрезки"
 
 msgctxt "#30040"
 msgid "Video > Vertical Position"
-msgstr ""
+msgstr "Видео > Вертикальная позиция"
 
 msgctxt "#30041"
 msgid "Video > Horizontal Position"
-msgstr ""
+msgstr "Видео > Горизонтальная позиция"
 
 msgctxt "#30042"
 msgid "Video > Immediate/Waiting Blits"
@@ -191,15 +191,15 @@ msgstr "Видео > Уровень коллизии"
 
 msgctxt "#30044"
 msgid "Video > Remove Interlace Artifacts"
-msgstr ""
+msgstr "Видео > Удалять артефакты чересстрочности"
 
 msgctxt "#30045"
 msgid "Video > Frameskip"
-msgstr ""
+msgstr "Видео > Пропуск кадров"
 
 msgctxt "#30046"
 msgid "Video > Color Gamma"
-msgstr ""
+msgstr "Видео > Гамма цвета"
 
 msgctxt "#30047"
 msgid "Video > Color Depth"
@@ -223,7 +223,7 @@ msgstr "OSD > Режим строки состояния"
 
 msgctxt "#30052"
 msgid "OSD > Statusbar Startup"
-msgstr ""
+msgstr "OSD > Строка состояния при запуске"
 
 msgctxt "#30053"
 msgid "OSD > Statusbar Messages"
@@ -239,239 +239,239 @@ msgstr "Показать настройки аудио"
 
 msgctxt "#30056"
 msgid "Audio > Stereo Separation"
-msgstr ""
+msgstr "Аудио > Стереоразделение"
 
 msgctxt "#30057"
 msgid "Audio > Interpolation"
-msgstr ""
+msgstr "Аудио > Интерполяция"
 
 msgctxt "#30058"
 msgid "Audio > Filter"
-msgstr ""
+msgstr "Аудио > Фильтр"
 
 msgctxt "#30059"
 msgid "Audio > Filter Type"
-msgstr ""
+msgstr "Аудио > Тип фильтра"
 
 msgctxt "#30060"
 msgid "Audio > Floppy Sound Emulation"
-msgstr ""
+msgstr "Аудио > Эмуляция звука дискеты"
 
 msgctxt "#30061"
 msgid "Audio > Floppy Sound Mute Ejected"
-msgstr ""
+msgstr "Аудио > Отключать звук извлечённой дискеты"
 
 msgctxt "#30062"
 msgid "Audio > Floppy Sound Type"
-msgstr ""
+msgstr "Аудио > Тип звука дискеты"
 
 msgctxt "#30063"
 msgid "Audio > CD Audio Volume"
-msgstr ""
+msgstr "Аудио > Громкость аудио CD"
 
 msgctxt "#30064"
 msgid "Input > Analog Stick Mouse"
-msgstr ""
+msgstr "Ввод > Аналоговый стик как мышь"
 
 msgctxt "#30065"
 msgid "Input > Analog Stick Mouse Deadzone"
-msgstr ""
+msgstr "Ввод > Мёртвая зона аналогового стика как мыши"
 
 msgctxt "#30067"
 msgid "Input > D-Pad Mouse Speed"
-msgstr ""
+msgstr "Ввод > Скорость мыши от крестовины"
 
 msgctxt "#30068"
 msgid "Input > Mouse Speed"
-msgstr ""
+msgstr "Ввод > Скорость мыши"
 
 msgctxt "#30069"
 msgid "Input > Physical Mouse"
-msgstr ""
+msgstr "Ввод > Физическая мышь"
 
 msgctxt "#30070"
 msgid "Input > Keyboard Pass-through"
-msgstr ""
+msgstr "Ввод > Сквозной пропуск клавиатуры"
 
 msgctxt "#30071"
 msgid "Input > Keyrah Keypad Mappings"
-msgstr ""
+msgstr "Ввод > Сопоставления клавиатуры Keyrah"
 
 msgctxt "#30072"
 msgid "Show Mapping Options"
-msgstr ""
+msgstr "Показать параметры сопоставления"
 
 msgctxt "#30073"
 msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr ""
+msgstr "Горячая клавиша > Переключить виртуальную клавиатуру"
 
 msgctxt "#30074"
 msgid "Hotkey > Toggle Statusbar"
-msgstr ""
+msgstr "Горячая клавиша > Переключить строку состояния"
 
 msgctxt "#30075"
 msgid "Hotkey > Switch Joystick/Mouse"
-msgstr ""
+msgstr "Горячая клавиша > Переключить джойстик/мышь"
 
 msgctxt "#30076"
 msgid "Hotkey > Toggle Turbo Fire"
-msgstr ""
+msgstr "Горячая клавиша > Переключить турбо-огонь"
 
 msgctxt "#30077"
 msgid "Hotkey > Toggle Save Disk"
-msgstr ""
+msgstr "Горячая клавиша > Переключить сохранение диска"
 
 msgctxt "#30078"
 msgid "Hotkey > Reset"
-msgstr ""
+msgstr "Горячая клавиша > Сброс"
 
 msgctxt "#30079"
 msgid "Hotkey > Toggle Aspect Ratio"
-msgstr ""
+msgstr "Горячая клавиша > Переключить соотношение сторон"
 
 msgctxt "#30080"
 msgid "Hotkey > Toggle Crop"
-msgstr ""
+msgstr "Горячая клавиша > Переключить обрезку"
 
 msgctxt "#30082"
 msgid "RetroPad > Up"
-msgstr ""
+msgstr "RetroPad > Вверх"
 
 msgctxt "#30083"
 msgid "RetroPad > Down"
-msgstr ""
+msgstr "RetroPad > Вниз"
 
 msgctxt "#30084"
 msgid "RetroPad > Left"
-msgstr ""
+msgstr "RetroPad > Влево"
 
 msgctxt "#30085"
 msgid "RetroPad > Right"
-msgstr ""
+msgstr "RetroPad > Вправо"
 
 msgctxt "#30086"
 msgid "RetroPad > B"
-msgstr ""
+msgstr "RetroPad > B"
 
 msgctxt "#30087"
 msgid "RetroPad > A"
-msgstr ""
+msgstr "RetroPad > A"
 
 msgctxt "#30088"
 msgid "RetroPad > Y"
-msgstr ""
+msgstr "RetroPad > Y"
 
 msgctxt "#30089"
 msgid "RetroPad > X"
-msgstr ""
+msgstr "RetroPad > X"
 
 msgctxt "#30090"
 msgid "RetroPad > Select"
-msgstr ""
+msgstr "RetroPad > Select"
 
 msgctxt "#30091"
 msgid "RetroPad > Start"
-msgstr ""
+msgstr "RetroPad > Start"
 
 msgctxt "#30092"
 msgid "RetroPad > L"
-msgstr ""
+msgstr "RetroPad > L"
 
 msgctxt "#30093"
 msgid "RetroPad > R"
-msgstr ""
+msgstr "RetroPad > R"
 
 msgctxt "#30094"
 msgid "RetroPad > L2"
-msgstr ""
+msgstr "RetroPad > L2"
 
 msgctxt "#30095"
 msgid "RetroPad > R2"
-msgstr ""
+msgstr "RetroPad > R2"
 
 msgctxt "#30096"
 msgid "RetroPad > L3"
-msgstr ""
+msgstr "RetroPad > L3"
 
 msgctxt "#30097"
 msgid "RetroPad > R3"
-msgstr ""
+msgstr "RetroPad > R3"
 
 msgctxt "#30098"
 msgid "RetroPad > Left Analog > Up"
-msgstr ""
+msgstr "RetroPad > Левый аналог > Вверх"
 
 msgctxt "#30099"
 msgid "RetroPad > Left Analog > Down"
-msgstr ""
+msgstr "RetroPad > Левый аналог > Вниз"
 
 msgctxt "#30100"
 msgid "RetroPad > Left Analog > Left"
-msgstr ""
+msgstr "RetroPad > Левый аналог > Влево"
 
 msgctxt "#30101"
 msgid "RetroPad > Left Analog > Right"
-msgstr ""
+msgstr "RetroPad > Левый аналог > Вправо"
 
 msgctxt "#30102"
 msgid "RetroPad > Right Analog > Up"
-msgstr ""
+msgstr "RetroPad > Правый аналог > Вверх"
 
 msgctxt "#30103"
 msgid "RetroPad > Right Analog > Down"
-msgstr ""
+msgstr "RetroPad > Правый аналог > Вниз"
 
 msgctxt "#30104"
 msgid "RetroPad > Right Analog > Left"
-msgstr ""
+msgstr "RetroPad > Правый аналог > Влево"
 
 msgctxt "#30105"
 msgid "RetroPad > Right Analog > Right"
-msgstr ""
+msgstr "RetroPad > Правый аналог > Вправо"
 
 msgctxt "#30106"
 msgid "RetroPad > Turbo Fire"
-msgstr ""
+msgstr "RetroPad > Турбо-огонь"
 
 msgctxt "#30107"
 msgid "RetroPad > Turbo Button"
-msgstr ""
+msgstr "RetroPad > Турбо-кнопка"
 
 msgctxt "#30108"
 msgid "RetroPad > Turbo Pulse"
-msgstr ""
+msgstr "RetroPad > Импульс турбо"
 
 msgctxt "#30109"
 msgid "RetroPad > Joystick/Mouse"
-msgstr ""
+msgstr "RetroPad > Джойстик/Мышь"
 
 msgctxt "#30110"
 msgid "RetroPad > Joystick Port Order"
-msgstr ""
+msgstr "RetroPad > Порядок портов джойстиков"
 
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
-msgstr ""
+msgstr "RetroPad > Параметры лицевых кнопок"
 
 msgctxt "#30112"
 msgid "CD32 Pad > Face Button Options"
-msgstr ""
+msgstr "Пульт CD32 > Параметры лицевых кнопок"
 
 msgctxt "#30113"
 msgid "Video > Automatic Crop Delay"
-msgstr ""
+msgstr "Видео > Задержка автоматической обрезки"
 
 msgctxt "#30114"
 msgid "Input > Left Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Ввод > Скорость мыши от левого аналогового стика"
 
 msgctxt "#30115"
 msgid "Input > Right Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Ввод > Скорость мыши от правого аналогового стика"
 
 msgctxt "#30116"
 msgid "Media > WHDLoad ButtonWait"
-msgstr ""
+msgstr "Медиа > WHDLoad ButtonWait"
 
 #~ msgctxt "#30037"
 #~ msgid "Video > Zoom Mode"
