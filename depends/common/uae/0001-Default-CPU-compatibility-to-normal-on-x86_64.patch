@@ -1,0 +1,30 @@
+From d32c255560734bce3db8223c9a131285d418eb61 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Fri, 29 May 2026 16:46:41 -0700
+Subject: [PATCH] Default CPU compatibility to "normal" on x86_64
+
+Remove the x86_64-specific default of memory and use normal for all targets
+in core options initialization.
+---
+ libretro/libretro-core.c | 4 ----
+ 1 file changed, 4 deletions(-)
+
+diff --git a/libretro/libretro-core.c b/libretro/libretro-core.c
+index b7f98b8b..470fefeb 100644
+--- a/libretro/libretro-core.c
++++ b/libretro/libretro-core.c
+@@ -1100,11 +1100,7 @@ static void retro_set_core_options()
+             { "exact", "Cycle-exact (Full)" },
+             { NULL, NULL },
+          },
+-#if defined(__x86_64__)
+-         "memory"
+-#else
+          "normal"
+-#endif
+       },
+       {
+          "puae_autoloadfastforward",
+-- 
+2.50.1 (Apple Git-155)
+
