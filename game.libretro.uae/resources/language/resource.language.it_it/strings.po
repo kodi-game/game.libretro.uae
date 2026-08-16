@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.uae\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-14 05:39i\n"
-"PO-Revision-Date: 2026-08-15 22:28+0000\n"
+"PO-Revision-Date: 2026-08-16 23:16+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-uae/it_it/>\n"
 "Language: it_it\n"
@@ -131,11 +131,11 @@ msgstr "Supporti > Schermata iniziale di WHDLoad"
 
 msgctxt "#30027"
 msgid "Media > WHDLoad NoWriteCache"
-msgstr ""
+msgstr "Supporti > WHDLoad NoWriteCache"
 
 msgctxt "#30028"
 msgid "Media > Global Boot HD"
-msgstr ""
+msgstr "Supporti > Avvio HD globale"
 
 msgctxt "#30029"
 msgid "Media > Cartridge"
@@ -147,11 +147,11 @@ msgstr "Mostra opzioni video"
 
 msgctxt "#30031"
 msgid "Video > Allow Hz Change"
-msgstr ""
+msgstr "Video > Consenti cambio Hz"
 
 msgctxt "#30032"
 msgid "Video > Standard"
-msgstr ""
+msgstr "Video > Standard"
 
 msgctxt "#30033"
 msgid "Video > Pixel Aspect Ratio"
@@ -159,11 +159,11 @@ msgstr "Video > Proporzioni pixel"
 
 msgctxt "#30034"
 msgid "Video > Resolution"
-msgstr ""
+msgstr "Video > Risoluzione"
 
 msgctxt "#30035"
 msgid "Video > Line Mode"
-msgstr ""
+msgstr "Video > Modalità linea"
 
 msgctxt "#30036"
 msgid "Video > Crop"
@@ -175,11 +175,11 @@ msgstr "Video > Modalità ritaglio"
 
 msgctxt "#30040"
 msgid "Video > Vertical Position"
-msgstr ""
+msgstr "Video > Posizione verticale"
 
 msgctxt "#30041"
 msgid "Video > Horizontal Position"
-msgstr ""
+msgstr "Video > Posizione orizzontale"
 
 msgctxt "#30042"
 msgid "Video > Immediate/Waiting Blits"
@@ -191,15 +191,15 @@ msgstr "Video > Livello di collisione"
 
 msgctxt "#30044"
 msgid "Video > Remove Interlace Artifacts"
-msgstr ""
+msgstr "Video > Rimuovi artefatti interlacciamento"
 
 msgctxt "#30045"
 msgid "Video > Frameskip"
-msgstr ""
+msgstr "Video > Salto fotogrammi"
 
 msgctxt "#30046"
 msgid "Video > Color Gamma"
-msgstr ""
+msgstr "Video > Gamma colore"
 
 msgctxt "#30047"
 msgid "Video > Color Depth"
@@ -223,51 +223,51 @@ msgstr "OSD > Modalità barra di stato"
 
 msgctxt "#30052"
 msgid "OSD > Statusbar Startup"
-msgstr ""
+msgstr "OSD > Avvio barra di stato"
 
 msgctxt "#30053"
 msgid "OSD > Statusbar Messages"
-msgstr ""
+msgstr "OSD > Messaggi della barra di stato"
 
 msgctxt "#30054"
 msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr ""
+msgstr "OSD > Colore puntatore penna/pistola ottica"
 
 msgctxt "#30055"
 msgid "Show Audio Options"
-msgstr ""
+msgstr "Mostra opzioni audio"
 
 msgctxt "#30056"
 msgid "Audio > Stereo Separation"
-msgstr ""
+msgstr "Audio > Separazione stereo"
 
 msgctxt "#30057"
 msgid "Audio > Interpolation"
-msgstr ""
+msgstr "Audio > Interpolazione"
 
 msgctxt "#30058"
 msgid "Audio > Filter"
-msgstr ""
+msgstr "Audio > Filtro"
 
 msgctxt "#30059"
 msgid "Audio > Filter Type"
-msgstr ""
+msgstr "Audio > Tipo di filtro"
 
 msgctxt "#30060"
 msgid "Audio > Floppy Sound Emulation"
-msgstr ""
+msgstr "Audio > Emulazione suono floppy"
 
 msgctxt "#30061"
 msgid "Audio > Floppy Sound Mute Ejected"
-msgstr ""
+msgstr "Audio > Disattiva suono floppy espulso"
 
 msgctxt "#30062"
 msgid "Audio > Floppy Sound Type"
-msgstr ""
+msgstr "Audio > Tipo suono floppy"
 
 msgctxt "#30063"
 msgid "Audio > CD Audio Volume"
-msgstr ""
+msgstr "Audio > Volume audio CD"
 
 msgctxt "#30064"
 msgid "Input > Analog Stick Mouse"
@@ -287,7 +287,7 @@ msgstr "Input > Velocità del mouse"
 
 msgctxt "#30069"
 msgid "Input > Physical Mouse"
-msgstr ""
+msgstr "Input > Mouse fisico"
 
 msgctxt "#30070"
 msgid "Input > Keyboard Pass-through"
@@ -311,7 +311,7 @@ msgstr "Tasto di scelta rapida > Attiva/disattiva barra di stato"
 
 msgctxt "#30075"
 msgid "Hotkey > Switch Joystick/Mouse"
-msgstr ""
+msgstr "Tasto di scelta rapida > Cambia joystick/mouse"
 
 msgctxt "#30076"
 msgid "Hotkey > Toggle Turbo Fire"
@@ -323,7 +323,7 @@ msgstr "Tasto di scelta rapida> Attiva/disattiva salva disco"
 
 msgctxt "#30078"
 msgid "Hotkey > Reset"
-msgstr ""
+msgstr "Tasto di scelta rapida > Reimposta"
 
 msgctxt "#30079"
 msgid "Hotkey > Toggle Aspect Ratio"
@@ -355,7 +355,7 @@ msgstr "RetroPad > B"
 
 msgctxt "#30087"
 msgid "RetroPad > A"
-msgstr ""
+msgstr "RetroPad > A"
 
 msgctxt "#30088"
 msgid "RetroPad > Y"
@@ -363,7 +363,7 @@ msgstr "RetroPad > Y"
 
 msgctxt "#30089"
 msgid "RetroPad > X"
-msgstr ""
+msgstr "RetroPad > X"
 
 msgctxt "#30090"
 msgid "RetroPad > Select"
@@ -443,35 +443,35 @@ msgstr "RetroPad > Turbo Pulse"
 
 msgctxt "#30109"
 msgid "RetroPad > Joystick/Mouse"
-msgstr ""
+msgstr "RetroPad > Joystick/Mouse"
 
 msgctxt "#30110"
 msgid "RetroPad > Joystick Port Order"
-msgstr ""
+msgstr "RetroPad > Ordine porte joystick"
 
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
-msgstr ""
+msgstr "RetroPad > Opzioni del pulsante frontale"
 
 msgctxt "#30112"
 msgid "CD32 Pad > Face Button Options"
-msgstr ""
+msgstr "Pad CD32 > Opzioni pulsanti frontali"
 
 msgctxt "#30113"
 msgid "Video > Automatic Crop Delay"
-msgstr ""
+msgstr "Video > Ritardo ritaglio automatico"
 
 msgctxt "#30114"
 msgid "Input > Left Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Input > Velocità del mouse con levetta analogica sinistra"
 
 msgctxt "#30115"
 msgid "Input > Right Analog Stick Mouse Speed"
-msgstr ""
+msgstr "Input > Velocità del mouse con levetta analogica destra"
 
 msgctxt "#30116"
 msgid "Media > WHDLoad ButtonWait"
-msgstr ""
+msgstr "Supporti > WHDLoad ButtonWait"
 
 #~ msgctxt "#30037"
 #~ msgid "Video > Zoom Mode"
