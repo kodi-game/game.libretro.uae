@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: game.libretro.uae\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-14 05:39i\n"
-"PO-Revision-Date: 2026-08-16 23:16+0000\n"
-"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
+"PO-Revision-Date: 2026-09-18 19:16+0000\n"
+"Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-uae/it_it/>\n"
 "Language: it_it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.8.1\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 msgctxt "Addon Summary"
 msgid "Commodore - Amiga (PUAE)"
@@ -475,11 +475,11 @@ msgstr "Supporti > WHDLoad ButtonWait"
 
 msgctxt "#30117"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgctxt "#30118"
 msgid "Configure system options."
-msgstr ""
+msgstr "Configura le opzioni di sistema."
 
 msgctxt "#30119"
 msgid ""
@@ -489,7 +489,7 @@ msgstr ""
 
 msgctxt "#30120"
 msgid "Automatic"
-msgstr ""
+msgstr "Automatico"
 
 msgctxt "#30121"
 msgid "A500 (v1.3, 0.5M Chip)"
@@ -599,7 +599,7 @@ msgstr ""
 
 msgctxt "#30145"
 msgid "None"
-msgstr ""
+msgstr "Nessuno"
 
 msgctxt "#30146"
 msgid "1.8M"
@@ -683,7 +683,7 @@ msgstr ""
 
 msgctxt "#30166"
 msgid "Default"
-msgstr ""
+msgstr "Predefinito"
 
 msgctxt "#30167"
 msgid "+100%"
@@ -779,11 +779,11 @@ msgstr ""
 
 msgctxt "#30190"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgctxt "#30191"
 msgid "Configure audio options."
-msgstr ""
+msgstr "Configura le opzioni audio."
 
 msgctxt "#30192"
 msgid "Paula sound chip channel panning. Does not affect CD audio."
@@ -799,7 +799,7 @@ msgstr ""
 
 msgctxt "#30195"
 msgid "Sinc"
-msgstr ""
+msgstr "Sinc"
 
 msgctxt "#30196"
 msgid "RH"
@@ -819,7 +819,7 @@ msgstr ""
 
 msgctxt "#30200"
 msgid "Off"
-msgstr ""
+msgstr "Disattivato"
 
 msgctxt "#30201"
 msgid "On"
@@ -843,87 +843,87 @@ msgstr ""
 
 msgctxt "#30206"
 msgid "disabled"
-msgstr ""
+msgstr "disabilitato"
 
 msgctxt "#30207"
 msgid "5%"
-msgstr ""
+msgstr "5%"
 
 msgctxt "#30208"
 msgid "10%"
-msgstr ""
+msgstr "10%"
 
 msgctxt "#30209"
 msgid "15%"
-msgstr ""
+msgstr "15%"
 
 msgctxt "#30210"
 msgid "20%"
-msgstr ""
+msgstr "20%"
 
 msgctxt "#30211"
 msgid "25%"
-msgstr ""
+msgstr "25%"
 
 msgctxt "#30212"
 msgid "30%"
-msgstr ""
+msgstr "30%"
 
 msgctxt "#30213"
 msgid "35%"
-msgstr ""
+msgstr "35%"
 
 msgctxt "#30214"
 msgid "40%"
-msgstr ""
+msgstr "40%"
 
 msgctxt "#30215"
 msgid "45%"
-msgstr ""
+msgstr "45%"
 
 msgctxt "#30216"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 msgctxt "#30217"
 msgid "55%"
-msgstr ""
+msgstr "55%"
 
 msgctxt "#30218"
 msgid "60%"
-msgstr ""
+msgstr "60%"
 
 msgctxt "#30219"
 msgid "65%"
-msgstr ""
+msgstr "65%"
 
 msgctxt "#30220"
 msgid "70%"
-msgstr ""
+msgstr "70%"
 
 msgctxt "#30221"
 msgid "75%"
-msgstr ""
+msgstr "75%"
 
 msgctxt "#30222"
 msgid "80%"
-msgstr ""
+msgstr "80%"
 
 msgctxt "#30223"
 msgid "85%"
-msgstr ""
+msgstr "85%"
 
 msgctxt "#30224"
 msgid "90%"
-msgstr ""
+msgstr "90%"
 
 msgctxt "#30225"
 msgid "95%"
-msgstr ""
+msgstr "95%"
 
 msgctxt "#30226"
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 msgctxt "#30227"
 msgid "Mute drive head clicking when floppy is not inserted."
@@ -935,7 +935,7 @@ msgstr ""
 
 msgctxt "#30229"
 msgid "Internal"
-msgstr ""
+msgstr "Interna"
 
 msgctxt "#30230"
 msgid "External: A500"
@@ -951,11 +951,11 @@ msgstr ""
 
 msgctxt "#30233"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#30234"
 msgid "Configure video options."
-msgstr ""
+msgstr "Configura le opzioni video."
 
 msgctxt "#30235"
 msgid ""
@@ -1034,7 +1034,7 @@ msgstr ""
 
 msgctxt "#30250"
 msgid "Remove borders according to 'Crop Mode'."
-msgstr ""
+msgstr "Rimuove i bordi in base a 'Modalità ritaglio'."
 
 msgctxt "#30251"
 msgid "Minimum"
@@ -1046,11 +1046,11 @@ msgstr ""
 
 msgctxt "#30253"
 msgid "Small"
-msgstr ""
+msgstr "Piccolo"
 
 msgctxt "#30254"
 msgid "Medium"
-msgstr ""
+msgstr "Medio"
 
 msgctxt "#30255"
 msgid "Large"
@@ -1062,11 +1062,11 @@ msgstr ""
 
 msgctxt "#30257"
 msgid "Maximum"
-msgstr ""
+msgstr "Massimo"
 
 msgctxt "#30258"
 msgid "Patient or instant geometry change."
-msgstr ""
+msgstr "Cambio di geometria graduale o istantaneo."
 
 msgctxt "#30259"
 msgid "'Horizontal + Vertical' & 'Automatic' removes borders completely."
@@ -1074,31 +1074,31 @@ msgstr ""
 
 msgctxt "#30260"
 msgid "Horizontal + Vertical"
-msgstr ""
+msgstr "Orizzontale + Verticale"
 
 msgctxt "#30261"
 msgid "Horizontal"
-msgstr ""
+msgstr "Orizzontale"
 
 msgctxt "#30262"
 msgid "Vertical"
-msgstr ""
+msgstr "Verticale"
 
 msgctxt "#30263"
 msgid "16:9"
-msgstr ""
+msgstr "16:9"
 
 msgctxt "#30264"
 msgid "16:10"
-msgstr ""
+msgstr "16:10"
 
 msgctxt "#30265"
 msgid "4:3"
-msgstr ""
+msgstr "4:3"
 
 msgctxt "#30266"
 msgid "5:4"
-msgstr ""
+msgstr "5:4"
 
 msgctxt "#30267"
 msgid "'Automatic' keeps only cropped screens centered. 'Forced' centers regardless of available crop area. Positive values move upward and negative values move downward."
@@ -1140,7 +1140,7 @@ msgstr ""
 
 msgctxt "#30276"
 msgid "Full"
-msgstr ""
+msgstr "Pieno"
 
 msgctxt "#30277"
 msgid "Best suited for still screens, Workbench etc."
@@ -1196,23 +1196,23 @@ msgstr ""
 
 msgctxt "#30290"
 msgid "Full restart required."
-msgstr ""
+msgstr "Richiede un riavvio completo."
 
 msgctxt "#30291"
 msgid "16-bit (RGB565)"
-msgstr ""
+msgstr "16 bit (RGB565)"
 
 msgctxt "#30292"
 msgid "24-bit (XRGB8888)"
-msgstr ""
+msgstr "24 bit (XRGB8888)"
 
 msgctxt "#30293"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 msgctxt "#30294"
 msgid "Configure media options."
-msgstr ""
+msgstr "Configura le opzioni multimediali."
 
 msgctxt "#30295"
 msgid "Toggle frontend fast-forward during media access if there is no audio output. Mutes 'Floppy Sound Emulation'."
@@ -1236,19 +1236,19 @@ msgstr ""
 
 msgctxt "#30300"
 msgid "2x"
-msgstr ""
+msgstr "2x"
 
 msgctxt "#30301"
 msgid "4x"
-msgstr ""
+msgstr "4x"
 
 msgctxt "#30302"
 msgid "8x"
-msgstr ""
+msgstr "8x"
 
 msgctxt "#30303"
 msgid "Turbo"
-msgstr ""
+msgstr "Turbo"
 
 msgctxt "#30304"
 msgid ""
@@ -1380,11 +1380,11 @@ msgstr ""
 
 msgctxt "#30329"
 msgid "Input"
-msgstr ""
+msgstr "Input"
 
 msgctxt "#30330"
 msgid "Configure input options."
-msgstr ""
+msgstr "Configura le opzioni di input."
 
 msgctxt "#30331"
 msgid "Default mouse control stick when remappings are empty."
@@ -1392,167 +1392,167 @@ msgstr ""
 
 msgctxt "#30332"
 msgid "Left Analog"
-msgstr ""
+msgstr "Levetta sinistra"
 
 msgctxt "#30333"
 msgid "Right Analog"
-msgstr ""
+msgstr "Levetta destra"
 
 msgctxt "#30334"
 msgid "Both Analogs"
-msgstr ""
+msgstr "Entrambe le levette"
 
 msgctxt "#30335"
 msgid "Required distance from stick center to register input."
-msgstr ""
+msgstr "Distanza richiesta dal centro della levetta per registrare l'input."
 
 msgctxt "#30336"
 msgid "0%"
-msgstr ""
+msgstr "0%"
 
 msgctxt "#30337"
 msgid "Mouse speed for left analog stick."
-msgstr ""
+msgstr "Velocità del mouse per la levetta analogica sinistra."
 
 msgctxt "#30338"
 msgid "110%"
-msgstr ""
+msgstr "110%"
 
 msgctxt "#30339"
 msgid "120%"
-msgstr ""
+msgstr "120%"
 
 msgctxt "#30340"
 msgid "130%"
-msgstr ""
+msgstr "130%"
 
 msgctxt "#30341"
 msgid "140%"
-msgstr ""
+msgstr "140%"
 
 msgctxt "#30342"
 msgid "150%"
-msgstr ""
+msgstr "150%"
 
 msgctxt "#30343"
 msgid "160%"
-msgstr ""
+msgstr "160%"
 
 msgctxt "#30344"
 msgid "170%"
-msgstr ""
+msgstr "170%"
 
 msgctxt "#30345"
 msgid "180%"
-msgstr ""
+msgstr "180%"
 
 msgctxt "#30346"
 msgid "190%"
-msgstr ""
+msgstr "190%"
 
 msgctxt "#30347"
 msgid "200%"
-msgstr ""
+msgstr "200%"
 
 msgctxt "#30348"
 msgid "210%"
-msgstr ""
+msgstr "210%"
 
 msgctxt "#30349"
 msgid "220%"
-msgstr ""
+msgstr "220%"
 
 msgctxt "#30350"
 msgid "230%"
-msgstr ""
+msgstr "230%"
 
 msgctxt "#30351"
 msgid "240%"
-msgstr ""
+msgstr "240%"
 
 msgctxt "#30352"
 msgid "250%"
-msgstr ""
+msgstr "250%"
 
 msgctxt "#30353"
 msgid "260%"
-msgstr ""
+msgstr "260%"
 
 msgctxt "#30354"
 msgid "270%"
-msgstr ""
+msgstr "270%"
 
 msgctxt "#30355"
 msgid "280%"
-msgstr ""
+msgstr "280%"
 
 msgctxt "#30356"
 msgid "290%"
-msgstr ""
+msgstr "290%"
 
 msgctxt "#30357"
 msgid "300%"
-msgstr ""
+msgstr "300%"
 
 msgctxt "#30358"
 msgid "Mouse speed for right analog stick."
-msgstr ""
+msgstr "Velocità del mouse per la levetta analogica destra."
 
 msgctxt "#30359"
 msgid "Mouse speed for directional pad."
-msgstr ""
+msgstr "Velocità del mouse per il D-pad."
 
 msgctxt "#30360"
 msgid "16%"
-msgstr ""
+msgstr "16%"
 
 msgctxt "#30361"
 msgid "33%"
-msgstr ""
+msgstr "33%"
 
 msgctxt "#30362"
 msgid "66%"
-msgstr ""
+msgstr "66%"
 
 msgctxt "#30363"
 msgid "83%"
-msgstr ""
+msgstr "83%"
 
 msgctxt "#30364"
 msgid "116%"
-msgstr ""
+msgstr "116%"
 
 msgctxt "#30365"
 msgid "133%"
-msgstr ""
+msgstr "133%"
 
 msgctxt "#30366"
 msgid "166%"
-msgstr ""
+msgstr "166%"
 
 msgctxt "#30367"
 msgid "183%"
-msgstr ""
+msgstr "183%"
 
 msgctxt "#30368"
 msgid "216%"
-msgstr ""
+msgstr "216%"
 
 msgctxt "#30369"
 msgid "233%"
-msgstr ""
+msgstr "233%"
 
 msgctxt "#30370"
 msgid "266%"
-msgstr ""
+msgstr "266%"
 
 msgctxt "#30371"
 msgid "283%"
-msgstr ""
+msgstr "283%"
 
 msgctxt "#30372"
 msgid "Global mouse speed."
-msgstr ""
+msgstr "Velocità globale del mouse."
 
 msgctxt "#30373"
 msgid "310%"
@@ -1592,7 +1592,7 @@ msgstr ""
 
 msgctxt "#30382"
 msgid "400%"
-msgstr ""
+msgstr "400%"
 
 msgctxt "#30383"
 msgid "410%"
@@ -1632,7 +1632,7 @@ msgstr ""
 
 msgctxt "#30392"
 msgid "500%"
-msgstr ""
+msgstr "500%"
 
 msgctxt "#30393"
 msgid "510%"
@@ -1672,7 +1672,7 @@ msgstr ""
 
 msgctxt "#30402"
 msgid "600%"
-msgstr ""
+msgstr "600%"
 
 msgctxt "#30403"
 msgid "610%"
@@ -1712,7 +1712,7 @@ msgstr ""
 
 msgctxt "#30412"
 msgid "700%"
-msgstr ""
+msgstr "700%"
 
 msgctxt "#30413"
 msgid "710%"
@@ -1752,7 +1752,7 @@ msgstr ""
 
 msgctxt "#30422"
 msgid "800%"
-msgstr ""
+msgstr "800%"
 
 msgctxt "#30423"
 msgid "810%"
@@ -1792,7 +1792,7 @@ msgstr ""
 
 msgctxt "#30432"
 msgid "900%"
-msgstr ""
+msgstr "900%"
 
 msgctxt "#30433"
 msgid "910%"
@@ -1832,7 +1832,7 @@ msgstr ""
 
 msgctxt "#30442"
 msgid "1000%"
-msgstr ""
+msgstr "1000%"
 
 msgctxt "#30443"
 msgid ""
@@ -1853,10 +1853,12 @@ msgid ""
 "'ON' passes all physical keyboard events to the core. 'OFF' prevents RetroPad keys from generating keyboard events.\n"
 "NOTE: This is a legacy option for old frontends that do not block keyboard events when using RetroPad, so it does nothing with current RetroArch."
 msgstr ""
+"'ON' passa tutti gli eventi della tastiera fisica al core. 'OFF' impedisce ai tasti RetroPad di generare eventi da tastiera.\n"
+"NOTA: questa è un'opzione legacy per i vecchi frontend che non bloccano gli eventi da tastiera quando si usa il RetroPad, quindi non ha effetto con l'attuale RetroArch."
 
 msgctxt "#30447"
 msgid "Hardcoded keypad to joyport mappings for Keyrah hardware."
-msgstr ""
+msgstr "Mappature fisse tastierino-joyport per l'hardware Keyrah."
 
 msgctxt "#30448"
 msgid "Hotkey toggling disables this option until core restart."
