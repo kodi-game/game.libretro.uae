@@ -120,7 +120,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_kickstart" type="string" label="30006" help="30138">
+				<setting id="puae_kickstart" type="string" label="30006" help="30782">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -131,7 +131,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_chipmem_size" type="string" label="30007" help="30140">
+				<setting id="puae_chipmem_size" type="string" label="30007" help="30783">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -145,7 +145,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_bogomem_size" type="string" label="30008" help="30140">
+				<setting id="puae_bogomem_size" type="string" label="30008" help="30783">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -160,7 +160,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_fastmem_size" type="string" label="30009" help="30140">
+				<setting id="puae_fastmem_size" type="string" label="30009" help="30783">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -175,7 +175,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_z3mem_size" type="string" label="30010" help="30140">
+				<setting id="puae_z3mem_size" type="string" label="30010" help="30783">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -196,7 +196,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cpu_model" type="string" label="30011" help="30140">
+				<setting id="puae_cpu_model" type="string" label="30011" help="30783">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -212,7 +212,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_fpu_model" type="string" label="30012" help="30140">
+				<setting id="puae_fpu_model" type="string" label="30012" help="30783">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -434,7 +434,7 @@
 		</category>
 		<category id="video" label="30233" help="30234">
 			<group id="1">
-				<setting id="puae_video_allow_hz_change" type="string" label="30031" help="30235">
+				<setting id="puae_video_allow_hz_change" type="string" label="30031" help="30784">
 					<level>0</level>
 					<default>locked</default>
 					<constraints>
@@ -848,7 +848,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_floppy_multidrive" type="string" label="30018" help="30304">
+				<setting id="puae_floppy_multidrive" type="string" label="30018" help="30785">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -914,7 +914,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload" type="string" label="30024" help="30310">
+				<setting id="puae_use_whdload" type="string" label="30024" help="30786">
 					<level>0</level>
 					<default>files</default>
 					<constraints>
@@ -926,7 +926,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload_theme" type="string" label="30025" help="30313">
+				<setting id="puae_use_whdload_theme" type="string" label="30025" help="30787">
 					<level>0</level>
 					<default>default</default>
 					<constraints>
@@ -937,7 +937,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload_prefs" type="string" label="30026" help="30315">
+				<setting id="puae_use_whdload_prefs" type="string" label="30026" help="30788">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -950,7 +950,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload_buttonwait" type="string" label="30116" help="30319">
+				<setting id="puae_use_whdload_buttonwait" type="string" label="30116" help="30789">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -961,7 +961,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload_nowritecache" type="string" label="30027" help="30320">
+				<setting id="puae_use_whdload_nowritecache" type="string" label="30027" help="30790">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -972,7 +972,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_boot_hd" type="string" label="30028" help="30321">
+				<setting id="puae_use_boot_hd" type="string" label="30028" help="30791">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
