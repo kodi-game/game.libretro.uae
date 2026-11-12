@@ -25,453 +25,17 @@ msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
 msgstr "UAE расшифровывается как Ubiquitous Amiga Emulator.[CR][CR]Для большинства игр требуется определённая версия Amiga Kickstart ROM. Тем не менее некоторые старые игры могут быть запущены с помощью встроенного эмулятора ROM."
 
-msgctxt "#30001"
-msgid "System > Model"
-msgstr "Система > Модель"
-
-msgctxt "#30002"
-msgid "System > Show Automatic Model Options"
-msgstr "Система > Показать настройки для \"автоматической\" модели"
-
-msgctxt "#30003"
-msgid "Model > Automatic Floppy"
-msgstr "Модель > \"автоматическая\" для Floppy"
-
-msgctxt "#30004"
-msgid "Model > Automatic HD"
-msgstr "Модель > \"автоматическая\" для HD"
-
-msgctxt "#30005"
-msgid "Model > Automatic CD"
-msgstr "Модель > \"автоматическая\" для CD"
-
-msgctxt "#30006"
-msgid "System > Kickstart ROM"
-msgstr "Система > Kickstart ROM"
-
-msgctxt "#30007"
-msgid "System > Chip RAM"
-msgstr "Система > Чип RAM"
-
-msgctxt "#30008"
-msgid "System > Slow RAM"
-msgstr "Система > Замедление RAM"
-
-msgctxt "#30009"
-msgid "System > Z2 Fast RAM"
-msgstr "Система > Z2 Быстрая RAM"
-
-msgctxt "#30010"
-msgid "System > Z3 Fast RAM"
-msgstr "Система > Z3 быстрая RAM"
-
-msgctxt "#30011"
-msgid "System > CPU Model"
-msgstr "Система > Модель ЦП"
-
-msgctxt "#30012"
-msgid "System > FPU Model"
-msgstr "Система > Модель FPU"
-
-msgctxt "#30013"
-msgid "System > CPU Speed"
-msgstr "Система > Скорость ЦП"
-
-msgctxt "#30014"
-msgid "System > CPU Cycle-exact Speed"
-msgstr "Система > Точная тактовая частота ЦП"
-
-msgctxt "#30015"
-msgid "System > CPU Compatibility"
-msgstr "Система > Совместимость ЦП"
-
-msgctxt "#30016"
-msgid "Media > Automatic Load Fast-Forward"
-msgstr "Медиа > Автоматически загружаться в режиме ускоренной перемотки"
-
-msgctxt "#30017"
-msgid "Media > Floppy Speed"
-msgstr "Медиа > Скорость дискеты"
-
-msgctxt "#30018"
-msgid "Media > Floppy MultiDrive"
-msgstr "Медиа > Режим нескольких приводов для дискет (MultiDrive)"
-
-msgctxt "#30019"
-msgid "Media > Floppy Write Protection"
-msgstr "Медиа > Защита записи дискеты"
-
-msgctxt "#30020"
-msgid "Media > Floppy Write Redirect"
-msgstr "Медиа > Перенаправление записи на дискету"
-
-msgctxt "#30021"
-msgid "Media > CD Speed"
-msgstr "Медиа > Скорость CD"
-
-msgctxt "#30022"
-msgid "Media > CD Startup Delayed Insert"
-msgstr "Медиа > Отложенная вставка CD при запуске"
-
-msgctxt "#30023"
-msgid "Media > CD32/CDTV Shared NVRAM"
-msgstr "Медиа > CD32/CDTV используют общий NVRAM"
-
-msgctxt "#30024"
-msgid "Media > WHDLoad Support"
-msgstr "Медиа > Поддержка WHDLoad"
-
-msgctxt "#30025"
-msgid "Media > WHDLoad Theme"
-msgstr "Медиа > Тема WHDLoad"
-
-msgctxt "#30026"
-msgid "Media > WHDLoad Splash Screen"
-msgstr "Медиа > Всплывающий экран WHDLoad"
-
-msgctxt "#30027"
-msgid "Media > WHDLoad NoWriteCache"
-msgstr "Медиа > WHDLoad без кэша записи"
-
-msgctxt "#30028"
-msgid "Media > Global Boot HD"
-msgstr "Медиа > Глобальный загрузочный HD"
-
-msgctxt "#30029"
-msgid "Media > Cartridge"
-msgstr "Медиа > Картридж"
-
 msgctxt "#30030"
 msgid "Show Video Options"
 msgstr "Показать настройки видео"
-
-msgctxt "#30031"
-msgid "Video > Allow Hz Change"
-msgstr "Видео > Разрешить изменение частоты"
-
-msgctxt "#30032"
-msgid "Video > Standard"
-msgstr "Видео > Стандарт"
-
-msgctxt "#30033"
-msgid "Video > Pixel Aspect Ratio"
-msgstr "Видео > Пиксельное соотношение сторон"
-
-msgctxt "#30034"
-msgid "Video > Resolution"
-msgstr "Видео > Разрешение"
-
-msgctxt "#30035"
-msgid "Video > Line Mode"
-msgstr "Видео > Режим строк"
-
-msgctxt "#30036"
-msgid "Video > Crop"
-msgstr "Видео > Обрезка"
-
-msgctxt "#30038"
-msgid "Video > Crop Mode"
-msgstr "Видео > Режим обрезки"
-
-msgctxt "#30040"
-msgid "Video > Vertical Position"
-msgstr "Видео > Вертикальная позиция"
-
-msgctxt "#30041"
-msgid "Video > Horizontal Position"
-msgstr "Видео > Горизонтальная позиция"
-
-msgctxt "#30042"
-msgid "Video > Immediate/Waiting Blits"
-msgstr "Видео > Принудительные/С задержкой бит-блиты"
-
-msgctxt "#30043"
-msgid "Video > Collision Level"
-msgstr "Видео > Уровень коллизии"
-
-msgctxt "#30044"
-msgid "Video > Remove Interlace Artifacts"
-msgstr "Видео > Удалять артефакты чересстрочности"
-
-msgctxt "#30045"
-msgid "Video > Frameskip"
-msgstr "Видео > Пропуск кадров"
-
-msgctxt "#30046"
-msgid "Video > Color Gamma"
-msgstr "Видео > Гамма цвета"
-
-msgctxt "#30047"
-msgid "Video > Color Depth"
-msgstr "Видео > Глубина цвета"
-
-msgctxt "#30048"
-msgid "OSD > Virtual KBD Theme"
-msgstr "OSD > Тема виртуальной KBD"
-
-msgctxt "#30049"
-msgid "OSD > Virtual KBD Transparency"
-msgstr "OSD > Прозрачность виртуальной KBD"
-
-msgctxt "#30050"
-msgid "OSD > Virtual KBD Dimming"
-msgstr "OSD > Виртуальное затемнение KBD"
-
-msgctxt "#30051"
-msgid "OSD > Statusbar Mode"
-msgstr "OSD > Режим строки состояния"
-
-msgctxt "#30052"
-msgid "OSD > Statusbar Startup"
-msgstr "OSD > Строка состояния при запуске"
-
-msgctxt "#30053"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > Сообщения строки состояния"
-
-msgctxt "#30054"
-msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr "OSD > Световое перо/цвет указателя прицела"
 
 msgctxt "#30055"
 msgid "Show Audio Options"
 msgstr "Показать настройки аудио"
 
-msgctxt "#30056"
-msgid "Audio > Stereo Separation"
-msgstr "Аудио > Стереоразделение"
-
-msgctxt "#30057"
-msgid "Audio > Interpolation"
-msgstr "Аудио > Интерполяция"
-
-msgctxt "#30058"
-msgid "Audio > Filter"
-msgstr "Аудио > Фильтр"
-
-msgctxt "#30059"
-msgid "Audio > Filter Type"
-msgstr "Аудио > Тип фильтра"
-
-msgctxt "#30060"
-msgid "Audio > Floppy Sound Emulation"
-msgstr "Аудио > Эмуляция звука дискеты"
-
-msgctxt "#30061"
-msgid "Audio > Floppy Sound Mute Ejected"
-msgstr "Аудио > Отключать звук извлечённой дискеты"
-
-msgctxt "#30062"
-msgid "Audio > Floppy Sound Type"
-msgstr "Аудио > Тип звука дискеты"
-
-msgctxt "#30063"
-msgid "Audio > CD Audio Volume"
-msgstr "Аудио > Громкость аудио CD"
-
-msgctxt "#30064"
-msgid "Input > Analog Stick Mouse"
-msgstr "Ввод > Аналоговый стик как мышь"
-
-msgctxt "#30065"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "Ввод > Мёртвая зона аналогового стика как мыши"
-
-msgctxt "#30067"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "Ввод > Скорость мыши от крестовины"
-
-msgctxt "#30068"
-msgid "Input > Mouse Speed"
-msgstr "Ввод > Скорость мыши"
-
-msgctxt "#30069"
-msgid "Input > Physical Mouse"
-msgstr "Ввод > Физическая мышь"
-
-msgctxt "#30070"
-msgid "Input > Keyboard Pass-through"
-msgstr "Ввод > Сквозной пропуск клавиатуры"
-
-msgctxt "#30071"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "Ввод > Сопоставления клавиатуры Keyrah"
-
 msgctxt "#30072"
 msgid "Show Mapping Options"
 msgstr "Показать параметры сопоставления"
-
-msgctxt "#30073"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Горячая клавиша > Переключить виртуальную клавиатуру"
-
-msgctxt "#30074"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Горячая клавиша > Переключить строку состояния"
-
-msgctxt "#30075"
-msgid "Hotkey > Switch Joystick/Mouse"
-msgstr "Горячая клавиша > Переключить джойстик/мышь"
-
-msgctxt "#30076"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Горячая клавиша > Переключить турбо-огонь"
-
-msgctxt "#30077"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "Горячая клавиша > Переключить сохранение диска"
-
-msgctxt "#30078"
-msgid "Hotkey > Reset"
-msgstr "Горячая клавиша > Сброс"
-
-msgctxt "#30079"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "Горячая клавиша > Переключить соотношение сторон"
-
-msgctxt "#30080"
-msgid "Hotkey > Toggle Crop"
-msgstr "Горячая клавиша > Переключить обрезку"
-
-msgctxt "#30082"
-msgid "RetroPad > Up"
-msgstr "RetroPad > Вверх"
-
-msgctxt "#30083"
-msgid "RetroPad > Down"
-msgstr "RetroPad > Вниз"
-
-msgctxt "#30084"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Влево"
-
-msgctxt "#30085"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Вправо"
-
-msgctxt "#30086"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
-
-msgctxt "#30087"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
-
-msgctxt "#30088"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
-
-msgctxt "#30089"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
-
-msgctxt "#30090"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Select"
-
-msgctxt "#30091"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
-
-msgctxt "#30092"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
-
-msgctxt "#30093"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
-
-msgctxt "#30094"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
-
-msgctxt "#30095"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
-
-msgctxt "#30096"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
-
-msgctxt "#30097"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
-
-msgctxt "#30098"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Левый аналог > Вверх"
-
-msgctxt "#30099"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Левый аналог > Вниз"
-
-msgctxt "#30100"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Левый аналог > Влево"
-
-msgctxt "#30101"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Левый аналог > Вправо"
-
-msgctxt "#30102"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Правый аналог > Вверх"
-
-msgctxt "#30103"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Правый аналог > Вниз"
-
-msgctxt "#30104"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Правый аналог > Влево"
-
-msgctxt "#30105"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Правый аналог > Вправо"
-
-msgctxt "#30106"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Турбо-огонь"
-
-msgctxt "#30107"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Турбо-кнопка"
-
-msgctxt "#30108"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Импульс турбо"
-
-msgctxt "#30109"
-msgid "RetroPad > Joystick/Mouse"
-msgstr "RetroPad > Джойстик/Мышь"
-
-msgctxt "#30110"
-msgid "RetroPad > Joystick Port Order"
-msgstr "RetroPad > Порядок портов джойстиков"
-
-msgctxt "#30111"
-msgid "RetroPad > Face Button Options"
-msgstr "RetroPad > Параметры лицевых кнопок"
-
-msgctxt "#30112"
-msgid "CD32 Pad > Face Button Options"
-msgstr "Пульт CD32 > Параметры лицевых кнопок"
-
-msgctxt "#30113"
-msgid "Video > Automatic Crop Delay"
-msgstr "Видео > Задержка автоматической обрезки"
-
-msgctxt "#30114"
-msgid "Input > Left Analog Stick Mouse Speed"
-msgstr "Ввод > Скорость мыши от левого аналогового стика"
-
-msgctxt "#30115"
-msgid "Input > Right Analog Stick Mouse Speed"
-msgstr "Ввод > Скорость мыши от правого аналогового стика"
-
-msgctxt "#30116"
-msgid "Media > WHDLoad ButtonWait"
-msgstr "Медиа > WHDLoad ButtonWait"
 
 msgctxt "#30117"
 msgid "System"
@@ -977,16 +541,6 @@ msgctxt "#30239"
 msgid "Automatic NTSC"
 msgstr "Автоматически NTSC"
 
-msgctxt "#30240"
-msgid ""
-"Hotkey toggling disables this option until core restart.\n"
-"- 'PAL': 26/25 = 1.04\n"
-"- 'NTSC': 43/50 = 0.86"
-msgstr ""
-"Переключение горячей клавишей отключает этот параметр до перезапуска ядра.\n"
-"- «PAL»: 26/25 = 1,04\n"
-"- «NTSC»: 43/50 = 0,86"
-
 msgctxt "#30241"
 msgid ""
 "Output width:\n"
@@ -1282,10 +836,6 @@ msgstr ""
 msgctxt "#30311"
 msgid "Files"
 msgstr "Файлы"
-
-msgctxt "#30312"
-msgid "HDFs"
-msgstr "HDFs"
 
 msgctxt "#30314"
 msgid "Native"
@@ -3211,20 +2761,6 @@ msgstr ""
 "Вставлять каждый диск в отдельный дисковод. Можно принудительно задать тегом '(MD)' в пути к файлу. Максимум — 4 диска из-за ограничения на внешние дисководы! Не все игры поддерживают внешние дисководы!\n"
 "Требуется сброс ядра."
 
-msgctxt "#30786"
-msgid ""
-"Enable launching pre-installed WHDLoad installs. Creates a helper boot image for loading content and an empty image for saving. Legacy 'HDFs' mode is not recommended!\n"
-"Core reset required.\n"
-"- 'Files' creates data in directories\n"
-"- 'HDFs' creates data in images\n"
-"- 'OFF' boots hard drive images directly"
-msgstr ""
-"Включить запуск предварительно установленных сборок WHDLoad. Создаёт вспомогательный загрузочный образ для загрузки содержимого и пустой образ для сохранения. Устаревший режим 'HDFs' не рекомендуется!\n"
-"Требуется сброс ядра.\n"
-"- 'Files' создаёт данные в каталогах\n"
-"- 'HDFs' создаёт данные в образах\n"
-"- 'OFF' загружает образы жёстких дисков напрямую"
-
 msgctxt "#30787"
 msgid ""
 "AmigaOS 'system-configuration' color prefs in WHDLoad helper image. Available only with 'Files' mode.\n"
@@ -3278,6 +2814,870 @@ msgid ""
 msgstr ""
 "Подключать жёсткий диск для Workbench, а не для WHDLoad! Включение принудительно задаёт модель интерфейса HD. Запуск CD включает режим AmigaCD. Изменение размера HDF не изменит существующие HDF.\n"
 "Требуется перезапуск ядра."
+
+msgctxt "#30792"
+msgid "Model"
+msgstr "Модель"
+
+msgctxt "#30795"
+msgid "Show Automatic Model Options"
+msgstr "Показать настройки для \"автоматической\" модели"
+
+msgctxt "#30796"
+msgid "Automatic Floppy"
+msgstr "\"автоматическая\" для Floppy"
+
+msgctxt "#30797"
+msgid "Automatic HD"
+msgstr "\"автоматическая\" для HD"
+
+msgctxt "#30798"
+msgid "Automatic CD"
+msgstr "\"автоматическая\" для CD"
+
+msgctxt "#30799"
+msgid "Kickstart ROM"
+msgstr "Kickstart ROM"
+
+msgctxt "#30800"
+msgid "Chip RAM"
+msgstr "Чип RAM"
+
+msgctxt "#30801"
+msgid "Slow RAM"
+msgstr "Замедление RAM"
+
+msgctxt "#30802"
+msgid "Z2 Fast RAM"
+msgstr "Z2 Быстрая RAM"
+
+msgctxt "#30803"
+msgid "Z3 Fast RAM"
+msgstr "Z3 быстрая RAM"
+
+msgctxt "#30804"
+msgid "CPU Model"
+msgstr "Модель ЦП"
+
+msgctxt "#30805"
+msgid "FPU Model"
+msgstr "Модель FPU"
+
+msgctxt "#30806"
+msgid "CPU Speed"
+msgstr "Защита записи дискеты"
+
+msgctxt "#30807"
+msgid "CPU Cycle-exact Speed"
+msgstr "Точная тактовая частота ЦП"
+
+msgctxt "#30808"
+msgid "CPU Compatibility"
+msgstr "Совместимость ЦП"
+
+msgctxt "#30834"
+msgid "Automatic Load Fast-Forward"
+msgstr "Автоматически загружаться в режиме ускоренной перемотки"
+
+msgctxt "#30835"
+msgid "Floppy Speed"
+msgstr "Скорость дискеты"
+
+msgctxt "#30836"
+msgid "Floppy MultiDrive"
+msgstr "Режим нескольких приводов для дискет (MultiDrive)"
+
+msgctxt "#30837"
+msgid "Floppy Write Protection"
+msgstr "Защита записи дискеты"
+
+msgctxt "#30839"
+msgid "CD Speed"
+msgstr "Отложенная вставка CD при запуске"
+
+msgctxt "#30840"
+msgid "CD Startup Delayed Insert"
+msgstr "CD32/CDTV используют общий NVRAM"
+
+msgctxt "#30841"
+msgid "CD32/CDTV Shared NVRAM"
+msgstr "Поддержка WHDLoad"
+
+msgctxt "#30842"
+msgid "WHDLoad Support"
+msgstr "Тема WHDLoad"
+
+msgctxt "#30844"
+msgid "WHDLoad Theme"
+msgstr "Пиксельное соотношение сторон"
+
+msgctxt "#30845"
+msgid "WHDLoad Splash Screen"
+msgstr "Режим масштабирования"
+
+msgctxt "#30846"
+msgid "WHDLoad ButtonWait"
+msgstr "WHDLoad ButtonWait"
+
+msgctxt "#30847"
+msgid "WHDLoad NoWriteCache"
+msgstr "Урезанный режим масштабирования"
+
+msgctxt "#30848"
+msgid "Global Boot HD"
+msgstr "Разрешить изменение Hz"
+
+msgctxt "#30849"
+msgid "Cartridge"
+msgstr "Система"
+
+msgctxt "#30819"
+msgid "Allow Hz Change"
+msgstr "Режим линии"
+
+msgctxt "#30820"
+msgid "Standard"
+msgstr "Пиксельное соотношение сторон"
+
+msgctxt "#30821"
+msgid "Pixel Aspect Ratio"
+msgstr "Обрезка"
+
+msgctxt "#30823"
+msgid "Resolution"
+msgstr "Режим масштабирования"
+
+msgctxt "#30824"
+msgid "Line Mode"
+msgstr "Глубина цвета"
+
+msgctxt "#30825"
+msgid "Crop"
+msgstr "Тема виртуальной KBD"
+
+msgctxt "#30826"
+msgid "Automatic Crop Delay"
+msgstr "Задержка автоматической обрезки"
+
+msgctxt "#30827"
+msgid "Crop Mode"
+msgstr "Режим строки состояния"
+
+msgctxt "#30828"
+msgid "Vertical Position"
+msgstr "Принудительные/С задержкой бит-блиты"
+
+msgctxt "#30829"
+msgid "Horizontal Position"
+msgstr "Уровень коллизии"
+
+msgctxt "#30830"
+msgid "Remove Interlace Artifacts"
+msgstr "Глубина цвета"
+
+msgctxt "#30831"
+msgid "Frameskip"
+msgstr "Тема виртуальной KBD"
+
+msgctxt "#30832"
+msgid "Color Gamma"
+msgstr "Прозрачность виртуальной KBD"
+
+msgctxt "#30833"
+msgid "Color Depth"
+msgstr "Виртуальное затемнение KBD"
+
+msgctxt "#30895"
+msgid "Virtual KBD Theme"
+msgstr "Режим строки состояния"
+
+msgctxt "#30896"
+msgid "Virtual KBD Transparency"
+msgstr "Сообщения строки состояния"
+
+msgctxt "#30898"
+msgid "Statusbar Mode"
+msgstr "Разделение стереозвука"
+
+msgctxt "#30899"
+msgid "Statusbar Startup"
+msgstr "Интерполяция"
+
+msgctxt "#30900"
+msgid "Statusbar Messages"
+msgstr "Фильтр"
+
+msgctxt "#30901"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Тип фильтра"
+
+msgctxt "#30811"
+msgid "Stereo Separation"
+msgstr "Тип фильтра"
+
+msgctxt "#30812"
+msgid "Interpolation"
+msgstr "Интерполяция"
+
+msgctxt "#30813"
+msgid "Filter"
+msgstr "Фильтр"
+
+msgctxt "#30814"
+msgid "Filter Type"
+msgstr "Тип фильтра"
+
+msgctxt "#30815"
+msgid "Floppy Sound Emulation"
+msgstr "Уровень громкости звука CD"
+
+msgctxt "#30816"
+msgid "Floppy Sound Mute Ejected"
+msgstr "Отключать звук извлечённой дискеты"
+
+msgctxt "#30817"
+msgid "Floppy Sound Type"
+msgstr "Тип звука дискеты"
+
+msgctxt "#30818"
+msgid "CD Audio Volume"
+msgstr "Громкость аудио CD"
+
+msgctxt "#30850"
+msgid "Analog Stick Mouse"
+msgstr "Аналоговый стик как мышь"
+
+msgctxt "#30851"
+msgid "Analog Stick Mouse Deadzone"
+msgstr "Мёртвая зона аналогового стика как мыши"
+
+msgctxt "#30852"
+msgid "Left Analog Stick Mouse Speed"
+msgstr "Скорость мыши от левого аналогового стика"
+
+msgctxt "#30853"
+msgid "Right Analog Stick Mouse Speed"
+msgstr "Скорость мыши от правого аналогового стика"
+
+msgctxt "#30854"
+msgid "D-Pad Mouse Speed"
+msgstr "Скорость мыши от крестовины"
+
+msgctxt "#30855"
+msgid "Mouse Speed"
+msgstr "Скорость мыши"
+
+msgctxt "#30856"
+msgid "Physical Mouse"
+msgstr "Физическая мышь"
+
+msgctxt "#30857"
+msgid "Keyboard Pass-through"
+msgstr "Сквозной пропуск клавиатуры"
+
+msgctxt "#30858"
+msgid "Keyrah Keypad Mappings"
+msgstr "Сопоставления клавиатуры Keyrah"
+
+msgctxt "#30866"
+msgid "Toggle Turbo Fire"
+msgstr "Переключить турбо-огонь"
+
+msgctxt "#30867"
+msgid "Toggle Save Disk"
+msgstr "Переключить сохранение диска"
+
+msgctxt "#30868"
+msgid "Toggle Aspect Ratio"
+msgstr "Переключить соотношение сторон"
+
+msgctxt "#30869"
+msgid "Toggle Crop"
+msgstr "Переключить обрезку"
+
+msgctxt "#30870"
+msgid "Reset"
+msgstr "Сброс"
+
+msgctxt "#30871"
+msgid "Up"
+msgstr "Вверх"
+
+msgctxt "#30872"
+msgid "Down"
+msgstr "Вниз"
+
+msgctxt "#30873"
+msgid "Left"
+msgstr "Влево"
+
+msgctxt "#30874"
+msgid "Right"
+msgstr "Вправо"
+
+msgctxt "#30875"
+msgid "B"
+msgstr "B"
+
+msgctxt "#30876"
+msgid "A"
+msgstr "A"
+
+msgctxt "#30877"
+msgid "Y"
+msgstr "Y"
+
+msgctxt "#30878"
+msgid "X"
+msgstr "X"
+
+msgctxt "#30879"
+msgid "Select"
+msgstr "Select"
+
+msgctxt "#30880"
+msgid "Start"
+msgstr "Start"
+
+msgctxt "#30881"
+msgid "L"
+msgstr "L"
+
+msgctxt "#30882"
+msgid "R"
+msgstr "R"
+
+msgctxt "#30883"
+msgid "L2"
+msgstr "L2"
+
+msgctxt "#30884"
+msgid "R2"
+msgstr "R2"
+
+msgctxt "#30885"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#30886"
+msgid "R3"
+msgstr "R3"
+
+msgctxt "#30887"
+msgid "Left Analog > Up"
+msgstr "Левый аналог > Вверх"
+
+msgctxt "#30888"
+msgid "Left Analog > Down"
+msgstr "Левый аналог > Вниз"
+
+msgctxt "#30889"
+msgid "Left Analog > Left"
+msgstr "Левый аналог > Влево"
+
+msgctxt "#30890"
+msgid "Left Analog > Right"
+msgstr "Левый аналог > Вправо"
+
+msgctxt "#30891"
+msgid "Right Analog > Up"
+msgstr "Правый аналог > Вверх"
+
+msgctxt "#30892"
+msgid "Right Analog > Down"
+msgstr "Правый аналог > Вниз"
+
+msgctxt "#30893"
+msgid "Right Analog > Left"
+msgstr "Правый аналог > Влево"
+
+msgctxt "#30894"
+msgid "Right Analog > Right"
+msgstr "Правый аналог > Вправо"
+
+msgctxt "#30859"
+msgid "Turbo Fire"
+msgstr "Турбо-огонь"
+
+msgctxt "#30860"
+msgid "Turbo Button"
+msgstr "Турбо-кнопка"
+
+msgctxt "#30861"
+msgid "Turbo Pulse"
+msgstr "Импульс турбо"
+
+msgctxt "#30862"
+msgid "Joystick/Mouse"
+msgstr "Джойстик/Мышь"
+
+msgctxt "#30863"
+msgid "Joystick Port Order"
+msgstr "Порядок портов джойстиков"
+
+#~ msgctxt "#30001"
+#~ msgid "System > Model"
+#~ msgstr "Система > Модель"
+
+#~ msgctxt "#30002"
+#~ msgid "System > Show Automatic Model Options"
+#~ msgstr "Система > Показать настройки для \"автоматической\" модели"
+
+#~ msgctxt "#30003"
+#~ msgid "Model > Automatic Floppy"
+#~ msgstr "Модель > \"автоматическая\" для Floppy"
+
+#~ msgctxt "#30004"
+#~ msgid "Model > Automatic HD"
+#~ msgstr "Модель > \"автоматическая\" для HD"
+
+#~ msgctxt "#30005"
+#~ msgid "Model > Automatic CD"
+#~ msgstr "Модель > \"автоматическая\" для CD"
+
+#~ msgctxt "#30006"
+#~ msgid "System > Kickstart ROM"
+#~ msgstr "Система > Kickstart ROM"
+
+#~ msgctxt "#30007"
+#~ msgid "System > Chip RAM"
+#~ msgstr "Система > Чип RAM"
+
+#~ msgctxt "#30008"
+#~ msgid "System > Slow RAM"
+#~ msgstr "Система > Замедление RAM"
+
+#~ msgctxt "#30009"
+#~ msgid "System > Z2 Fast RAM"
+#~ msgstr "Система > Z2 Быстрая RAM"
+
+#~ msgctxt "#30010"
+#~ msgid "System > Z3 Fast RAM"
+#~ msgstr "Система > Z3 быстрая RAM"
+
+#~ msgctxt "#30011"
+#~ msgid "System > CPU Model"
+#~ msgstr "Система > Модель ЦП"
+
+#~ msgctxt "#30012"
+#~ msgid "System > FPU Model"
+#~ msgstr "Система > Модель FPU"
+
+#~ msgctxt "#30013"
+#~ msgid "System > CPU Speed"
+#~ msgstr "Система > Скорость ЦП"
+
+#~ msgctxt "#30014"
+#~ msgid "System > CPU Cycle-exact Speed"
+#~ msgstr "Система > Точная тактовая частота ЦП"
+
+#~ msgctxt "#30015"
+#~ msgid "System > CPU Compatibility"
+#~ msgstr "Система > Совместимость ЦП"
+
+#~ msgctxt "#30016"
+#~ msgid "Media > Automatic Load Fast-Forward"
+#~ msgstr "Медиа > Автоматически загружаться в режиме ускоренной перемотки"
+
+#~ msgctxt "#30017"
+#~ msgid "Media > Floppy Speed"
+#~ msgstr "Медиа > Скорость дискеты"
+
+#~ msgctxt "#30018"
+#~ msgid "Media > Floppy MultiDrive"
+#~ msgstr "Медиа > Режим нескольких приводов для дискет (MultiDrive)"
+
+#~ msgctxt "#30019"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Медиа > Защита записи дискеты"
+
+#~ msgctxt "#30020"
+#~ msgid "Media > Floppy Write Redirect"
+#~ msgstr "Медиа > Перенаправление записи на дискету"
+
+#~ msgctxt "#30021"
+#~ msgid "Media > CD Speed"
+#~ msgstr "Медиа > Скорость CD"
+
+#~ msgctxt "#30022"
+#~ msgid "Media > CD Startup Delayed Insert"
+#~ msgstr "Медиа > Отложенная вставка CD при запуске"
+
+#~ msgctxt "#30023"
+#~ msgid "Media > CD32/CDTV Shared NVRAM"
+#~ msgstr "Медиа > CD32/CDTV используют общий NVRAM"
+
+#~ msgctxt "#30024"
+#~ msgid "Media > WHDLoad Support"
+#~ msgstr "Медиа > Поддержка WHDLoad"
+
+#~ msgctxt "#30025"
+#~ msgid "Media > WHDLoad Theme"
+#~ msgstr "Медиа > Тема WHDLoad"
+
+#~ msgctxt "#30026"
+#~ msgid "Media > WHDLoad Splash Screen"
+#~ msgstr "Медиа > Всплывающий экран WHDLoad"
+
+#~ msgctxt "#30027"
+#~ msgid "Media > WHDLoad NoWriteCache"
+#~ msgstr "Медиа > WHDLoad без кэша записи"
+
+#~ msgctxt "#30028"
+#~ msgid "Media > Global Boot HD"
+#~ msgstr "Медиа > Глобальный загрузочный HD"
+
+#~ msgctxt "#30029"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Медиа > Картридж"
+
+#~ msgctxt "#30031"
+#~ msgid "Video > Allow Hz Change"
+#~ msgstr "Видео > Разрешить изменение частоты"
+
+#~ msgctxt "#30032"
+#~ msgid "Video > Standard"
+#~ msgstr "Видео > Стандарт"
+
+#~ msgctxt "#30033"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr "Видео > Пиксельное соотношение сторон"
+
+#~ msgctxt "#30034"
+#~ msgid "Video > Resolution"
+#~ msgstr "Видео > Разрешение"
+
+#~ msgctxt "#30035"
+#~ msgid "Video > Line Mode"
+#~ msgstr "Видео > Режим строк"
+
+#~ msgctxt "#30036"
+#~ msgid "Video > Crop"
+#~ msgstr "Видео > Обрезка"
+
+#~ msgctxt "#30038"
+#~ msgid "Video > Crop Mode"
+#~ msgstr "Видео > Режим обрезки"
+
+#~ msgctxt "#30040"
+#~ msgid "Video > Vertical Position"
+#~ msgstr "Видео > Вертикальная позиция"
+
+#~ msgctxt "#30041"
+#~ msgid "Video > Horizontal Position"
+#~ msgstr "Видео > Горизонтальная позиция"
+
+#~ msgctxt "#30042"
+#~ msgid "Video > Immediate/Waiting Blits"
+#~ msgstr "Видео > Принудительные/С задержкой бит-блиты"
+
+#~ msgctxt "#30043"
+#~ msgid "Video > Collision Level"
+#~ msgstr "Видео > Уровень коллизии"
+
+#~ msgctxt "#30044"
+#~ msgid "Video > Remove Interlace Artifacts"
+#~ msgstr "Видео > Удалять артефакты чересстрочности"
+
+#~ msgctxt "#30045"
+#~ msgid "Video > Frameskip"
+#~ msgstr "Видео > Пропуск кадров"
+
+#~ msgctxt "#30046"
+#~ msgid "Video > Color Gamma"
+#~ msgstr "Видео > Гамма цвета"
+
+#~ msgctxt "#30047"
+#~ msgid "Video > Color Depth"
+#~ msgstr "Видео > Глубина цвета"
+
+#~ msgctxt "#30048"
+#~ msgid "OSD > Virtual KBD Theme"
+#~ msgstr "OSD > Тема виртуальной KBD"
+
+#~ msgctxt "#30049"
+#~ msgid "OSD > Virtual KBD Transparency"
+#~ msgstr "OSD > Прозрачность виртуальной KBD"
+
+#~ msgctxt "#30050"
+#~ msgid "OSD > Virtual KBD Dimming"
+#~ msgstr "OSD > Виртуальное затемнение KBD"
+
+#~ msgctxt "#30051"
+#~ msgid "OSD > Statusbar Mode"
+#~ msgstr "OSD > Режим строки состояния"
+
+#~ msgctxt "#30052"
+#~ msgid "OSD > Statusbar Startup"
+#~ msgstr "OSD > Строка состояния при запуске"
+
+#~ msgctxt "#30053"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > Сообщения строки состояния"
+
+#~ msgctxt "#30054"
+#~ msgid "OSD > Light Pen/Gun Pointer Color"
+#~ msgstr "OSD > Световое перо/цвет указателя прицела"
+
+#~ msgctxt "#30056"
+#~ msgid "Audio > Stereo Separation"
+#~ msgstr "Аудио > Стереоразделение"
+
+#~ msgctxt "#30057"
+#~ msgid "Audio > Interpolation"
+#~ msgstr "Аудио > Интерполяция"
+
+#~ msgctxt "#30058"
+#~ msgid "Audio > Filter"
+#~ msgstr "Аудио > Фильтр"
+
+#~ msgctxt "#30059"
+#~ msgid "Audio > Filter Type"
+#~ msgstr "Аудио > Тип фильтра"
+
+#~ msgctxt "#30060"
+#~ msgid "Audio > Floppy Sound Emulation"
+#~ msgstr "Аудио > Эмуляция звука дискеты"
+
+#~ msgctxt "#30061"
+#~ msgid "Audio > Floppy Sound Mute Ejected"
+#~ msgstr "Аудио > Отключать звук извлечённой дискеты"
+
+#~ msgctxt "#30062"
+#~ msgid "Audio > Floppy Sound Type"
+#~ msgstr "Аудио > Тип звука дискеты"
+
+#~ msgctxt "#30063"
+#~ msgid "Audio > CD Audio Volume"
+#~ msgstr "Аудио > Громкость аудио CD"
+
+#~ msgctxt "#30064"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "Ввод > Аналоговый стик как мышь"
+
+#~ msgctxt "#30065"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "Ввод > Мёртвая зона аналогового стика как мыши"
+
+#~ msgctxt "#30067"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "Ввод > Скорость мыши от крестовины"
+
+#~ msgctxt "#30068"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "Ввод > Скорость мыши"
+
+#~ msgctxt "#30069"
+#~ msgid "Input > Physical Mouse"
+#~ msgstr "Ввод > Физическая мышь"
+
+#~ msgctxt "#30070"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Ввод > Сквозной пропуск клавиатуры"
+
+#~ msgctxt "#30071"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "Ввод > Сопоставления клавиатуры Keyrah"
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Горячая клавиша > Переключить виртуальную клавиатуру"
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Горячая клавиша > Переключить строку состояния"
+
+#~ msgctxt "#30075"
+#~ msgid "Hotkey > Switch Joystick/Mouse"
+#~ msgstr "Горячая клавиша > Переключить джойстик/мышь"
+
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Горячая клавиша > Переключить турбо-огонь"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Горячая клавиша > Переключить сохранение диска"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Горячая клавиша > Сброс"
+
+#~ msgctxt "#30079"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Горячая клавиша > Переключить соотношение сторон"
+
+#~ msgctxt "#30080"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Горячая клавиша > Переключить обрезку"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Вверх"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Вниз"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Влево"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Вправо"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Select"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Левый аналог > Вверх"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Левый аналог > Вниз"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Левый аналог > Влево"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Левый аналог > Вправо"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Правый аналог > Вверх"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Правый аналог > Вниз"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Правый аналог > Влево"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Правый аналог > Вправо"
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Турбо-огонь"
+
+#~ msgctxt "#30107"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Турбо-кнопка"
+
+#~ msgctxt "#30108"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Импульс турбо"
+
+#~ msgctxt "#30109"
+#~ msgid "RetroPad > Joystick/Mouse"
+#~ msgstr "RetroPad > Джойстик/Мышь"
+
+#~ msgctxt "#30110"
+#~ msgid "RetroPad > Joystick Port Order"
+#~ msgstr "RetroPad > Порядок портов джойстиков"
+
+#~ msgctxt "#30111"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "RetroPad > Параметры лицевых кнопок"
+
+#~ msgctxt "#30112"
+#~ msgid "CD32 Pad > Face Button Options"
+#~ msgstr "Пульт CD32 > Параметры лицевых кнопок"
+
+#~ msgctxt "#30113"
+#~ msgid "Video > Automatic Crop Delay"
+#~ msgstr "Видео > Задержка автоматической обрезки"
+
+#~ msgctxt "#30114"
+#~ msgid "Input > Left Analog Stick Mouse Speed"
+#~ msgstr "Ввод > Скорость мыши от левого аналогового стика"
+
+#~ msgctxt "#30115"
+#~ msgid "Input > Right Analog Stick Mouse Speed"
+#~ msgstr "Ввод > Скорость мыши от правого аналогового стика"
+
+#~ msgctxt "#30116"
+#~ msgid "Media > WHDLoad ButtonWait"
+#~ msgstr "Медиа > WHDLoad ButtonWait"
+
+#~ msgctxt "#30240"
+#~ msgid ""
+#~ "Hotkey toggling disables this option until core restart.\n"
+#~ "- 'PAL': 26/25 = 1.04\n"
+#~ "- 'NTSC': 43/50 = 0.86"
+#~ msgstr ""
+#~ "Переключение горячей клавишей отключает этот параметр до перезапуска ядра.\n"
+#~ "- «PAL»: 26/25 = 1,04\n"
+#~ "- «NTSC»: 43/50 = 0,86"
+
+#~ msgctxt "#30312"
+#~ msgid "HDFs"
+#~ msgstr "HDFs"
+
+#~ msgctxt "#30786"
+#~ msgid ""
+#~ "Enable launching pre-installed WHDLoad installs. Creates a helper boot image for loading content and an empty image for saving. Legacy 'HDFs' mode is not recommended!\n"
+#~ "Core reset required.\n"
+#~ "- 'Files' creates data in directories\n"
+#~ "- 'HDFs' creates data in images\n"
+#~ "- 'OFF' boots hard drive images directly"
+#~ msgstr ""
+#~ "Включить запуск предварительно установленных сборок WHDLoad. Создаёт вспомогательный загрузочный образ для загрузки содержимого и пустой образ для сохранения. Устаревший режим 'HDFs' не рекомендуется!\n"
+#~ "Требуется сброс ядра.\n"
+#~ "- 'Files' создаёт данные в каталогах\n"
+#~ "- 'HDFs' создаёт данные в образах\n"
+#~ "- 'OFF' загружает образы жёстких дисков напрямую"
 
 #~ msgctxt "#30138"
 #~ msgid ""

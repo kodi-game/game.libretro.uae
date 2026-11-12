@@ -25,452 +25,16 @@ msgctxt "Addon Description"
 msgid "UAE stands for the Ubiquitous Amiga Emulator.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
 msgstr "UAE steht für den Ubiquitous Amiga Emulator[CR][CR]Die meisten Spiele benötigen eine Version des Amiga Kickstart-ROM. Einige alte Spiele funktionieren jedoch auch mit der eingebauten ROM-Emulation."
 
-msgctxt "#30001"
-msgid "System > Model"
-msgstr "System > Modell"
-
-msgctxt "#30002"
-msgid "System > Show Automatic Model Options"
-msgstr "System > Automatische Modelloptionen anzeigen"
-
-msgctxt "#30003"
-msgid "Model > Automatic Floppy"
-msgstr "Modell > Automatische Diskette"
-
-msgctxt "#30004"
-msgid "Model > Automatic HD"
-msgstr "Modell > Automatische HD"
-
-msgctxt "#30005"
-msgid "Model > Automatic CD"
-msgstr "Modell > Automatische CD"
-
-msgctxt "#30006"
-msgid "System > Kickstart ROM"
-msgstr "System > Kickstart-ROM"
-
-msgctxt "#30007"
-msgid "System > Chip RAM"
-msgstr "System > Chip-RAM"
-
-msgctxt "#30008"
-msgid "System > Slow RAM"
-msgstr "System > Slow RAM"
-
-msgctxt "#30009"
-msgid "System > Z2 Fast RAM"
-msgstr "System > Z2 Fast RAM"
-
-msgctxt "#30010"
-msgid "System > Z3 Fast RAM"
-msgstr "System > Z2 Fast RAM"
-
-msgctxt "#30011"
-msgid "System > CPU Model"
-msgstr "System > CPU-Modell"
-
-msgctxt "#30012"
-msgid "System > FPU Model"
-msgstr "System > FPU-Modell"
-
-msgctxt "#30013"
-msgid "System > CPU Speed"
-msgstr "System > CPU-Geschwindigkeit"
-
-msgctxt "#30014"
-msgid "System > CPU Cycle-exact Speed"
-msgstr "System > CPU-zyklusgenaue Geschwindigkeit"
-
-msgctxt "#30015"
-msgid "System > CPU Compatibility"
-msgstr "System > CPU-Kompatibilität"
-
-msgctxt "#30016"
-msgid "Media > Automatic Load Fast-Forward"
-msgstr "Medien > Automatisch Vorspulen laden"
-
-msgctxt "#30017"
-msgid "Media > Floppy Speed"
-msgstr "Medien > Diskettengeschwindigkeit"
-
-msgctxt "#30018"
-msgid "Media > Floppy MultiDrive"
-msgstr "Medien > Disketten-MultiDrive"
-
-msgctxt "#30019"
-msgid "Media > Floppy Write Protection"
-msgstr "Medien > Diskettenschreibschutz"
-
-msgctxt "#30020"
-msgid "Media > Floppy Write Redirect"
-msgstr "Medien > Diskettenschreiben umleiten"
-
-msgctxt "#30021"
-msgid "Media > CD Speed"
-msgstr "Medien > CD-Geschwindigkeit"
-
-msgctxt "#30022"
-msgid "Media > CD Startup Delayed Insert"
-msgstr "Medien > CD startverzögert einlegen"
-
-msgctxt "#30023"
-msgid "Media > CD32/CDTV Shared NVRAM"
-msgstr "Medien > CD32/CDTV Geteiltes NVRAM"
-
-msgctxt "#30024"
-msgid "Media > WHDLoad Support"
-msgstr "Medien > WHDLoad-Unterstützung"
-
-msgctxt "#30025"
-msgid "Media > WHDLoad Theme"
-msgstr "Medien > WHDLoad-Thema"
-
-msgctxt "#30026"
-msgid "Media > WHDLoad Splash Screen"
-msgstr "Medien > WHDLoad-Startbildschirm"
-
-msgctxt "#30027"
-msgid "Media > WHDLoad NoWriteCache"
-msgstr ""
-
-msgctxt "#30028"
-msgid "Media > Global Boot HD"
-msgstr ""
-
-msgctxt "#30029"
-msgid "Media > Cartridge"
-msgstr ""
-
 msgctxt "#30030"
 msgid "Show Video Options"
-msgstr ""
-
-msgctxt "#30031"
-msgid "Video > Allow Hz Change"
-msgstr ""
-
-msgctxt "#30032"
-msgid "Video > Standard"
-msgstr ""
-
-msgctxt "#30033"
-msgid "Video > Pixel Aspect Ratio"
-msgstr ""
-
-msgctxt "#30034"
-msgid "Video > Resolution"
-msgstr ""
-
-msgctxt "#30035"
-msgid "Video > Line Mode"
-msgstr ""
-
-msgctxt "#30036"
-msgid "Video > Crop"
-msgstr ""
-
-msgctxt "#30038"
-msgid "Video > Crop Mode"
-msgstr ""
-
-msgctxt "#30040"
-msgid "Video > Vertical Position"
-msgstr ""
-
-msgctxt "#30041"
-msgid "Video > Horizontal Position"
-msgstr ""
-
-msgctxt "#30042"
-msgid "Video > Immediate/Waiting Blits"
-msgstr "Video > Sofort-/Warteblits"
-
-msgctxt "#30043"
-msgid "Video > Collision Level"
-msgstr "Video > Kollisionsgrad"
-
-msgctxt "#30044"
-msgid "Video > Remove Interlace Artifacts"
-msgstr ""
-
-msgctxt "#30045"
-msgid "Video > Frameskip"
-msgstr ""
-
-msgctxt "#30046"
-msgid "Video > Color Gamma"
-msgstr ""
-
-msgctxt "#30047"
-msgid "Video > Color Depth"
-msgstr ""
-
-msgctxt "#30048"
-msgid "OSD > Virtual KBD Theme"
-msgstr ""
-
-msgctxt "#30049"
-msgid "OSD > Virtual KBD Transparency"
-msgstr ""
-
-msgctxt "#30050"
-msgid "OSD > Virtual KBD Dimming"
-msgstr ""
-
-msgctxt "#30051"
-msgid "OSD > Statusbar Mode"
-msgstr ""
-
-msgctxt "#30052"
-msgid "OSD > Statusbar Startup"
-msgstr ""
-
-msgctxt "#30053"
-msgid "OSD > Statusbar Messages"
-msgstr ""
-
-msgctxt "#30054"
-msgid "OSD > Light Pen/Gun Pointer Color"
 msgstr ""
 
 msgctxt "#30055"
 msgid "Show Audio Options"
 msgstr ""
 
-msgctxt "#30056"
-msgid "Audio > Stereo Separation"
-msgstr ""
-
-msgctxt "#30057"
-msgid "Audio > Interpolation"
-msgstr ""
-
-msgctxt "#30058"
-msgid "Audio > Filter"
-msgstr ""
-
-msgctxt "#30059"
-msgid "Audio > Filter Type"
-msgstr ""
-
-msgctxt "#30060"
-msgid "Audio > Floppy Sound Emulation"
-msgstr ""
-
-msgctxt "#30061"
-msgid "Audio > Floppy Sound Mute Ejected"
-msgstr ""
-
-msgctxt "#30062"
-msgid "Audio > Floppy Sound Type"
-msgstr ""
-
-msgctxt "#30063"
-msgid "Audio > CD Audio Volume"
-msgstr ""
-
-msgctxt "#30064"
-msgid "Input > Analog Stick Mouse"
-msgstr ""
-
-msgctxt "#30065"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr ""
-
-msgctxt "#30067"
-msgid "Input > D-Pad Mouse Speed"
-msgstr ""
-
-msgctxt "#30068"
-msgid "Input > Mouse Speed"
-msgstr ""
-
-msgctxt "#30069"
-msgid "Input > Physical Mouse"
-msgstr ""
-
-msgctxt "#30070"
-msgid "Input > Keyboard Pass-through"
-msgstr ""
-
-msgctxt "#30071"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr ""
-
 msgctxt "#30072"
 msgid "Show Mapping Options"
-msgstr ""
-
-msgctxt "#30073"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr ""
-
-msgctxt "#30074"
-msgid "Hotkey > Toggle Statusbar"
-msgstr ""
-
-msgctxt "#30075"
-msgid "Hotkey > Switch Joystick/Mouse"
-msgstr ""
-
-msgctxt "#30076"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr ""
-
-msgctxt "#30077"
-msgid "Hotkey > Toggle Save Disk"
-msgstr ""
-
-msgctxt "#30078"
-msgid "Hotkey > Reset"
-msgstr ""
-
-msgctxt "#30079"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr ""
-
-msgctxt "#30080"
-msgid "Hotkey > Toggle Crop"
-msgstr ""
-
-msgctxt "#30082"
-msgid "RetroPad > Up"
-msgstr ""
-
-msgctxt "#30083"
-msgid "RetroPad > Down"
-msgstr ""
-
-msgctxt "#30084"
-msgid "RetroPad > Left"
-msgstr ""
-
-msgctxt "#30085"
-msgid "RetroPad > Right"
-msgstr ""
-
-msgctxt "#30086"
-msgid "RetroPad > B"
-msgstr ""
-
-msgctxt "#30087"
-msgid "RetroPad > A"
-msgstr ""
-
-msgctxt "#30088"
-msgid "RetroPad > Y"
-msgstr ""
-
-msgctxt "#30089"
-msgid "RetroPad > X"
-msgstr ""
-
-msgctxt "#30090"
-msgid "RetroPad > Select"
-msgstr ""
-
-msgctxt "#30091"
-msgid "RetroPad > Start"
-msgstr ""
-
-msgctxt "#30092"
-msgid "RetroPad > L"
-msgstr ""
-
-msgctxt "#30093"
-msgid "RetroPad > R"
-msgstr ""
-
-msgctxt "#30094"
-msgid "RetroPad > L2"
-msgstr ""
-
-msgctxt "#30095"
-msgid "RetroPad > R2"
-msgstr ""
-
-msgctxt "#30096"
-msgid "RetroPad > L3"
-msgstr ""
-
-msgctxt "#30097"
-msgid "RetroPad > R3"
-msgstr ""
-
-msgctxt "#30098"
-msgid "RetroPad > Left Analog > Up"
-msgstr ""
-
-msgctxt "#30099"
-msgid "RetroPad > Left Analog > Down"
-msgstr ""
-
-msgctxt "#30100"
-msgid "RetroPad > Left Analog > Left"
-msgstr ""
-
-msgctxt "#30101"
-msgid "RetroPad > Left Analog > Right"
-msgstr ""
-
-msgctxt "#30102"
-msgid "RetroPad > Right Analog > Up"
-msgstr ""
-
-msgctxt "#30103"
-msgid "RetroPad > Right Analog > Down"
-msgstr ""
-
-msgctxt "#30104"
-msgid "RetroPad > Right Analog > Left"
-msgstr ""
-
-msgctxt "#30105"
-msgid "RetroPad > Right Analog > Right"
-msgstr ""
-
-msgctxt "#30106"
-msgid "RetroPad > Turbo Fire"
-msgstr ""
-
-msgctxt "#30107"
-msgid "RetroPad > Turbo Button"
-msgstr ""
-
-msgctxt "#30108"
-msgid "RetroPad > Turbo Pulse"
-msgstr ""
-
-msgctxt "#30109"
-msgid "RetroPad > Joystick/Mouse"
-msgstr ""
-
-msgctxt "#30110"
-msgid "RetroPad > Joystick Port Order"
-msgstr ""
-
-msgctxt "#30111"
-msgid "RetroPad > Face Button Options"
-msgstr ""
-
-msgctxt "#30112"
-msgid "CD32 Pad > Face Button Options"
-msgstr ""
-
-msgctxt "#30113"
-msgid "Video > Automatic Crop Delay"
-msgstr ""
-
-msgctxt "#30114"
-msgid "Input > Left Analog Stick Mouse Speed"
-msgstr ""
-
-msgctxt "#30115"
-msgid "Input > Right Analog Stick Mouse Speed"
-msgstr ""
-
-msgctxt "#30116"
-msgid "Media > WHDLoad ButtonWait"
 msgstr ""
 
 msgctxt "#30117"
@@ -965,13 +529,6 @@ msgctxt "#30239"
 msgid "Automatic NTSC"
 msgstr ""
 
-msgctxt "#30240"
-msgid ""
-"Hotkey toggling disables this option until core restart.\n"
-"- 'PAL': 26/25 = 1.04\n"
-"- 'NTSC': 43/50 = 0.86"
-msgstr ""
-
 msgctxt "#30241"
 msgid ""
 "Output width:\n"
@@ -1256,10 +813,6 @@ msgstr ""
 
 msgctxt "#30311"
 msgid "Files"
-msgstr ""
-
-msgctxt "#30312"
-msgid "HDFs"
 msgstr ""
 
 msgctxt "#30314"
@@ -2415,15 +1968,15 @@ msgstr ""
 
 msgctxt "#30603"
 msgid "Toggle Virtual Keyboard"
-msgstr ""
+msgstr "Turbofeuer umschalten"
 
 msgctxt "#30604"
 msgid "Toggle Statusbar"
-msgstr ""
+msgstr "Diskette-speichern umschalten"
 
 msgctxt "#30605"
 msgid "Switch Joystick/Mouse"
-msgstr ""
+msgstr "Reset"
 
 msgctxt "#30606"
 msgid "Mouse Slower"
@@ -3160,15 +2713,6 @@ msgid ""
 "Core reset required."
 msgstr ""
 
-msgctxt "#30786"
-msgid ""
-"Enable launching pre-installed WHDLoad installs. Creates a helper boot image for loading content and an empty image for saving. Legacy 'HDFs' mode is not recommended!\n"
-"Core reset required.\n"
-"- 'Files' creates data in directories\n"
-"- 'HDFs' creates data in images\n"
-"- 'OFF' boots hard drive images directly"
-msgstr ""
-
 msgctxt "#30787"
 msgid ""
 "AmigaOS 'system-configuration' color prefs in WHDLoad helper image. Available only with 'Files' mode.\n"
@@ -3205,6 +2749,814 @@ msgid ""
 "Attach a hard disk for Workbench, not for WHDLoad! Enabling forces HD interface model. CD launch enables AmigaCD mode. HDF size change will not alter existing HDFs.\n"
 "Core restart required."
 msgstr ""
+
+msgctxt "#30792"
+msgid "Model"
+msgstr "Modell"
+
+msgctxt "#30795"
+msgid "Show Automatic Model Options"
+msgstr "Automatische Modelloptionen anzeigen"
+
+msgctxt "#30796"
+msgid "Automatic Floppy"
+msgstr "Automatische Diskette"
+
+msgctxt "#30797"
+msgid "Automatic HD"
+msgstr "Automatische HD"
+
+msgctxt "#30798"
+msgid "Automatic CD"
+msgstr "Automatische CD"
+
+msgctxt "#30799"
+msgid "Kickstart ROM"
+msgstr "Kickstart-ROM"
+
+msgctxt "#30800"
+msgid "Chip RAM"
+msgstr "Chip-RAM"
+
+msgctxt "#30801"
+msgid "Slow RAM"
+msgstr "Slow RAM"
+
+msgctxt "#30802"
+msgid "Z2 Fast RAM"
+msgstr "Z2 Fast RAM"
+
+msgctxt "#30803"
+msgid "Z3 Fast RAM"
+msgstr "Z2 Fast RAM"
+
+msgctxt "#30804"
+msgid "CPU Model"
+msgstr "CPU-Modell"
+
+msgctxt "#30805"
+msgid "FPU Model"
+msgstr "FPU-Modell"
+
+msgctxt "#30806"
+msgid "CPU Speed"
+msgstr "CPU-Geschwindigkeit"
+
+msgctxt "#30807"
+msgid "CPU Cycle-exact Speed"
+msgstr "CPU-zyklusgenaue Geschwindigkeit"
+
+msgctxt "#30808"
+msgid "CPU Compatibility"
+msgstr "CPU-Kompatibilität"
+
+msgctxt "#30834"
+msgid "Automatic Load Fast-Forward"
+msgstr "Automatisch Vorspulen laden"
+
+msgctxt "#30835"
+msgid "Floppy Speed"
+msgstr "Diskettengeschwindigkeit"
+
+msgctxt "#30836"
+msgid "Floppy MultiDrive"
+msgstr "Disketten-MultiDrive"
+
+msgctxt "#30837"
+msgid "Floppy Write Protection"
+msgstr "Diskettenschreibschutz"
+
+msgctxt "#30838"
+msgid "Floppy Write Redirect"
+msgstr "Diskettenschreiben umleiten"
+
+msgctxt "#30839"
+msgid "CD Speed"
+msgstr "CD-Geschwindigkeit"
+
+msgctxt "#30840"
+msgid "CD Startup Delayed Insert"
+msgstr "CD startverzögert einlegen"
+
+msgctxt "#30841"
+msgid "CD32/CDTV Shared NVRAM"
+msgstr "CD32/CDTV Geteiltes NVRAM"
+
+msgctxt "#30842"
+msgid "WHDLoad Support"
+msgstr "WHDLoad-Unterstützung"
+
+msgctxt "#30844"
+msgid "WHDLoad Theme"
+msgstr "WHDLoad-Thema"
+
+msgctxt "#30845"
+msgid "WHDLoad Splash Screen"
+msgstr "WHDLoad-Startbildschirm"
+
+msgctxt "#30847"
+msgid "WHDLoad NoWriteCache"
+msgstr "Globale Boot-HD"
+
+msgctxt "#30848"
+msgid "Global Boot HD"
+msgstr "Cartridge"
+
+msgctxt "#30819"
+msgid "Allow Hz Change"
+msgstr "Standard"
+
+msgctxt "#30820"
+msgid "Standard"
+msgstr "Auflösung"
+
+msgctxt "#30821"
+msgid "Pixel Aspect Ratio"
+msgstr "Zeilenmodus"
+
+msgctxt "#30823"
+msgid "Resolution"
+msgstr "Pixelseitenverhältnis"
+
+msgctxt "#30824"
+msgid "Line Mode"
+msgstr "Zuschneiden"
+
+msgctxt "#30825"
+msgid "Crop"
+msgstr "Zoommodus"
+
+msgctxt "#30827"
+msgid "Crop Mode"
+msgstr "Zoommodus-Beschneidung"
+
+msgctxt "#30828"
+msgid "Vertical Position"
+msgstr "Horizontale Position"
+
+msgctxt "#30829"
+msgid "Horizontal Position"
+msgstr "Interlacing-Artifakte entfernen"
+
+msgctxt "#30830"
+msgid "Remove Interlace Artifacts"
+msgstr "Frames auslassen"
+
+msgctxt "#30831"
+msgid "Frameskip"
+msgstr "Farbgamma"
+
+msgctxt "#30832"
+msgid "Color Gamma"
+msgstr "Farbtiefe"
+
+msgctxt "#30833"
+msgid "Color Depth"
+msgstr "Thema virtuelles KBD"
+
+msgctxt "#30895"
+msgid "Virtual KBD Theme"
+msgstr "Tranparenz für virtuelle Tastatur"
+
+msgctxt "#30896"
+msgid "Virtual KBD Transparency"
+msgstr "Dimmen der virtuellen Tastatur"
+
+msgctxt "#30897"
+msgid "Virtual KBD Dimming"
+msgstr "Modus der Statusleiste"
+
+msgctxt "#30898"
+msgid "Statusbar Mode"
+msgstr "Statusleistenmeldungen"
+
+msgctxt "#30900"
+msgid "Statusbar Messages"
+msgstr "Stereotrennung"
+
+msgctxt "#30901"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Interpolation"
+
+msgctxt "#30811"
+msgid "Stereo Separation"
+msgstr "Filtertyp"
+
+msgctxt "#30812"
+msgid "Interpolation"
+msgstr "Emulation für Floppy-Sound"
+
+msgctxt "#30813"
+msgid "Filter"
+msgstr "Sound für Floppyauswurf stummschalten"
+
+msgctxt "#30814"
+msgid "Filter Type"
+msgstr "Floppy-Soundtyp"
+
+msgctxt "#30815"
+msgid "Floppy Sound Emulation"
+msgstr "CD-Audiolaustärke"
+
+msgctxt "#30816"
+msgid "Floppy Sound Mute Ejected"
+msgstr "Analogstick-Maus"
+
+msgctxt "#30817"
+msgid "Floppy Sound Type"
+msgstr "Analogstick-Maus-Deadzone"
+
+msgctxt "#30818"
+msgid "CD Audio Volume"
+msgstr "Analogstick-Mausgeschwindigkeit"
+
+msgctxt "#30850"
+msgid "Analog Stick Mouse"
+msgstr "D-Pad-Mausgeschwindigkeit"
+
+msgctxt "#30851"
+msgid "Analog Stick Mouse Deadzone"
+msgstr "Mausgeschwindigkeit"
+
+msgctxt "#30854"
+msgid "D-Pad Mouse Speed"
+msgstr "Tastatur-Pass-Through"
+
+msgctxt "#30855"
+msgid "Mouse Speed"
+msgstr "Zuordnungen für Keyrah Tastenfeld"
+
+msgctxt "#30857"
+msgid "Keyboard Pass-through"
+msgstr "Virtuelle Tastatur umschalten"
+
+msgctxt "#30858"
+msgid "Keyrah Keypad Mappings"
+msgstr "Statusleiste umschalten"
+
+msgctxt "#30866"
+msgid "Toggle Turbo Fire"
+msgstr "Seitenverhältnis umschalten"
+
+msgctxt "#30867"
+msgid "Toggle Save Disk"
+msgstr "Zuschneiden umschalten"
+
+msgctxt "#30868"
+msgid "Toggle Aspect Ratio"
+msgstr "Hoch"
+
+msgctxt "#30869"
+msgid "Toggle Crop"
+msgstr "Runter"
+
+msgctxt "#30870"
+msgid "Reset"
+msgstr "Zoommodus umschalten"
+
+msgctxt "#30871"
+msgid "Up"
+msgstr "Rechts"
+
+msgctxt "#30872"
+msgid "Down"
+msgstr "A"
+
+msgctxt "#30873"
+msgid "Left"
+msgstr "B"
+
+msgctxt "#30874"
+msgid "Right"
+msgstr "X"
+
+msgctxt "#30875"
+msgid "B"
+msgstr "Y"
+
+msgctxt "#30876"
+msgid "A"
+msgstr "Select"
+
+msgctxt "#30877"
+msgid "Y"
+msgstr "Start"
+
+msgctxt "#30878"
+msgid "X"
+msgstr "L"
+
+msgctxt "#30879"
+msgid "Select"
+msgstr "R"
+
+msgctxt "#30880"
+msgid "Start"
+msgstr "L2"
+
+msgctxt "#30881"
+msgid "L"
+msgstr "R2"
+
+msgctxt "#30882"
+msgid "R"
+msgstr "L3"
+
+msgctxt "#30883"
+msgid "L2"
+msgstr "R3"
+
+msgctxt "#30887"
+msgid "Left Analog > Up"
+msgstr "Links Analog > Rechts"
+
+msgctxt "#30888"
+msgid "Left Analog > Down"
+msgstr "Rechts Analog > Hoch"
+
+msgctxt "#30889"
+msgid "Left Analog > Left"
+msgstr "Rechts Analog > Runter"
+
+msgctxt "#30890"
+msgid "Left Analog > Right"
+msgstr "Rechts Analog > Links"
+
+msgctxt "#30891"
+msgid "Right Analog > Up"
+msgstr "Rechts Analog > Rechts"
+
+msgctxt "#30859"
+msgid "Turbo Fire"
+msgstr "Joystick/Maus"
+
+msgctxt "#30860"
+msgid "Turbo Button"
+msgstr "Joystick-Portreihenfolge"
+
+msgctxt "#30861"
+msgid "Turbo Pulse"
+msgstr "Optionen für Fronttasten"
+
+msgctxt "#30862"
+msgid "Joystick/Mouse"
+msgstr "Optionen für Fronttasten"
+
+#~ msgctxt "#30001"
+#~ msgid "System > Model"
+#~ msgstr "System > Modell"
+
+#~ msgctxt "#30002"
+#~ msgid "System > Show Automatic Model Options"
+#~ msgstr "System > Automatische Modelloptionen anzeigen"
+
+#~ msgctxt "#30003"
+#~ msgid "Model > Automatic Floppy"
+#~ msgstr "Modell > Automatische Diskette"
+
+#~ msgctxt "#30004"
+#~ msgid "Model > Automatic HD"
+#~ msgstr "Modell > Automatische HD"
+
+#~ msgctxt "#30005"
+#~ msgid "Model > Automatic CD"
+#~ msgstr "Modell > Automatische CD"
+
+#~ msgctxt "#30006"
+#~ msgid "System > Kickstart ROM"
+#~ msgstr "System > Kickstart-ROM"
+
+#~ msgctxt "#30007"
+#~ msgid "System > Chip RAM"
+#~ msgstr "System > Chip-RAM"
+
+#~ msgctxt "#30008"
+#~ msgid "System > Slow RAM"
+#~ msgstr "System > Slow RAM"
+
+#~ msgctxt "#30009"
+#~ msgid "System > Z2 Fast RAM"
+#~ msgstr "System > Z2 Fast RAM"
+
+#~ msgctxt "#30010"
+#~ msgid "System > Z3 Fast RAM"
+#~ msgstr "System > Z2 Fast RAM"
+
+#~ msgctxt "#30011"
+#~ msgid "System > CPU Model"
+#~ msgstr "System > CPU-Modell"
+
+#~ msgctxt "#30012"
+#~ msgid "System > FPU Model"
+#~ msgstr "System > FPU-Modell"
+
+#~ msgctxt "#30013"
+#~ msgid "System > CPU Speed"
+#~ msgstr "System > CPU-Geschwindigkeit"
+
+#~ msgctxt "#30014"
+#~ msgid "System > CPU Cycle-exact Speed"
+#~ msgstr "System > CPU-zyklusgenaue Geschwindigkeit"
+
+#~ msgctxt "#30015"
+#~ msgid "System > CPU Compatibility"
+#~ msgstr "System > CPU-Kompatibilität"
+
+#~ msgctxt "#30016"
+#~ msgid "Media > Automatic Load Fast-Forward"
+#~ msgstr "Medien > Automatisch Vorspulen laden"
+
+#~ msgctxt "#30017"
+#~ msgid "Media > Floppy Speed"
+#~ msgstr "Medien > Diskettengeschwindigkeit"
+
+#~ msgctxt "#30018"
+#~ msgid "Media > Floppy MultiDrive"
+#~ msgstr "Medien > Disketten-MultiDrive"
+
+#~ msgctxt "#30019"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Medien > Diskettenschreibschutz"
+
+#~ msgctxt "#30020"
+#~ msgid "Media > Floppy Write Redirect"
+#~ msgstr "Medien > Diskettenschreiben umleiten"
+
+#~ msgctxt "#30021"
+#~ msgid "Media > CD Speed"
+#~ msgstr "Medien > CD-Geschwindigkeit"
+
+#~ msgctxt "#30022"
+#~ msgid "Media > CD Startup Delayed Insert"
+#~ msgstr "Medien > CD startverzögert einlegen"
+
+#~ msgctxt "#30023"
+#~ msgid "Media > CD32/CDTV Shared NVRAM"
+#~ msgstr "Medien > CD32/CDTV Geteiltes NVRAM"
+
+#~ msgctxt "#30024"
+#~ msgid "Media > WHDLoad Support"
+#~ msgstr "Medien > WHDLoad-Unterstützung"
+
+#~ msgctxt "#30025"
+#~ msgid "Media > WHDLoad Theme"
+#~ msgstr "Medien > WHDLoad-Thema"
+
+#~ msgctxt "#30026"
+#~ msgid "Media > WHDLoad Splash Screen"
+#~ msgstr "Medien > WHDLoad-Startbildschirm"
+
+#~ msgctxt "#30027"
+#~ msgid "Media > WHDLoad NoWriteCache"
+#~ msgstr ""
+
+#~ msgctxt "#30028"
+#~ msgid "Media > Global Boot HD"
+#~ msgstr ""
+
+#~ msgctxt "#30029"
+#~ msgid "Media > Cartridge"
+#~ msgstr ""
+
+#~ msgctxt "#30031"
+#~ msgid "Video > Allow Hz Change"
+#~ msgstr ""
+
+#~ msgctxt "#30032"
+#~ msgid "Video > Standard"
+#~ msgstr ""
+
+#~ msgctxt "#30033"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr ""
+
+#~ msgctxt "#30034"
+#~ msgid "Video > Resolution"
+#~ msgstr ""
+
+#~ msgctxt "#30035"
+#~ msgid "Video > Line Mode"
+#~ msgstr ""
+
+#~ msgctxt "#30036"
+#~ msgid "Video > Crop"
+#~ msgstr ""
+
+#~ msgctxt "#30038"
+#~ msgid "Video > Crop Mode"
+#~ msgstr ""
+
+#~ msgctxt "#30040"
+#~ msgid "Video > Vertical Position"
+#~ msgstr ""
+
+#~ msgctxt "#30041"
+#~ msgid "Video > Horizontal Position"
+#~ msgstr ""
+
+#~ msgctxt "#30042"
+#~ msgid "Video > Immediate/Waiting Blits"
+#~ msgstr "Video > Sofort-/Warteblits"
+
+#~ msgctxt "#30043"
+#~ msgid "Video > Collision Level"
+#~ msgstr "Video > Kollisionsgrad"
+
+#~ msgctxt "#30044"
+#~ msgid "Video > Remove Interlace Artifacts"
+#~ msgstr ""
+
+#~ msgctxt "#30045"
+#~ msgid "Video > Frameskip"
+#~ msgstr ""
+
+#~ msgctxt "#30046"
+#~ msgid "Video > Color Gamma"
+#~ msgstr ""
+
+#~ msgctxt "#30047"
+#~ msgid "Video > Color Depth"
+#~ msgstr ""
+
+#~ msgctxt "#30048"
+#~ msgid "OSD > Virtual KBD Theme"
+#~ msgstr ""
+
+#~ msgctxt "#30049"
+#~ msgid "OSD > Virtual KBD Transparency"
+#~ msgstr ""
+
+#~ msgctxt "#30050"
+#~ msgid "OSD > Virtual KBD Dimming"
+#~ msgstr ""
+
+#~ msgctxt "#30051"
+#~ msgid "OSD > Statusbar Mode"
+#~ msgstr ""
+
+#~ msgctxt "#30052"
+#~ msgid "OSD > Statusbar Startup"
+#~ msgstr ""
+
+#~ msgctxt "#30053"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr ""
+
+#~ msgctxt "#30054"
+#~ msgid "OSD > Light Pen/Gun Pointer Color"
+#~ msgstr ""
+
+#~ msgctxt "#30056"
+#~ msgid "Audio > Stereo Separation"
+#~ msgstr ""
+
+#~ msgctxt "#30057"
+#~ msgid "Audio > Interpolation"
+#~ msgstr ""
+
+#~ msgctxt "#30058"
+#~ msgid "Audio > Filter"
+#~ msgstr ""
+
+#~ msgctxt "#30059"
+#~ msgid "Audio > Filter Type"
+#~ msgstr ""
+
+#~ msgctxt "#30060"
+#~ msgid "Audio > Floppy Sound Emulation"
+#~ msgstr ""
+
+#~ msgctxt "#30061"
+#~ msgid "Audio > Floppy Sound Mute Ejected"
+#~ msgstr ""
+
+#~ msgctxt "#30062"
+#~ msgid "Audio > Floppy Sound Type"
+#~ msgstr ""
+
+#~ msgctxt "#30063"
+#~ msgid "Audio > CD Audio Volume"
+#~ msgstr ""
+
+#~ msgctxt "#30064"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr ""
+
+#~ msgctxt "#30065"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr ""
+
+#~ msgctxt "#30067"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr ""
+
+#~ msgctxt "#30068"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr ""
+
+#~ msgctxt "#30069"
+#~ msgid "Input > Physical Mouse"
+#~ msgstr ""
+
+#~ msgctxt "#30070"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr ""
+
+#~ msgctxt "#30071"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr ""
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr ""
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr ""
+
+#~ msgctxt "#30075"
+#~ msgid "Hotkey > Switch Joystick/Mouse"
+#~ msgstr ""
+
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr ""
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Reset"
+#~ msgstr ""
+
+#~ msgctxt "#30079"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr ""
+
+#~ msgctxt "#30080"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr ""
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > Up"
+#~ msgstr ""
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > Down"
+#~ msgstr ""
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > Left"
+#~ msgstr ""
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > Right"
+#~ msgstr ""
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > B"
+#~ msgstr ""
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > A"
+#~ msgstr ""
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Y"
+#~ msgstr ""
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > X"
+#~ msgstr ""
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > Select"
+#~ msgstr ""
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > Start"
+#~ msgstr ""
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > L"
+#~ msgstr ""
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > R"
+#~ msgstr ""
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > L2"
+#~ msgstr ""
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > R2"
+#~ msgstr ""
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > L3"
+#~ msgstr ""
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > R3"
+#~ msgstr ""
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr ""
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr ""
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr ""
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr ""
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr ""
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr ""
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr ""
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr ""
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr ""
+
+#~ msgctxt "#30107"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr ""
+
+#~ msgctxt "#30108"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr ""
+
+#~ msgctxt "#30109"
+#~ msgid "RetroPad > Joystick/Mouse"
+#~ msgstr ""
+
+#~ msgctxt "#30110"
+#~ msgid "RetroPad > Joystick Port Order"
+#~ msgstr ""
+
+#~ msgctxt "#30111"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr ""
+
+#~ msgctxt "#30112"
+#~ msgid "CD32 Pad > Face Button Options"
+#~ msgstr ""
+
+#~ msgctxt "#30113"
+#~ msgid "Video > Automatic Crop Delay"
+#~ msgstr ""
+
+#~ msgctxt "#30114"
+#~ msgid "Input > Left Analog Stick Mouse Speed"
+#~ msgstr ""
+
+#~ msgctxt "#30115"
+#~ msgid "Input > Right Analog Stick Mouse Speed"
+#~ msgstr ""
+
+#~ msgctxt "#30116"
+#~ msgid "Media > WHDLoad ButtonWait"
+#~ msgstr ""
+
+#~ msgctxt "#30240"
+#~ msgid ""
+#~ "Hotkey toggling disables this option until core restart.\n"
+#~ "- 'PAL': 26/25 = 1.04\n"
+#~ "- 'NTSC': 43/50 = 0.86"
+#~ msgstr ""
+
+#~ msgctxt "#30312"
+#~ msgid "HDFs"
+#~ msgstr ""
+
+#~ msgctxt "#30786"
+#~ msgid ""
+#~ "Enable launching pre-installed WHDLoad installs. Creates a helper boot image for loading content and an empty image for saving. Legacy 'HDFs' mode is not recommended!\n"
+#~ "Core reset required.\n"
+#~ "- 'Files' creates data in directories\n"
+#~ "- 'HDFs' creates data in images\n"
+#~ "- 'OFF' boots hard drive images directly"
+#~ msgstr ""
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
