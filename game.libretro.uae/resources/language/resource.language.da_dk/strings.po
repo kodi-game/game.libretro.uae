@@ -129,8 +129,20 @@ msgid ""
 "Core restart required."
 msgstr ""
 
+msgctxt "#30138"
+msgid ""
+"Kickstart ROMs are searched from 'system'.\n"
+"Core restart required."
+msgstr ""
+
 msgctxt "#30139"
 msgid "AROS"
+msgstr ""
+
+msgctxt "#30140"
+msgid ""
+"'Automatic' defaults to the current preset model.\n"
+"Core restart required."
 msgstr ""
 
 msgctxt "#30141"
@@ -509,6 +521,12 @@ msgctxt "#30234"
 msgid "Configure video options."
 msgstr ""
 
+msgctxt "#30235"
+msgid ""
+"Let Amiga decide the exact refresh rate when interlace mode or PAL/NTSC changes. 'Locked' changes only when video standard changes.\n"
+"Core restart required."
+msgstr ""
+
 msgctxt "#30236"
 msgid "Locked PAL/NTSC"
 msgstr ""
@@ -789,6 +807,12 @@ msgctxt "#30303"
 msgid "Turbo"
 msgstr ""
 
+msgctxt "#30304"
+msgid ""
+"Insert each disk in different drives. Can be forced with '(MD)' file path tag. Maximum is 4 disks due to external drive limit! Not all games support external drives!\n"
+"Core restart required."
+msgstr ""
+
 msgctxt "#30305"
 msgid "Set all drives read only. Changing this while emulation is running ejects and reinserts all disks. IPF images are always read-only!"
 msgstr ""
@@ -811,12 +835,39 @@ msgid ""
 "Core restart required."
 msgstr ""
 
+msgctxt "#30310"
+msgid ""
+"Enable launching pre-installed WHDLoad installs. Creates a helper boot image for loading content and an empty image for saving. Legacy 'HDFs' mode is not recommended!\n"
+"Core restart required.\n"
+"- 'Files' creates data in directories\n"
+"- 'HDFs' creates data in images\n"
+"- 'OFF' boots hard drive images directly"
+msgstr ""
+
 msgctxt "#30311"
 msgid "Files"
 msgstr ""
 
+msgctxt "#30313"
+msgid ""
+"AmigaOS 'system-configuration' color prefs in WHDLoad helper image. Available only with 'Files' mode.\n"
+"Core restart required.\n"
+"- 'Default' = Black/White/DarkGray/LightGray\n"
+"- 'Native' = Gray/Black/White/LightBlue"
+msgstr ""
+
 msgctxt "#30314"
 msgid "Native"
+msgstr ""
+
+msgctxt "#30315"
+msgid ""
+"Space/Enter/Fire works as WHDLoad Start-button. Core restart required.\n"
+"Override with buttons while booting:\n"
+"- 'Config': Hold 2nd fire / Blue\n"
+"- 'Splash': Hold LMB\n"
+"- 'Config + Splash': Hold RMB\n"
+"- ReadMe + MkCustom: Hold Red+Blue"
 msgstr ""
 
 msgctxt "#30316"
@@ -829,6 +880,25 @@ msgstr ""
 
 msgctxt "#30318"
 msgid "Config + Splash (Wait for user input)"
+msgstr ""
+
+msgctxt "#30319"
+msgid ""
+"Wait for a button press on internal loading sections if the slave supports it.\n"
+"Core restart required."
+msgstr ""
+
+msgctxt "#30320"
+msgid ""
+"Write cache requires running the core a few frames after closing content to trigger WHDLoad quit and flush cache to disk.\n"
+"QuitKey = '$2b' = '#' = 'LCtrl + Backslash'.\n"
+"Core restart required."
+msgstr ""
+
+msgctxt "#30321"
+msgid ""
+"Attach a hard disk meant for Workbench, not for WHDLoad! Enabling forces a model with HD interface. Changing HDF size will not replace or edit the existing HDF.\n"
+"Core restart required."
 msgstr ""
 
 msgctxt "#30322"
@@ -2750,6 +2820,18 @@ msgid ""
 "Core restart required."
 msgstr ""
 
+msgctxt "#30792"
+msgid "Model"
+msgstr ""
+
+msgctxt "#30793"
+msgid "A500 (v1.3, 1.0M Chip)"
+msgstr ""
+
+msgctxt "#30794"
+msgid "A600 (v3.1, 2M Chip)"
+msgstr ""
+
 msgctxt "#30795"
 msgid "Show Automatic Model Options"
 msgstr "Vis automatiske indstillinger for model"
@@ -2806,6 +2888,110 @@ msgctxt "#30808"
 msgid "CPU Compatibility"
 msgstr "CPU-kompatibilitet"
 
+msgctxt "#30809"
+msgid "Immediate/Waiting Blits"
+msgstr ""
+
+msgctxt "#30810"
+msgid "Collision Level"
+msgstr ""
+
+msgctxt "#30811"
+msgid "Stereo Separation"
+msgstr "Emulering af floppy-lyd"
+
+msgctxt "#30812"
+msgid "Interpolation"
+msgstr "Lydløs floppy-lyd ved eject"
+
+msgctxt "#30813"
+msgid "Filter"
+msgstr "Type af floppy-lyd"
+
+msgctxt "#30814"
+msgid "Filter Type"
+msgstr "Mus til analog stick"
+
+msgctxt "#30815"
+msgid "Floppy Sound Emulation"
+msgstr "Dødzone for mus til analog stick"
+
+msgctxt "#30816"
+msgid "Floppy Sound Mute Ejected"
+msgstr "Hastighed for mus til analog stick"
+
+msgctxt "#30817"
+msgid "Floppy Sound Type"
+msgstr "Hastighed for D-Pad mus"
+
+msgctxt "#30818"
+msgid "CD Audio Volume"
+msgstr "Hastighed for mus"
+
+msgctxt "#30819"
+msgid "Allow Hz Change"
+msgstr "Linjetilstand"
+
+msgctxt "#30820"
+msgid "Standard"
+msgstr "Billedformat for pixel"
+
+msgctxt "#30821"
+msgid "Pixel Aspect Ratio"
+msgstr "Beskær"
+
+msgctxt "#30822"
+msgid ""
+"'Automatic' follows video standard, 'Automatic NTSC' prefers NTSC ratio when cropped height is under PAL height.\n"
+"Hotkey toggling disables this option until core restart.\n"
+"- 'PAL': 26/25 = 1.04\n"
+"- 'NTSC': 43/50 = 0.86"
+msgstr ""
+
+msgctxt "#30823"
+msgid "Resolution"
+msgstr "Zoomtilstand"
+
+msgctxt "#30824"
+msgid "Line Mode"
+msgstr "Beskæringstilstand"
+
+msgctxt "#30825"
+msgid "Crop"
+msgstr "Beskæring for zoomtilstand"
+
+msgctxt "#30826"
+msgid "Automatic Crop Delay"
+msgstr ""
+
+msgctxt "#30827"
+msgid "Crop Mode"
+msgstr "Vandret position"
+
+msgctxt "#30828"
+msgid "Vertical Position"
+msgstr "Øjeblikkelige/ventende blits"
+
+msgctxt "#30829"
+msgid "Horizontal Position"
+msgstr "Kollisionsniveau"
+
+msgctxt "#30830"
+msgid "Remove Interlace Artifacts"
+msgstr "Farvedybde"
+
+msgctxt "#30831"
+msgid "Frameskip"
+msgstr "Tema for virtuelt tastatur"
+
+msgctxt "#30832"
+msgid "Color Gamma"
+msgstr "Gennemsigtighed af virtuelt tastatur"
+
+msgctxt "#30833"
+msgid "Color Depth"
+msgstr "Dæmpning af virtuelt tastatur"
+
 msgctxt "#30834"
 msgid "Automatic Load Fast-Forward"
 msgstr "CD32/CDTV delt NVRAM"
@@ -2842,6 +3028,12 @@ msgctxt "#30842"
 msgid "WHDLoad Support"
 msgstr "WHDLoad-tema"
 
+msgctxt "#30843"
+msgid ""
+"Enable pre-installed WHDLoad content launching with helper directory filesystems for booting and saving.\n"
+"Core reset required."
+msgstr ""
+
 msgctxt "#30844"
 msgid "WHDLoad Theme"
 msgstr "WHDLoad velkomstskærm"
@@ -2849,6 +3041,14 @@ msgstr "WHDLoad velkomstskærm"
 msgctxt "#30845"
 msgid "WHDLoad Splash Screen"
 msgstr "Global opstartsharddisk"
+
+msgctxt "#30846"
+msgid "WHDLoad ButtonWait"
+msgstr ""
+
+msgctxt "#30847"
+msgid "WHDLoad NoWriteCache"
+msgstr ""
 
 msgctxt "#30848"
 msgid "Global Boot HD"
@@ -2858,114 +3058,6 @@ msgctxt "#30849"
 msgid "Cartridge"
 msgstr "Standard"
 
-msgctxt "#30819"
-msgid "Allow Hz Change"
-msgstr "Linjetilstand"
-
-msgctxt "#30820"
-msgid "Standard"
-msgstr "Billedformat for pixel"
-
-msgctxt "#30821"
-msgid "Pixel Aspect Ratio"
-msgstr "Beskær"
-
-msgctxt "#30823"
-msgid "Resolution"
-msgstr "Zoomtilstand"
-
-msgctxt "#30824"
-msgid "Line Mode"
-msgstr "Beskæringstilstand"
-
-msgctxt "#30825"
-msgid "Crop"
-msgstr "Beskæring for zoomtilstand"
-
-msgctxt "#30827"
-msgid "Crop Mode"
-msgstr "Vandret position"
-
-msgctxt "#30828"
-msgid "Vertical Position"
-msgstr "Øjeblikkelige/ventende blits"
-
-msgctxt "#30829"
-msgid "Horizontal Position"
-msgstr "Kollisionsniveau"
-
-msgctxt "#30830"
-msgid "Remove Interlace Artifacts"
-msgstr "Farvedybde"
-
-msgctxt "#30831"
-msgid "Frameskip"
-msgstr "Tema for virtuelt tastatur"
-
-msgctxt "#30832"
-msgid "Color Gamma"
-msgstr "Gennemsigtighed af virtuelt tastatur"
-
-msgctxt "#30833"
-msgid "Color Depth"
-msgstr "Dæmpning af virtuelt tastatur"
-
-msgctxt "#30895"
-msgid "Virtual KBD Theme"
-msgstr "Tilstand for statuslinje"
-
-msgctxt "#30896"
-msgid "Virtual KBD Transparency"
-msgstr "Beskeder for statuslinje"
-
-msgctxt "#30898"
-msgid "Statusbar Mode"
-msgstr "Adskillelse af stereo"
-
-msgctxt "#30899"
-msgid "Statusbar Startup"
-msgstr "Interpolation"
-
-msgctxt "#30900"
-msgid "Statusbar Messages"
-msgstr "Filter"
-
-msgctxt "#30901"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "Filtertype"
-
-msgctxt "#30811"
-msgid "Stereo Separation"
-msgstr "Emulering af floppy-lyd"
-
-msgctxt "#30812"
-msgid "Interpolation"
-msgstr "Lydløs floppy-lyd ved eject"
-
-msgctxt "#30813"
-msgid "Filter"
-msgstr "Type af floppy-lyd"
-
-msgctxt "#30814"
-msgid "Filter Type"
-msgstr "Mus til analog stick"
-
-msgctxt "#30815"
-msgid "Floppy Sound Emulation"
-msgstr "Dødzone for mus til analog stick"
-
-msgctxt "#30816"
-msgid "Floppy Sound Mute Ejected"
-msgstr "Hastighed for mus til analog stick"
-
-msgctxt "#30817"
-msgid "Floppy Sound Type"
-msgstr "Hastighed for D-Pad mus"
-
-msgctxt "#30818"
-msgid "CD Audio Volume"
-msgstr "Hastighed for mus"
-
 msgctxt "#30850"
 msgid "Analog Stick Mouse"
 msgstr "Fysisk mus"
@@ -2973,6 +3065,18 @@ msgstr "Fysisk mus"
 msgctxt "#30851"
 msgid "Analog Stick Mouse Deadzone"
 msgstr "Gennemgang for tastatur"
+
+msgctxt "#30852"
+msgid "Left Analog Stick Mouse Speed"
+msgstr ""
+
+msgctxt "#30853"
+msgid "Right Analog Stick Mouse Speed"
+msgstr ""
+
+msgctxt "#30854"
+msgid "D-Pad Mouse Speed"
+msgstr ""
 
 msgctxt "#30855"
 msgid "Mouse Speed"
@@ -2989,6 +3093,34 @@ msgstr "Skift joystick/mus"
 msgctxt "#30858"
 msgid "Keyrah Keypad Mappings"
 msgstr "Skift turbo-skyd"
+
+msgctxt "#30859"
+msgid "Turbo Fire"
+msgstr "Indstillinger for face-knap"
+
+msgctxt "#30860"
+msgid "Turbo Button"
+msgstr "Indstillinger for face-knap"
+
+msgctxt "#30861"
+msgid "Turbo Pulse"
+msgstr "Indstillinger for face-knap"
+
+msgctxt "#30862"
+msgid "Joystick/Mouse"
+msgstr "Indstillinger for face-knap"
+
+msgctxt "#30863"
+msgid "Joystick Port Order"
+msgstr "Indstillinger for face-knap"
+
+msgctxt "#30864"
+msgid "RetroPad Face Button Options"
+msgstr ""
+
+msgctxt "#30865"
+msgid "CD32 Pad Face Button Options"
+msgstr ""
 
 msgctxt "#30866"
 msgid "Toggle Turbo Fire"
@@ -3054,6 +3186,26 @@ msgctxt "#30881"
 msgid "L"
 msgstr "H3"
 
+msgctxt "#30882"
+msgid "R"
+msgstr ""
+
+msgctxt "#30883"
+msgid "L2"
+msgstr ""
+
+msgctxt "#30884"
+msgid "R2"
+msgstr ""
+
+msgctxt "#30885"
+msgid "L3"
+msgstr ""
+
+msgctxt "#30886"
+msgid "R3"
+msgstr ""
+
 msgctxt "#30887"
 msgid "Left Analog > Up"
 msgstr "Højre analog > Ned"
@@ -3066,25 +3218,53 @@ msgctxt "#30889"
 msgid "Left Analog > Left"
 msgstr "Højre analog > Højre"
 
-msgctxt "#30859"
-msgid "Turbo Fire"
-msgstr "Indstillinger for face-knap"
+msgctxt "#30890"
+msgid "Left Analog > Right"
+msgstr ""
 
-msgctxt "#30860"
-msgid "Turbo Button"
-msgstr "Indstillinger for face-knap"
+msgctxt "#30891"
+msgid "Right Analog > Up"
+msgstr ""
 
-msgctxt "#30861"
-msgid "Turbo Pulse"
-msgstr "Indstillinger for face-knap"
+msgctxt "#30892"
+msgid "Right Analog > Down"
+msgstr ""
 
-msgctxt "#30862"
-msgid "Joystick/Mouse"
-msgstr "Indstillinger for face-knap"
+msgctxt "#30893"
+msgid "Right Analog > Left"
+msgstr ""
 
-msgctxt "#30863"
-msgid "Joystick Port Order"
-msgstr "Indstillinger for face-knap"
+msgctxt "#30894"
+msgid "Right Analog > Right"
+msgstr ""
+
+msgctxt "#30895"
+msgid "Virtual KBD Theme"
+msgstr "Tilstand for statuslinje"
+
+msgctxt "#30896"
+msgid "Virtual KBD Transparency"
+msgstr "Beskeder for statuslinje"
+
+msgctxt "#30897"
+msgid "Virtual KBD Dimming"
+msgstr ""
+
+msgctxt "#30898"
+msgid "Statusbar Mode"
+msgstr "Adskillelse af stereo"
+
+msgctxt "#30899"
+msgid "Statusbar Startup"
+msgstr "Interpolation"
+
+msgctxt "#30900"
+msgid "Statusbar Messages"
+msgstr "Filter"
+
+msgctxt "#30901"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Filtertype"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"
@@ -3190,37 +3370,13 @@ msgstr "Indstillinger for face-knap"
 #~ msgid "Media > WHDLoad Splash Screen"
 #~ msgstr "Medier > WHDLoad velkomstskærm"
 
-#~ msgctxt "#30027"
-#~ msgid "Media > WHDLoad NoWriteCache"
-#~ msgstr ""
-
-#~ msgctxt "#30028"
-#~ msgid "Media > Global Boot HD"
-#~ msgstr ""
-
 #~ msgctxt "#30029"
 #~ msgid "Media > Cartridge"
 #~ msgstr "Medier > Patron"
 
-#~ msgctxt "#30031"
-#~ msgid "Video > Allow Hz Change"
-#~ msgstr ""
-
-#~ msgctxt "#30032"
-#~ msgid "Video > Standard"
-#~ msgstr ""
-
 #~ msgctxt "#30033"
 #~ msgid "Video > Pixel Aspect Ratio"
 #~ msgstr "Video > Billedformat for pixel"
-
-#~ msgctxt "#30034"
-#~ msgid "Video > Resolution"
-#~ msgstr ""
-
-#~ msgctxt "#30035"
-#~ msgid "Video > Line Mode"
-#~ msgstr ""
 
 #~ msgctxt "#30036"
 #~ msgid "Video > Crop"
@@ -3230,14 +3386,6 @@ msgstr "Indstillinger for face-knap"
 #~ msgid "Video > Crop Mode"
 #~ msgstr "Video > Beskæringstilstand"
 
-#~ msgctxt "#30040"
-#~ msgid "Video > Vertical Position"
-#~ msgstr ""
-
-#~ msgctxt "#30041"
-#~ msgid "Video > Horizontal Position"
-#~ msgstr ""
-
 #~ msgctxt "#30042"
 #~ msgid "Video > Immediate/Waiting Blits"
 #~ msgstr "Video > Øjeblikkelige/ventende blits"
@@ -3245,18 +3393,6 @@ msgstr "Indstillinger for face-knap"
 #~ msgctxt "#30043"
 #~ msgid "Video > Collision Level"
 #~ msgstr "Video > Kollisionsniveau"
-
-#~ msgctxt "#30044"
-#~ msgid "Video > Remove Interlace Artifacts"
-#~ msgstr ""
-
-#~ msgctxt "#30045"
-#~ msgid "Video > Frameskip"
-#~ msgstr ""
-
-#~ msgctxt "#30046"
-#~ msgid "Video > Color Gamma"
-#~ msgstr ""
 
 #~ msgctxt "#30047"
 #~ msgid "Video > Color Depth"
@@ -3278,50 +3414,6 @@ msgstr "Indstillinger for face-knap"
 #~ msgid "OSD > Statusbar Mode"
 #~ msgstr "OSD > Tilstand for statuslinje"
 
-#~ msgctxt "#30052"
-#~ msgid "OSD > Statusbar Startup"
-#~ msgstr ""
-
-#~ msgctxt "#30053"
-#~ msgid "OSD > Statusbar Messages"
-#~ msgstr ""
-
-#~ msgctxt "#30054"
-#~ msgid "OSD > Light Pen/Gun Pointer Color"
-#~ msgstr ""
-
-#~ msgctxt "#30056"
-#~ msgid "Audio > Stereo Separation"
-#~ msgstr ""
-
-#~ msgctxt "#30057"
-#~ msgid "Audio > Interpolation"
-#~ msgstr ""
-
-#~ msgctxt "#30058"
-#~ msgid "Audio > Filter"
-#~ msgstr ""
-
-#~ msgctxt "#30059"
-#~ msgid "Audio > Filter Type"
-#~ msgstr ""
-
-#~ msgctxt "#30060"
-#~ msgid "Audio > Floppy Sound Emulation"
-#~ msgstr ""
-
-#~ msgctxt "#30061"
-#~ msgid "Audio > Floppy Sound Mute Ejected"
-#~ msgstr ""
-
-#~ msgctxt "#30062"
-#~ msgid "Audio > Floppy Sound Type"
-#~ msgstr ""
-
-#~ msgctxt "#30063"
-#~ msgid "Audio > CD Audio Volume"
-#~ msgstr ""
-
 #~ msgctxt "#30064"
 #~ msgid "Input > Analog Stick Mouse"
 #~ msgstr "Input > Mus til analog stick"
@@ -3337,10 +3429,6 @@ msgstr "Indstillinger for face-knap"
 #~ msgctxt "#30068"
 #~ msgid "Input > Mouse Speed"
 #~ msgstr "Input > Hastighed for mus"
-
-#~ msgctxt "#30069"
-#~ msgid "Input > Physical Mouse"
-#~ msgstr ""
 
 #~ msgctxt "#30070"
 #~ msgid "Input > Keyboard Pass-through"
@@ -3358,10 +3446,6 @@ msgstr "Indstillinger for face-knap"
 #~ msgid "Hotkey > Toggle Statusbar"
 #~ msgstr "Genvej > Skift statuslinje"
 
-#~ msgctxt "#30075"
-#~ msgid "Hotkey > Switch Joystick/Mouse"
-#~ msgstr ""
-
 #~ msgctxt "#30076"
 #~ msgid "Hotkey > Toggle Turbo Fire"
 #~ msgstr "Genvej > Skift turbo-skyd"
@@ -3370,10 +3454,6 @@ msgstr "Indstillinger for face-knap"
 #~ msgid "Hotkey > Toggle Save Disk"
 #~ msgstr "Genvej > Skift gem disk"
 
-#~ msgctxt "#30078"
-#~ msgid "Hotkey > Reset"
-#~ msgstr ""
-
 #~ msgctxt "#30079"
 #~ msgid "Hotkey > Toggle Aspect Ratio"
 #~ msgstr "Genvej > Skift billedformat"
@@ -3381,166 +3461,6 @@ msgstr "Indstillinger for face-knap"
 #~ msgctxt "#30080"
 #~ msgid "Hotkey > Toggle Crop"
 #~ msgstr "Genvej > Skift beskæring"
-
-#~ msgctxt "#30082"
-#~ msgid "RetroPad > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30083"
-#~ msgid "RetroPad > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30084"
-#~ msgid "RetroPad > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30085"
-#~ msgid "RetroPad > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30086"
-#~ msgid "RetroPad > B"
-#~ msgstr ""
-
-#~ msgctxt "#30087"
-#~ msgid "RetroPad > A"
-#~ msgstr ""
-
-#~ msgctxt "#30088"
-#~ msgid "RetroPad > Y"
-#~ msgstr ""
-
-#~ msgctxt "#30089"
-#~ msgid "RetroPad > X"
-#~ msgstr ""
-
-#~ msgctxt "#30090"
-#~ msgid "RetroPad > Select"
-#~ msgstr ""
-
-#~ msgctxt "#30091"
-#~ msgid "RetroPad > Start"
-#~ msgstr ""
-
-#~ msgctxt "#30092"
-#~ msgid "RetroPad > L"
-#~ msgstr ""
-
-#~ msgctxt "#30093"
-#~ msgid "RetroPad > R"
-#~ msgstr ""
-
-#~ msgctxt "#30094"
-#~ msgid "RetroPad > L2"
-#~ msgstr ""
-
-#~ msgctxt "#30095"
-#~ msgid "RetroPad > R2"
-#~ msgstr ""
-
-#~ msgctxt "#30096"
-#~ msgid "RetroPad > L3"
-#~ msgstr ""
-
-#~ msgctxt "#30097"
-#~ msgid "RetroPad > R3"
-#~ msgstr ""
-
-#~ msgctxt "#30098"
-#~ msgid "RetroPad > Left Analog > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30099"
-#~ msgid "RetroPad > Left Analog > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30100"
-#~ msgid "RetroPad > Left Analog > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30101"
-#~ msgid "RetroPad > Left Analog > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30102"
-#~ msgid "RetroPad > Right Analog > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30103"
-#~ msgid "RetroPad > Right Analog > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30104"
-#~ msgid "RetroPad > Right Analog > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30105"
-#~ msgid "RetroPad > Right Analog > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30106"
-#~ msgid "RetroPad > Turbo Fire"
-#~ msgstr ""
-
-#~ msgctxt "#30107"
-#~ msgid "RetroPad > Turbo Button"
-#~ msgstr ""
-
-#~ msgctxt "#30108"
-#~ msgid "RetroPad > Turbo Pulse"
-#~ msgstr ""
-
-#~ msgctxt "#30109"
-#~ msgid "RetroPad > Joystick/Mouse"
-#~ msgstr ""
-
-#~ msgctxt "#30110"
-#~ msgid "RetroPad > Joystick Port Order"
-#~ msgstr ""
-
-#~ msgctxt "#30111"
-#~ msgid "RetroPad > Face Button Options"
-#~ msgstr ""
-
-#~ msgctxt "#30112"
-#~ msgid "CD32 Pad > Face Button Options"
-#~ msgstr ""
-
-#~ msgctxt "#30113"
-#~ msgid "Video > Automatic Crop Delay"
-#~ msgstr ""
-
-#~ msgctxt "#30114"
-#~ msgid "Input > Left Analog Stick Mouse Speed"
-#~ msgstr ""
-
-#~ msgctxt "#30115"
-#~ msgid "Input > Right Analog Stick Mouse Speed"
-#~ msgstr ""
-
-#~ msgctxt "#30116"
-#~ msgid "Media > WHDLoad ButtonWait"
-#~ msgstr ""
-
-#~ msgctxt "#30240"
-#~ msgid ""
-#~ "Hotkey toggling disables this option until core restart.\n"
-#~ "- 'PAL': 26/25 = 1.04\n"
-#~ "- 'NTSC': 43/50 = 0.86"
-#~ msgstr ""
-
-#~ msgctxt "#30312"
-#~ msgid "HDFs"
-#~ msgstr ""
-
-#~ msgctxt "#30786"
-#~ msgid ""
-#~ "Enable launching pre-installed WHDLoad installs. Creates a helper boot image for loading content and an empty image for saving. Legacy 'HDFs' mode is not recommended!\n"
-#~ "Core reset required.\n"
-#~ "- 'Files' creates data in directories\n"
-#~ "- 'HDFs' creates data in images\n"
-#~ "- 'OFF' boots hard drive images directly"
-#~ msgstr ""
 
 #~ msgctxt "#30037"
 #~ msgid "Video > Zoom Mode"
